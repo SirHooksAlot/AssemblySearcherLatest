@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="LSharpAssemblyDatabase.exe" version="2.0.6.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="LSharpAssemblyDatabase.exe" version="2.1.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:publisher="SirHooksAlot" co.v1:suiteName="LSharpChronicles" asmv2:product="LSharpAssemblySearcher" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -51,7 +51,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>JG6yv17v3um5bvnaehcqUd9mGoMy0qi5nzSCacdq14Q=</dsig:DigestValue>
+        <dsig:DigestValue>wNRRxOEZN/REE1Jos9A0H1/lGiYqF/XyeIjuvCYn40c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -139,7 +139,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>VYa6smQV/hWo1aznerkyNY0/8K9ii4rK8yZBUpODiqY=</dsig:DigestValue>
+      <dsig:DigestValue>Qd60+DGk0CyAsfZTOK4DTPjIJ6aXFjyqch4+b7ff6f0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\FilePath.txt" size="0">
