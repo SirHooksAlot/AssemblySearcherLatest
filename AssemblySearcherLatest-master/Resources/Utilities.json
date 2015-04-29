@@ -1,0 +1,148 @@
+﻿{
+    "Evade#": [
+        {
+            "UtilName": "Evade#",
+            "UtilGithub": "https://github.com/Esk0r/LeagueSharp/tree/master/Evade",
+            "UtilInstall":  "ls://project/Esk0r/LeagueSharp/Evade/",
+            "UtilCoders": "Kortatu"
+        }
+    ],
+    "Oracle#": [
+        {
+            "UtilName": "Oracle#",
+            "UtilGithub": "https://github.com/xKurisu/KurisuSolutions/tree/master/Oracle%20(Activator)",
+            "UtilInstall":  "ls://project/xKurisu/KurisuSolutions/Oracle%20(Activator)/",
+            "UtilCoders": "xKurisu"
+        }
+    ],
+    "Humanizer#": [
+        {
+            "UtilName": "Humanizer#",
+            "UtilGithub": "https://github.com/trees-software/leaguesharp/tree/master/Humanizer",
+            "UtilInstall":  "ls://project/trees-software/leaguesharp/Humanizer/",
+            "UtilCoders": "Trees"
+        }
+    ],
+    "Tracker#": [
+        {
+            "UtilName": "Tracker#",
+            "UtilGithub": "https://github.com/TC-Crew/L-Assemblies/tree/master/Tracker",
+            "UtilInstall":  "ls://project/TC-Crew/L-Assemblies/Tracker/",
+            "UtilCoders": "IMeh"
+        }
+    ],
+    "LookasideBar": [
+        {
+            "UtilName": "LookasideBar",
+            "UtilGithub": "https://github.com/lookaside/LookasideBar",
+            "UtilInstall":  "ls://project/lookaside/LookasideBar/",
+            "UtilCoders": "lookaside"
+        }
+    ],
+    "God Jungle Tracker": [
+        {
+            "UtilName": "God Jungle Tracker",
+            "UtilGithub": "https://github.com/AlphaGodLoL/LeagueSharp",
+            "UtilInstall":  "ls://project/AlphaGodLoL/LeagueSharp/God%20Jungle%20Tracker/",
+            "UtilCoders": "AlphaGod"
+        }
+    ],
+    "BlackFeeder": [
+        {
+            "UtilName": "BlackFeeder",
+            "UtilGithub": "https://github.com/blackyy/LeagueSharp/tree/master/BlackFeeder",
+            "UtilInstall":  "ls://project/blackyy/LeagueSharp/BlackFeeder/",
+            "UtilCoders": "AlphaGod"
+        }
+    ],
+    "[WIP] AiM": [
+        {
+            "UtilName": "[WIP] AiM - Smart ARAM Bot v1.2",
+            "UtilGithub": "https://github.com/trees-software/AIM",
+            "UtilInstall":  "ls://project/trees-software/AIM/",
+            "UtilCoders": "imsosharp"
+        }
+    ],
+    "NoMoreFreezes": [
+        {
+            "UtilName": "NoMoreFreezes",
+            "UtilGithub": "https://github.com/Nouser/Leaguesharp/tree/master/LeagueSharp/NoMoreFreezes/NoMoreFreezes/",
+            "UtilInstall":  "ls://project/Nouser/Leaguesharp/NoMoreFreezes/",
+            "UtilCoders": "Nouser"
+        }
+    ],
+    "WASD Controls": [
+        {
+            "UtilName": "WASD Controls",
+            "UtilGithub": "https://github.com/TehBlaxxor/LeagueSharp",
+            "UtilInstall":  "ls://project/TehBlaxxor/LeagueSharp/WASD%20Controls/WASD%20Controls/",
+            "UtilCoders": "Nouser"
+        }
+    ],
+    "ezEvade": [
+        {
+            "UtilName": "ezEvade",
+            "UtilGithub": "https://github.com/soulcaliber/LeagueSharp",
+            "UtilInstall":  "ls://project/soulcaliber/LeagueSharp/ezEvade/",
+            "UtilCoders": "Mayomie"
+        }
+    ],
+    "Anti FUCKING Rengar": [
+        {
+            "UtilName": "Anti FUCKING Rengar",
+            "UtilGithub": "https://github.com/DZ191/LSharpDZiJava",
+            "UtilInstall":  "ls://project/DZ191/LSharpDZiJava/AntiFUCKINGRengar/",
+            "UtilCoders": "iJabba"
+        }
+    ],
+    "CS Counter": [
+        {
+            "UtilName": "CS Counter",
+            "UtilGithub": "https://github.com/KyonLeague/LeagueSharp",
+            "UtilInstall":  "ls://project/KyonLeague/LeagueSharp/CSCounter/",
+            "UtilCoders": "Kyon"
+        }
+    ],
+    "SFXUtility": [
+        {
+            "UtilName": "SFXUtility",
+            "UtilGithub": "https://github.com/Lizzaran/LeagueSharp-Dev/tree/master/SFXUtility/",
+            "UtilInstall":  "ls://project/Lizzaran/LeagueSharp-Dev/SFXUtility/",
+            "UtilCoders": "Lizzaran"
+        }
+    ],
+    "Annie Stun Notifier": [
+        {
+            "UtilName": "Annie Stun Notifier",
+            "UtilGithub": "https://github.com/DrakeSharp/LeagueSharp/tree/master/AnnieStun/",
+            "UtilInstall":  "ls://project/DrakeSharp/LeagueSharp/AnnieStun/",
+            "UtilCoders": "Drake"
+        }
+    ],
+    "Damage Indicator": [
+        {
+            "UtilName": "Damage Indicator",
+            "UtilGithub": "https://github.com/KyonLeague/LeagueSharp/",
+            "UtilInstall":  "ls://project/Kyonleague/LeagueSharp/DMGinc/",
+            "UtilCoders": "Drake"
+        }
+    ],
+     "Damage Indicator": [
+        {
+            "UtilName": "Damage Indicator",
+            "UtilGithub": "https://github.com/KyonLeague/LeagueSharp/",
+            "UtilInstall":  "ls://project/Kyonleague/LeagueSharp/DMGinc/",
+            "UtilCoders": "Drake"
+        }
+    ],
+     "Dev Essentials": [
+        {
+            "UtilName": "Dev Essentials",
+            "UtilGithub": "https://github.com/SwipeDan/LeagueSharp/tree/master/Dev_Essentials/Dev_Essentials/",
+            "UtilInstall":  "ls://project/SwipeDan/LeagueSharp/Dev_Essentials/",
+            "UtilCoders": "Danz"
+        }
+    ]
+
+    
+}
