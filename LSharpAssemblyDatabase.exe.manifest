@@ -51,7 +51,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>qliI8HZTIVwmhPYXd4ekQJaPumP+QQAOTrA8d5+epe4=</dsig:DigestValue>
+        <dsig:DigestValue>k9NLezJV7LsBKsAEJPVTFxTOZ21oYDQv73khxYMwwDI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -124,18 +124,6 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
         <dsig:DigestValue>SgkzwT9/NtLZWYbv3JL6ATp4U0th5TVCNzm/MwV6zD4=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Data.SqlServerCe.dll" size="470240">
-      <assemblyIdentity name="System.Data.SqlServerCe" version="4.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fzAjKmnGW7OJ3tIr3/LRns9mJFYblHB1es3oCxTi/k0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
