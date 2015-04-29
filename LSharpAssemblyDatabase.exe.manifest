@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="LSharpAssemblyDatabase.exe" DatabaseVersion="2.0.6.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
-  <description asmv2:publisher="LSharpAssemblyDatabase" asmv2:product="LSharpAssemblyDatabase" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <asmv1:assemblyIdentity name="LSharpAssemblyDatabase.exe" version="2.0.6.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:publisher="SirHooksAlot" co.v1:suiteName="LSharpChronicles" asmv2:product="LSharpAssemblySearcher" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="LSharpAssemblyDatabase" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="LSharpAssemblyDatabase" version="2.0.6.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="LSharpAssemblyDatabase.exe" parameters="" />
   </entryPoint>
   <co.v1:useManifestForTrust xmlns="urn:schemas-microsoft-com:asm.v1" />
@@ -44,14 +44,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LSharpAssemblyDatabase.exe" size="4599296">
-      <assemblyIdentity name="LSharpAssemblyDatabase" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LibGit2Sharp.dll" size="339968">
+      <assemblyIdentity name="LibGit2Sharp" version="0.21.0.176" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fqLpISdewrCjznTN5Pzada7R1Z9oBJnH60S6cCEVrF0=</dsig:DigestValue>
+        <dsig:DigestValue>QtNlNkklY1cg2vJHmO3dXWWtRZmqPw5LkyV2QaLpuME=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LSharpAssemblyDatabase.exe" size="4598784">
+      <assemblyIdentity name="LSharpAssemblyDatabase" version="2.0.6.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Q01Hi7FTixsndYCiEqrONdDpXeAcNorKaTfcV4HEsUg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -104,14 +116,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NuGet.Core.dll" size="519336">
-      <assemblyIdentity name="NuGet.Core" version="2.8.50926.602" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NuGet.Core.dll" size="519856">
+      <assemblyIdentity name="NuGet.Core" version="2.8.60318.667" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2hiRTqdbD7JBP3WteBdsw+se8JqNOCR94W5vhaZGuvM=</dsig:DigestValue>
+        <dsig:DigestValue>KXwe0FN0AWkmQkd2cQdwU4Bfbfjo837U3Fl7hxYFDoU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
