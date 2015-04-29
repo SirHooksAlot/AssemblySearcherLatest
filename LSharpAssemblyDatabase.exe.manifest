@@ -44,14 +44,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LSharpAssemblyDatabase.exe" size="4604416">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LSharpAssemblyDatabase.exe" size="4599296">
       <assemblyIdentity name="LSharpAssemblyDatabase" version="2.0.6.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>aA/Q9OOw/YxmfYGe/dh4zr3aBkK92+eQhHAq00qqif0=</dsig:DigestValue>
+        <dsig:DigestValue>+vbT3dTmFQGDVw8lX4Odey+cIC86EpCdgnr14RWwkAU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -131,24 +131,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>J1l1a4TgLKKpQhYArG2bA/AllWVFQOzaNaYxl550RqU=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\CurrentVersion.txt" size="5">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>gkj3dyaHr/CxA7NomJCN64ISYzf5M+SaWsBIKQk8WP8=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\FilePath.txt" size="0">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\Utilities.json" size="5373">
