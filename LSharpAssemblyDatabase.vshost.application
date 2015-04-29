@@ -7,14 +7,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="LSharpAssemblyDatabase.exe.manifest" size="10170">
+    <dependentAssembly dependencyType="install" codebase="LSharpAssemblyDatabase.exe.manifest" size="8787">
       <assemblyIdentity name="LSharpAssemblyDatabase.exe" version="2.0.6.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>IITJcwrnQtyc1yYZY3l5U8EdRxQYmDOBGMhfBKpinC8=</dsig:DigestValue>
+        <dsig:DigestValue>/q+Z8miUwAdl2PcLmB6+7hKaTV5WufU163I+OTg1AG8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
