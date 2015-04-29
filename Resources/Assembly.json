@@ -1,0 +1,3866 @@
+﻿{
+    "Aatrox": [
+        {
+           "ScriptName": "BrianSharp",
+           "ScripterName": "Brian",
+           "ChampionID": 1,
+           "ChampionName": "Aatrox",
+           "ScriptInstallLink": "ls://project/brian0305/LeagueSharp/Brian%20Sharp/",
+           "ScriptGithubLink": "https://github.com/brian0305/LeagueSharp" //commit[0]
+        },
+        {
+           "ScriptName": "AIO",
+           "ScripterName": "prokopis",
+           "ChampionID": 1,
+           "ChampionName": "Aatrox",
+           "ScriptInstallLink": "ls://project/prokopis/AIO/AIO/",
+           "ScriptGithubLink": "https://github.com/prokopis/AIO" //commit[0]
+        },
+        {
+           "ScriptName": "Aatrox - Adeirz",
+           "ScripterName": "livetorise",
+           "ChampionID": 1,
+           "ChampionName": "Aatrox",
+           "ScriptInstallLink": "ls://project/livetorise/LeagueSharp/Aatrox/",
+           "ScriptGithubLink": "https://github.com/livetorise/LeagueSharp" //commit[0]
+        },
+        {
+           "ScriptName": "Top or AFK",
+           "ScripterName": "TehBlaxxor",
+           "ChampionID": 1,
+           "ChampionName": "Aatrox",
+           "ScriptInstallLink": "ls://project/TehBlaxxor/LeagueSharp/Top%20or%20AFK/",
+           "ScriptGithubLink": "https://github.com/TehBlaxxor/LeagueSharp" //
+        },
+        {
+           "ScriptName": "Aatrox",
+           "ScripterName": "AureusxD",
+           "ChampionID": 1,
+           "ChampionName": "Aatrox",
+           "ScriptInstallLink": "ls://project/AureusXD/LeagueSharp/Aatrox/",
+           "ScriptGithubLink": "https://github.com/AureusXD/LeagueSharp"
+        }
+    ],
+    "Ahri": [
+        {
+           "ScriptName": "Mid or Feed",
+           "ScripterName": "ChewyMoon",
+           "ChampionID": 2,
+           "ChampionName": "Ahri",
+           "ScriptInstallLink": "ls://project/ChewyMoon/ChewyMoonScripts/Mid%20or%20Feed/",
+           "ScriptGithubLink": "https://github.com/ChewyMoon/ChewyMoonScripts"
+        },
+        {
+           "ScriptName": "EasyAhri",
+           "ScripterName": "ikkeflikkeri",
+           "ChampionID": 2,
+           "ChampionName": "Ahri",
+           "ScriptInstallLink": "ls://project/ikkeflikkeri/LeagueSharp/EasyAhri/",
+           "ScriptGithubLink": "https://github.com/ikkeflikkeri/LeagueSharp"
+        },
+        {
+           "ScriptName": "AhriSharp",
+           "ScripterName": "Beaving",
+           "ChampionID": 2,
+           "ChampionName": "Ahri",
+           "ScriptInstallLink": "ls://project/Beaving/LeagueSharp/AhriSharp/",
+           "ScriptGithubLink": "https://github.com/Beaving/LeagueSharp"
+        },
+        {
+           "ScriptName": "RexxieAIO",
+           "ScripterName": "Rexxie",
+           "ChampionID": 2,
+           "ChampionName": "Ahri",
+           "ScriptInstallLink": "ls://project/Rexxie/L-/RexxieAIO/",
+           "ScriptGithubLink": "https://github.com/Rexxie/L-"
+        },
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 2,
+           "ChampionName": "Ahri",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 2,
+           "ChampionName": "Ahri",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        }
+    ],
+    "Akali": [
+        {
+           "ScriptName": "Akali",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 3,
+           "ChampionName": "Akali",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/Akali/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "Mid or Feed",
+           "ScripterName": "ChewyMoon",
+           "ChampionID": 3,
+           "ChampionName": "Akali",
+           "ScriptInstallLink": "ls://project/ChewyMoon/ChewyMoonScripts/Mid%20or%20Feed/",
+           "ScriptGithubLink": "https://github.com/ChewyMoon/ChewyMoonScripts"
+        },
+        {
+           "ScriptName": "Stoned Series",
+           "ScripterName": "TheKushStyle",
+           "ChampionID": 3,
+           "ChampionName": "Akali",
+           "ScriptInstallLink": "ls://project/TheKushStyle/LeagueSharp/StonedSeriesAIO/",
+           "ScriptGithubLink": "https://github.com/TheKushStyle/LeagueSharp"
+        },
+        {
+           "ScriptName": "Akali - ChoGart",
+           "ScripterName": "livetorise",
+           "ChampionID": 3,
+           "ChampionName": "Akali",
+           "ScriptInstallLink": "ls://project/livetorise/LeagueSharp/Akali/",
+           "ScriptGithubLink": "https://github.com/livetorise/LeagueSharp"
+        },
+        {
+           "ScriptName": "Royal Rapist Akali",
+           "ScripterName": "princer007",
+           "ChampionID": 3,
+           "ChampionName": "Akali",
+           "ScriptInstallLink": "ls://project/princer007/LSResurrected/RoyalRapistAkali/",
+           "ScriptGithubLink": "https://github.com/princer007/LSResurrected"
+        },
+        {
+           "ScriptName": "Kysama-Series",
+           "ScripterName": "Kysamaa",
+           "ChampionID": 3,
+           "ChampionName": "Akali",
+           "ScriptInstallLink": "ls://project/Kysamaa/Leaguesharp/Kysama-Series/",
+           "ScriptGithubLink": "https://github.com/Kysamaa/Leaguesharp"
+        },
+        {
+           "ScriptName": "AkaliShadow",
+           "ScripterName": "xTeKillax",
+           "ChampionID": 3,
+           "ChampionName": "Akali",
+           "ScriptInstallLink": "ls://project/xTeKillax/LeagueSharp/AkaliShadow/",
+           "ScriptGithubLink": "https://github.com/xTeKillax/LeagueSharp"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 3,
+           "ChampionName": "Akali",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        }
+    ],
+    "Alistar": [
+        {
+           "ScriptName": "ElAlistar:Reborn",
+           "ScripterName": "JQuery",
+           "ChampionID": 4,
+           "ChampionName": "Alistar",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElBundle/ElAlistarReborn/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        },
+        {
+           "ScriptName": "Support",
+           "ScripterName": "h3h3",
+           "ChampionID": 4,
+           "ChampionName": "Alistar",
+           "ScriptInstallLink": "ls://project/h3h3/LeagueSharp/Support/",
+           "ScriptGithubLink": "https://github.com/h3h3/LeagueSharp"
+        }
+    ],
+    "Amumu": [
+        {
+           "ScriptName": "BrianSharp",
+           "ScripterName": "Brian",
+           "ChampionID": 5,
+           "ChampionName": "Amumu",
+           "ScriptInstallLink": "ls://project/brian0305/LeagueSharp/Brian%20Sharp/",
+           "ScriptGithubLink": "https://github.com/brian0305/LeagueSharp"
+        },
+        {
+           "ScriptName": "DJ Amumu",
+           "ScripterName": "xMusic",
+           "ChampionID": 5,
+           "ChampionName": "Amumu",
+           "ScriptInstallLink": "ls://project/xMusicLS/LeagueSharp/DJ%20Amumu/",
+           "ScriptGithubLink": "https://github.com/xMusicLS/LeagueSharp"
+        },
+        {
+           "ScriptName": "StonedAmumu",
+           "ScripterName": "TheKushStyle",
+           "ChampionID": 5,
+           "ChampionName": "Amumu",
+           "ScriptInstallLink": "ls://project/TheKushStyle/LeagueSharp/StonedAmumu/",
+           "ScriptGithubLink": "https://github.com/TheKushStyle/LeagueSharp"
+        },
+        {
+           "ScriptName": "AmumuSharp",
+           "ScripterName": "Beaving",
+           "ChampionID": 5,
+           "ChampionName": "Amumu",
+           "ScriptInstallLink": "ls://project/Beaving/LeagueSharp/AmumuSharp/",
+           "ScriptGithubLink": "https://github.com/Beaving/LeagueSharp"
+        },
+        {
+           "ScriptName": "Kysama-Series",
+           "ScripterName": "Kysamaa",
+           "ChampionID": 5,
+           "ChampionName": "Amumu",
+           "ScriptInstallLink": "ls://project/Kysamaa/Leaguesharp/Kysama-Series/",
+           "ScriptGithubLink": "https://github.com/Kysamaa/Leaguesharp"
+        },
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 5,
+           "ChampionName": "Amumu",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        }
+    ],
+    "Anivia": [
+        {
+           "ScriptName": "Anivia OKTW",
+           "ScripterName": "OneKeyToWin",
+           "ChampionID": 6,
+           "ChampionName": "Anivia",
+           "ScriptInstallLink": "ls://project/OneKeyToWin/LeagueRepo/Anivia_OKTW/",
+           "ScriptGithubLink": "https://github.com/OneKeyToWin/LeagueRepo"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 6,
+           "ChampionName": "Anivia",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        }
+    ],
+    "Annie": [
+        {
+           "ScriptName": "Annie OKTW",
+           "ScripterName": "OneKeyToWin",
+           "ChampionID": 7,
+           "ChampionName": "Annie",
+           "ScriptInstallLink": "ls://project/OneKeyToWin/LeagueRepo/Annie/",
+           "ScriptGithubLink": "https://github.com/OneKeyToWin/LeagueRepo"
+        },
+        {
+           "ScriptName": "DevAnnie",
+           "ScripterName": "InjectionDev",
+           "ChampionID": 7,
+           "ChampionName": "Annie",
+           "ScriptInstallLink": "ls://project/InjectionDev/LeagueSharp/DevAnnie/",
+           "ScriptGithubLink": "https://github.com/InjectionDev/LeagueSharp"
+        },
+        {
+           "ScriptName": "GNomeProject",
+           "ScripterName": "Gnomexfire",
+           "ChampionID": 7,
+           "ChampionName": "Annie",
+           "ScriptInstallLink": "ls://project/Gnomexfire/GNomeProject/GNomeProject/",
+           "ScriptGithubLink": "https://github.com/Gnomexfire/GNomeProject"
+        },
+        {
+           "ScriptName": "Annie",
+           "ScripterName": "TC-Crew",
+           "ChampionID": 7,
+           "ChampionName": "Annie",
+           "ScriptInstallLink": "ls://project/TC-Crew/L-Assemblies/Annie/",
+           "ScriptGithubLink": "https://github.com/TC-Crew/L-Assemblies"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 7,
+           "ChampionName": "Annie",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        }
+    ],
+    "Ashe": [
+        {
+           "ScriptName": "[xcsoft] SharpShooter",
+           "ScripterName": "xcsoft",
+           "ChampionID": 8,
+           "ChampionName": "Ashe",
+           "ScriptInstallLink": "ls://project/xcsoftforlsharp/LeagueSharp/[xcsoft]%20SharpShooter/",
+           "ScriptGithubLink": "https://github.com/xcsoftforlsharp/LeagueSharp"
+        },
+        {
+           "ScriptName": "RoyalAsheHelper",
+           "ScripterName": "princer007",
+           "ChampionID": 8,
+           "ChampionName": "Ashe",
+           "ScriptInstallLink": "ls://project/princer007/LSResurrected/RoyalAsheHelper/",
+           "ScriptGithubLink": "https://github.com/princer007/LSResurrected"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 8,
+           "ChampionName": "Ashe",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        }
+    ],
+    "Azir": [
+        {
+           "ScriptName": "Azir",
+           "ScripterName": "Esk0r",
+           "ChampionID": 9,
+           "ChampionName": "Azir",
+           "ScriptInstallLink": "ls://project/Esk0r/LeagueSharp/Azir/",
+           "ScriptGithubLink": "https://github.com/Esk0r/LeagueSharp"
+        },
+        {
+           "ScriptName": "Azir The Emperor Of Solo Queue",
+           "ScripterName": "sciasfreelancer",
+           "ChampionID": 9,
+           "ChampionName": "Azir",
+           "ScriptInstallLink": "ls://project/sciasfreelancer/LeagueSharp/AzirTheEmperorOfSoloQueue/",
+           "ScriptGithubLink": "https://github.com/sciasfreelancer/LeagueSharp"
+        },
+        {
+           "ScriptName": "Trees Azir",
+           "ScripterName": "Trees",
+           "ChampionID": 9,
+           "ChampionName": "Azir",
+           "ScriptInstallLink": "ls://project/trees-software/leaguesharp/Azir/",
+           "ScriptGithubLink": "https://github.com/trees-software/leaguesharp"
+        },
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 9,
+           "ChampionName": "Azir",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 9,
+           "ChampionName": "Azir",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        }
+    ],
+    "Bard": [
+        {
+           "ScriptName": "DesomongBard",
+           "ScripterName": "desomond",
+           "ChampionID": 10,
+           "ChampionName": "Bard",
+           "ScriptInstallLink": "ls://project/desomond/LeagueSharp/DesomondBard/",
+           "ScriptGithubLink": "https://github.com/desomond/LeagueSharp"
+        }
+    ],
+    "Blitzcrank": [
+        {
+           "ScriptName": "Blitzcrank OKTW",
+           "ScripterName": "OneKeyToWin",
+           "ChampionID": 11,
+           "ChampionName": "Blitzcrank",
+           "ScriptInstallLink": "ls://project/OneKeyToWin/LeagueRepo/Blitzcrank/",
+           "ScriptGithubLink": "https://github.com/OneKeyToWin/LeagueRepo"
+        },
+        {
+           "ScriptName": "Support",
+           "ScripterName": "h3h3",
+           "ChampionID": 11,
+           "ChampionName": "Blitzcrank",
+           "ScriptInstallLink": "ls://project/h3h3/LeagueSharp/Support/",
+           "ScriptGithubLink": "https://github.com/h3h3/LeagueSharp"
+        },
+        {
+           "ScriptName": "KirisuBlitz",
+           "ScripterName": "Kurisu",
+           "ChampionID": 11,
+           "ChampionName": "Blitzcrank",
+           "ScriptInstallLink": "ls://project/xKurisu/KurisuSolutions/KurisuBlitz/",
+           "ScriptGithubLink": "https://github.com/xKurisu/KurisuSolutions"
+        },
+        {
+           "ScriptName": "Kysama-Series",
+           "ScripterName": "Kysamaa",
+           "ChampionID": 11,
+           "ChampionName": "Blitzcrank",
+           "ScriptInstallLink": "ls://project/Kysamaa/Leaguesharp/Kysama-Series/",
+           "ScriptGithubLink": "https://github.com/Kysamaa/Leaguesharp"
+        }
+    ],
+    "Brand": [
+        {
+           "ScriptName": "DevBrand",
+           "ScripterName": "InjectionDev",
+           "ChampionID": 12,
+           "ChampionName": "Brand",
+           "ScriptInstallLink": "InjectionDev/LeagueSharp/DevBrand/",
+           "ScriptGithubLink": "https://github.com/InjectionDev/LeagueSharp"
+        },
+        {
+           "ScriptName": "DatBrand",
+           "ScripterName": "GoldenGatesPB",
+           "ChampionID": 12,
+           "ChampionName": "Brand",
+           "ScriptInstallLink": "ls://project/GoldenGatesPB/league-sharp/DatBrand/",
+           "ScriptGithubLink": "https://github.com/GoldenGatesPB/league-sharp"
+        },
+        {
+           "ScriptName": "Brand",
+           "ScripterName": "Hellsing",
+           "ChampionID": 12,
+           "ChampionName": "Brand",
+           "ScriptInstallLink": "ls://project/Hellsing/LeagueSharp/Brand/",
+           "ScriptGithubLink": "https://github.com/Hellsing/LeagueSharp"
+        }
+    ],
+    "Braum": [
+        {
+           "ScriptName": "Support",
+           "ScripterName": "h3h3",
+           "ChampionID": 13,
+           "ChampionName": "Braum",
+           "ScriptInstallLink": "ls://project/h3h3/LeagueSharp/Support/",
+           "ScriptGithubLink": "https://github.com/h3h3/LeagueSharp"
+        }
+    ],
+    "Caitlyn": [
+        {
+           "ScriptName": "Caitlyn OKTW",
+           "ScripterName": "OneKeyToWin",
+           "ChampionID": 14,
+           "ChampionName": "Caitlyn",
+           "ScriptInstallLink": "ls://project/OneKeyToWin/LeagueRepo/Caitlyn/",
+           "ScriptGithubLink": "https://github.com/OneKeyToWin/LeagueRepo"
+        },
+        {
+           "ScriptName": "DZAIO",
+           "ScripterName": "DZ191",
+           "ChampionID": 14,
+           "ChampionName": "Caitlyn",
+           "ScriptInstallLink": "ls://project/DZ191/LeagueSharp/DZAIO/",
+           "ScriptGithubLink": "https://github.com/DZ191/LeagueSharp"
+        },
+        {
+           "ScriptName": "[xcsoft] SharpShooter",
+           "ScripterName": "xcsoft",
+           "ChampionID": 14,
+           "ChampionName": "Caitlyn",
+           "ScriptInstallLink": "ls://project/xcsoftforlsharp/LeagueSharp/[xcsoft]%20SharpShooter/",
+           "ScriptGithubLink": "https://github.com/xcsoftforlsharp/LeagueSharp"
+        },
+        {
+           "ScriptName": "FedCaitlyn",
+           "ScripterName": "livetorise",
+           "ChampionID": 14,
+           "ChampionName": "Caitlyn",
+           "ScriptInstallLink": "ls://project/livetorise/LeagueSharp/FedCaitlyn/",
+           "ScriptGithubLink": "https://github.com/livetorise/LeagueSharp"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 14,
+           "ChampionName": "Caitlyn",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        }
+    ],
+    "Cassiopeia": [
+        {
+           "ScriptName": "DZAIO",
+           "ScripterName": "DZ191",
+           "ChampionID": 15,
+           "ChampionName": "Cassiopeia",
+           "ScriptInstallLink": "ls://project/DZ191/LeagueSharp/DZAIO/",
+           "ScriptGithubLink": "https://github.com/DZ191/LeagueSharp"
+        },
+        {
+           "ScriptName": "DevCassio",
+           "ScripterName": "InjectionDev",
+           "ChampionID": 15,
+           "ChampionName": "Cassiopeia",
+           "ScriptInstallLink": "ls://project/InjectionDev/LeagueSharp/DevCassio/",
+           "ScriptGithubLink": "https://github.com/DZ191/LeagueSharp"
+        },
+        {
+           "ScriptName": "Pentakill Cassiopeia",
+           "ScripterName": "GoldenGates",
+           "ChampionID": 15,
+           "ChampionName": "Cassiopeia",
+           "ScriptInstallLink": "ls://project/GoldenGatesPB/league-sharp/Pentakill%20Cassiopeia/",
+           "ScriptGithubLink": "https://github.com/GoldenGatesPB/league-sharp"
+        },
+        {
+           "ScriptName": "AIO",
+           "ScripterName": "prokopis",
+           "ChampionID": 15,
+           "ChampionName": "Cassiopeia",
+           "ScriptInstallLink": "ls://project/prokopis/AIO/AIO/",
+           "ScriptGithubLink": "https://github.com/prokopis/AIO"
+        },
+        {
+           "ScriptName": "HunteraCassiopeia",
+           "ScripterName": "HunteraSharp",
+           "ChampionID": 15,
+           "ChampionName": "Cassiopeia",
+           "ScriptInstallLink": "ls://project/HunteraSharp/LeagueSharp/Cassiopeia/",
+           "ScriptGithubLink": "https://github.com/HunteraSharp/LeagueSharp"
+        }
+    ],
+    "Chogath": [
+        {
+           "ScriptName": "UnderratedAIO",
+           "ScripterName": "Soresu",
+           "ChampionID": 16,
+           "ChampionName": "Chogath",
+           "ScriptInstallLink": "ls://project/Soresu/LeagueSharp/UnderratedAIO/UnderratedAIO/",
+           "ScriptGithubLink": "https://github.com/Soresu/LeagueSharp"
+        },
+        {
+           "ScriptName": "Chogath",
+           "ScripterName": "badao",
+           "ChampionID": 16,
+           "ChampionName": "Chogath",
+           "ScriptInstallLink": "ls://project/badao/Chogath/Chogath/",
+           "ScriptGithubLink": "https://github.com/badao/Chogath"
+        },
+        {
+           "ScriptName": "Cho Gath",
+           "ScripterName": "TC-Crew",
+           "ChampionID": 16,
+           "ChampionName": "Chogath",
+           "ScriptInstallLink": "ls://project/TC-Crew/L-Assemblies/Cho'Gath/",
+           "ScriptGithubLink": "https://github.com/TC-Crew/L-Assemblies"
+        }
+    ],
+    "Corki": [
+        {
+           "ScriptName": "jhkCorki",
+           "ScripterName": "doseonkim",
+           "ChampionID": 17,
+           "ChampionName": "Corki",
+           "ScriptInstallLink": "ls://project/doseonkim/LeagueSharp/jhkCorki/jhkCorki/",
+           "ScriptGithubLink": "https://github.com/doseonkim/LeagueSharp"
+        },
+        {
+           "ScriptName": "ElCorki",
+           "ScripterName": "JQuery",
+           "ChampionID": 17,
+           "ChampionName": "Corki",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElBundle/ElCorki/ElCorki/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        },
+        {
+           "ScriptName": "EasyCorki",
+           "ScripterName": "ikkeflikkeri",
+           "ChampionID": 17,
+           "ChampionName": "Corki",
+           "ScriptInstallLink": "ls://project/ikkeflikkeri/LeagueSharp/EasyCorki/EasyCorki/",
+           "ScriptGithubLink": "https://github.com/ikkeflikkeri/LeagueSharp"
+        },
+        {
+           "ScriptName": "D-Corki",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 17,
+           "ChampionName": "Corki",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/D-Corki/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 17,
+           "ChampionName": "Corki",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 17,
+           "ChampionName": "Corki",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        }
+    ],
+    "Darius": [
+        {
+           "ScriptName": "Darius OKTW",
+           "ScripterName": "OneKeyToWin",
+           "ChampionID": 18,
+           "ChampionName": "Darius",
+           "ScriptInstallLink": "ls://project/OneKeyToWin/LeagueRepo/Darius/",
+           "ScriptGithubLink": "https://github.com/OneKeyToWin/LeagueRepo"
+        },
+        {
+           "ScriptName": "ElEasy",
+           "ScripterName": "Bumek662 & JQuery",
+           "ChampionID": 18,
+           "ChampionName": "Darius",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElBundle/ElEasy/ElEasy/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        }
+    ],
+    "Diana": [
+        {
+           "ScriptName": "ElDiana",
+           "ScripterName": "JQuery",
+           "ChampionID": 19,
+           "ChampionName": "Diana",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElBundle/ElDiana/ElDiana/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        },
+        {
+           "ScriptName": "D-Diana",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 19,
+           "ChampionName": "Diana",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/D-Diana/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "GNomeProject",
+           "ScripterName": "Gnomexfire",
+           "ChampionID": 19,
+           "ChampionName": "Diana",
+           "ScriptInstallLink": "ls://project/Gnomexfire/GNomeProject/GNomeProject/",
+           "ScriptGithubLink": "https://github.com/Gnomexfire/GNomeProject"
+        }
+    ],
+    "Draven": [
+        {
+           "ScriptName": "FuckingAwesomeDraven",
+           "ScripterName": "fueledbyflux",
+           "ChampionID": 20,
+           "ChampionName": "Draven",
+           "ScriptInstallLink": "ls://project/fueledbyflux/FARepo/FuckingAwesomeDraven/",
+           "ScriptGithubLink": "https://github.com/fueledbyflux/FARepo"
+        },
+        {
+           "ScriptName": "Draven",
+           "ScripterName": "badao",
+           "ChampionID": 20,
+           "ChampionName": "Draven",
+           "ScriptInstallLink": "ls://project/badao/Draven/Draven/",
+           "ScriptGithubLink": "https://github.com/badao/Draven"
+        },
+        {
+           "ScriptName": "DZDraven Reloaded",
+           "ScripterName": "DZ191",
+           "ChampionID": 20,
+           "ChampionName": "Draven",
+           "ScriptInstallLink": "ls://project/DZ191/LeagueSharp/DZDraven%20Reloaded/",
+           "ScriptGithubLink": "https://github.com/DZ191/LeagueSharp"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 20,
+           "ChampionName": "Draven",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        },
+        {
+           "ScriptName": "DZDraven",
+           "ScripterName": "Asuna",
+           "ChampionID": 20,
+           "ChampionName": "Draven",
+           "ScriptInstallLink": "ls://project/DZ191/LeagueSharp/DZDraven/",
+           "ScriptGithubLink": "https://github.com/DZ191/LeagueSharp"
+        }
+    ],
+    "DrMundo": [
+        {
+           "ScriptName": "BrianSharp",
+           "ScripterName": "Brian",
+           "ChampionID": 21,
+           "ChampionName": "Dr.Mundo",
+           "ScriptInstallLink": "ls://project/brian0305/LeagueSharp/Brian%20Sharp/",
+           "ScriptGithubLink": "https://github.com/brian0305/LeagueSharp"
+        },
+        {
+           "ScriptName": "StonedMundo",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 21,
+           "ChampionName": "Dr.Mundo",
+           "ScriptInstallLink": "ls://project/TheKushStyle/LeagueSharp/StonedMundo/",
+           "ScriptGithubLink": "https://github.com/TheKushStyle/LeagueSharp"
+        },
+        {
+           "ScriptName": "AIO",
+           "ScripterName": "Gnomexfire",
+           "ChampionID": 21,
+           "ChampionName": "Dr.Mundo",
+           "ScriptInstallLink": "ls://project/prokopis/AIO/AIO/",
+           "ScriptGithubLink": "https://github.com/prokopis/AIO"
+        },
+        {
+           "ScriptName": "FedDrMundo",
+           "ScripterName": "livetorise",
+           "ChampionID": 21,
+           "ChampionName": "Dr.Mundo",
+           "ScriptInstallLink": "ls://project/livetorise/LeagueSharp/FedDrMundo/",
+           "ScriptGithubLink": "https://github.com/livetorise/LeagueSharp"
+        }
+    ],
+    "Elise": [
+        {
+           "ScriptName": "SephElise",
+           "ScripterName": "SephLeague",
+           "ChampionID": 22,
+           "ChampionName": "Elise",
+           "ScriptInstallLink": "ls://project/SephLeague/LeagueSharp/SephElise/",
+           "ScriptGithubLink": "https://github.com/SephLeague/LeagueSharp"
+        },
+        {
+           "ScriptName": "D-Elise",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 22,
+           "ChampionName": "Elise",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/D-Elise/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 22,
+           "ChampionName": "Elise",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        }
+    ],
+    "Evelynn": [
+        {
+           "ScriptName": "UnderratedAIO",
+           "ScripterName": "Soresu",
+           "ChampionID": 23,
+           "ChampionName": "Evelynn",
+           "ScriptInstallLink": "ls://project/Soresu/LeagueSharp/UnderratedAIO/UnderratedAIO/",
+           "ScriptGithubLink": "https://github.com/Soresu/LeagueSharp"
+        },
+        {
+           "ScriptName": "Evelynn",
+           "ScripterName": "TC-Crew",
+           "ChampionID": 23,
+           "ChampionName": "Evelynn",
+           "ScriptInstallLink": "ls://project/TC-Crew/L-Assemblies/Evelynn/",
+           "ScriptGithubLink": "https://github.com/TC-Crew/L-Assemblies"
+        },
+        {
+           "ScriptName": "ScientificEvelynn",
+           "ScripterName": "ScienceARK",
+           "ChampionID": 23,
+           "ChampionName": "Evelynn",
+           "ScriptInstallLink": "ls://project/ScienceARK/ScientificEvelynn/ScientificEvelynn/",
+           "ScriptGithubLink": "https://github.com/ScienceARK/ScientificEvelynn"
+        }
+    ],
+    "Ezreal": [
+        {
+           "ScriptName": "Ezreal OKTW",
+           "ScripterName": "OneKeyToWin",
+           "ChampionID": 24,
+           "ChampionName": "Ezreal",
+           "ScriptInstallLink": "ls://project/OneKeyToWin/LeagueRepo/Ezreal/",
+           "ScriptGithubLink": "https://github.com/OneKeyToWin/LeagueRepo"
+        },
+        {
+           "ScriptName": "ProSeries",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 24,
+           "ChampionName": "Ezreal",
+           "ScriptInstallLink": "ls://project/legacy3/LeagueSharp/ProSeries/",
+           "ScriptGithubLink": "https://github.com/legacy3/LeagueSharp"
+        },
+        {
+           "ScriptName": "EasyEzreal",
+           "ScripterName": "ikkeflikkeri",
+           "ChampionID": 24,
+           "ChampionName": "Ezreal",
+           "ScriptInstallLink": "ls://project/ikkeflikkeri/LeagueSharp/EasyEzreal/",
+           "ScriptGithubLink": "https://github.com/ikkeflikkeri/LeagueSharp"
+        },
+        {
+           "ScriptName": "[xcsoft] SharpShooter",
+           "ScripterName": "xcsoft",
+           "ChampionID": 24,
+           "ChampionName": "Ezreal",
+           "ScriptInstallLink": "ls://project/xcsoftforlsharp/LeagueSharp/[xcsoft]%20SharpShooter/",
+           "ScriptGithubLink": "https://github.com/xcsoftforlsharp/LeagueSharp"
+        },
+        {
+           "ScriptName": "iDzEzreal",
+           "ScripterName": "Contributor & Asuna",
+           "ChampionID": 24,
+           "ChampionName": "Ezreal",
+           "ScriptInstallLink": "ls://project/DZ191/LSharpDZiJava/iEzrealReworked/iEzrealReworked/",
+           "ScriptGithubLink": "https://github.com/DZ191/LSharpDZiJava"
+        },
+        {
+           "ScriptName": "HuyNK series",
+           "ScripterName": "huynkprovn",
+           "ChampionID": 24,
+           "ChampionName": "Ezreal",
+           "ScriptInstallLink": "ls://project/huynkprovn/HuyNK-Ass/HuyNKSeries/",
+           "ScriptGithubLink": "https://github.com/huynkprovn/HuyNK-Ass"
+        },
+        {
+           "ScriptName": "D-Ezreal",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 24,
+           "ChampionName": "Ezreal",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/D-Ezreal/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "PerplexedEzreal",
+           "ScripterName": "Perplexity",
+           "ChampionID": 24,
+           "ChampionName": "Ezreal",
+           "ScriptInstallLink": "ls://project/Perplexity/LeagueSharp/PerplexedEzreal/PerplexedEzreal/",
+           "ScriptGithubLink": "https://github.com/Perplexity/LeagueSharp"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 24,
+           "ChampionName": "Ezreal",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        },
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 24,
+           "ChampionName": "Ezreal",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 24,
+           "ChampionName": "Ezreal",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        }
+    ],
+    "Fiddlesticks": [
+        {
+           "ScriptName": "Support",
+           "ScripterName": "h3h3",
+           "ChampionID": 25,
+           "ChampionName": "Fiddlesticks",
+           "ScriptInstallLink": "ls://project/h3h3/LeagueSharp/Support/",
+           "ScriptGithubLink": "https://github.com/h3h3/LeagueSharp"
+        },
+        {
+           "ScriptName": "Fiddlesticks",
+           "ScripterName": "JouzaLoL",
+           "ChampionID": 25,
+           "ChampionName": "Fiddlesticks",
+           "ScriptInstallLink": "ls://project/JouzaLoL/LeagueSharp/FiddleSticks/",
+           "ScriptGithubLink": "https://github.com/JouzaLoL/LeagueSharp"
+        }
+    ],
+    "Fiora": [
+        {
+           "ScriptName": "UnderratedAIO",
+           "ScripterName": "Soresu",
+           "ChampionID": 26,
+           "ChampionName": "Fiora",
+           "ScriptInstallLink": "ls://project/Soresu/LeagueSharp/UnderratedAIO/UnderratedAIO/",
+           "ScriptGithubLink": "https://github.com/Soresu/LeagueSharp"
+        },
+        {
+           "ScriptName": "DevFiora",
+           "ScripterName": "InjectionDev",
+           "ChampionID": 26,
+           "ChampionName": "Fiora",
+           "ScriptInstallLink": "ls://project/InjectionDev/LeagueSharp/DevFiora/",
+           "ScriptGithubLink": "https://github.com/InjectionDev/LeagueSharp"
+        },
+        {
+           "ScriptName": "FioraRaven",
+           "ScripterName": "Asuna",
+           "ChampionID": 26,
+           "ChampionName": "Fiora",
+           "ScriptInstallLink": "ls://project/DZ191/LeagueSharp/FioraRaven/",
+           "ScriptGithubLink": "https://github.com/DZ191/LeagueSharp"
+        },
+        {
+           "ScriptName": "5AA1SFiora",
+           "ScripterName": "badao",
+           "ChampionID": 26,
+           "ChampionName": "Fiora",
+           "ScriptInstallLink": "ls://project/badao/Fiora/Fiora/",
+           "ScriptGithubLink": "https://github.com/badao/Fiora"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 26,
+           "ChampionName": "Fiora",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        }
+    ],
+    "Fizz": [
+        {
+           "ScriptName": "OneKeyToFish",
+           "ScripterName": "ChewyMoon",
+           "ChampionID": 27,
+           "ChampionName": "Fizz",
+           "ScriptInstallLink": "ls://project/ChewyMoon/ChewyMoonScripts/OneKeyToFish/",
+           "ScriptGithubLink": "https://github.com/ChewyMoon/ChewyMoonScripts"
+        },
+        {
+           "ScriptName": "FishermanFizz",
+           "ScripterName": "hydralol",
+           "ChampionID": 27,
+           "ChampionName": "Fizz",
+           "ScriptInstallLink": "ls://project/hydralol/Updated-L-sharp/FishermanFizz/",
+           "ScriptGithubLink": "https://github.com/hydralol/Updated-L-sharp"
+        },
+        {
+           "ScriptName": "Kysama-Series",
+           "ScripterName": "Kysamaa",
+           "ChampionID": 27,
+           "ChampionName": "Fizz",
+           "ScriptInstallLink": "ls://project/Kysamaa/Leaguesharp/Kysama-Series/",
+           "ScriptGithubLink": "https://github.com/Kysamaa/Leaguesharp"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 27,
+           "ChampionName": "Fizz",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        }
+    ],
+    "Galio": [
+        {
+           "ScriptName": "Stack Overflow",
+           "ScripterName": "mrarticuno",
+           "ChampionID": 28,
+           "ChampionName": "Galio",
+           "ScriptInstallLink": "ls://project/mrarticuno/Mechanics-StackOverflow/Stack%20Overflow/",
+           "ScriptGithubLink": "https://github.com/mrarticuno/Mechanics-StackOverflow"
+        },
+        {
+           "ScriptName": "DesomondGalio",
+           "ScripterName": "desomond",
+           "ChampionID": 28,
+           "ChampionName": "Galio",
+           "ScriptInstallLink": "ls://project/desomond/LeagueSharp/DesomondGalio/",
+           "ScriptGithubLink": "https://github.com/desomond/LeagueSharp"
+        },
+        {
+           "ScriptName": "SKOGalio",
+           "ScripterName": "SKOx0",
+           "ChampionID": 28,
+           "ChampionName": "Galio",
+           "ScriptInstallLink": "ls://project/SKOx0/LeagueSharp/SKO%20Galio/",
+           "ScriptGithubLink": "https://github.com/SKOx0/LeagueSharp"
+        }
+    ],
+    "Gangplank": [
+        {
+           "ScriptName": "SwagPlank",
+           "ScripterName": "DanThePman",
+           "ChampionID": 29,
+           "ChampionName": "Gangplank",
+           "ScriptInstallLink": "ls://project/DanThePman/SwagPlank/SwagPlank/",
+           "ScriptGithubLink": "https://github.com/DanThePman/SwagPlank"
+        },
+        {
+           "ScriptName": "Gangplank",
+           "ScripterName": "Danz",
+           "ChampionID": 29,
+           "ChampionName": "Gangplank",
+           "ScriptInstallLink": "ls://project/SwipeDan/LeagueSharp/GangPlank%20-%20Yarr!/GangPlank%20-%20Yarr!/",
+           "ScriptGithubLink": "https://github.com/SwipeDan/LeagueSharp"
+        },
+        {
+           "ScriptName": "AIO",
+           "ScripterName": "prokopis",
+           "ChampionID": 29,
+           "ChampionName": "Gangplank",
+           "ScriptInstallLink": "ls://project/prokopis/AIO/AIO/",
+           "ScriptGithubLink": "https://github.com/prokopis/AIO"
+        },
+        {
+           "ScriptName": "Yohoho-Gangplank",
+           "ScripterName": "nongnoobjung",
+           "ChampionID": 29,
+           "ChampionName": "Gangplank",
+           "ScriptInstallLink": "ls://project/nongnoobjung/L-/Yohoho-Gangplank/Yohoho-Gangplank/",
+           "ScriptGithubLink": "https://github.com/nongnoobjung/L-"
+        },
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 29,
+           "ChampionName": "Gangplank",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        }
+    ],
+    "Garen": [
+        {
+           "ScriptName": "UnderratedAIO",
+           "ScripterName": "Soresu",
+           "ChampionID": 30,
+           "ChampionName": "Garen",
+           "ScriptInstallLink": "ls://project/Soresu/LeagueSharp/UnderratedAIO/UnderratedAIO/",
+           "ScriptGithubLink": "https://github.com/Soresu/LeagueSharp"
+        },
+        {
+           "ScriptName": "DesomondGaren",
+           "ScripterName": "Danz",
+           "ChampionID": 30,
+           "ChampionName": "Garen",
+           "ScriptInstallLink": "ls://project/desomond/LeagueSharp/DesomodGaren/",
+           "ScriptGithubLink": "https://github.com/desomond/LeagueSharp"
+        },
+        {
+           "ScriptName": "Garen",
+           "ScripterName": "maverin",
+           "ChampionID": 30,
+           "ChampionName": "Garen",
+           "ScriptInstallLink": "ls://project/maverin/Garen/Garen/",
+           "ScriptGithubLink": "https://github.com/maverin/Garen"
+        },
+        {
+           "ScriptName": "GarenOP",
+           "ScripterName": "Nouser",
+           "ChampionID": 30,
+           "ChampionName": "Garen",
+           "ScriptInstallLink": "ls://project/Nouser/Leaguesharp/Garenteed Freelo/",
+           "ScriptGithubLink": "https://github.com/Nouser/Leaguesharp"
+        }
+    ],
+    "Gnar": [
+        {
+           "ScriptName": "VallySKO Gnar",
+           "ScripterName": "Soresu",
+           "ChampionID": 31,
+           "ChampionName": "Gnar",
+           "ScriptInstallLink": "ls://project/SKOx0/LeagueSharp/VallySKO%20Gnar/",
+           "ScriptGithubLink": "https://github.com/SKOx0/LeagueSharp"
+        },
+        {
+           "ScriptName": "Gnar",
+           "ScripterName": "Hellsing",
+           "ChampionID": 31,
+           "ChampionName": "Gnar",
+           "ScriptInstallLink": "ls://project/Hellsing/LeagueSharp/Gnar/",
+           "ScriptGithubLink": "https://github.com/Hellsing/LeagueSharp"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 31,
+           "ChampionName": "Gnar",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        }
+    ],
+    "Gragas": [
+        {
+           "ScriptName": "AIO",
+           "ScripterName": "prokopis",
+           "ChampionID": 32,
+           "ChampionName": "Gragas",
+           "ScriptInstallLink": "ls://project/prokopis/AIO/AIO/",
+           "ScriptGithubLink": "https://github.com/prokopis/AIO"
+        },
+        {
+           "ScriptName": "Gragas",
+           "ScripterName": "Alrik",
+           "ChampionID": 32,
+           "ChampionName": "Gragas",
+           "ScriptInstallLink": "ls://project/AlrikSharp/LeagueSharp/Gragas/",
+           "ScriptGithubLink": "https://github.com/AlrikSharp/LeagueSharp"
+        },
+        {
+           "ScriptName": "ScientificGragas",
+           "ScripterName": "ScienceARK",
+           "ChampionID": 32,
+           "ChampionName": "Gragas",
+           "ScriptInstallLink": "ls://project/ScienceARK/ScientificGragas/ScientificGragas/",
+           "ScriptGithubLink": "https://github.com/ScienceARK/ScientificGragas"
+        }
+    ],
+    "Graves": [
+        {
+           "ScriptName": "MAC",
+           "ScripterName": "mrarticuno, TehBlaxxor & GoldenGates",
+           "ChampionID": 33,
+           "ChampionName": "Graves",
+           "ScriptInstallLink": "ls://project/TehBlaxxor/LeagueSharp/MAC/",
+           "ScriptGithubLink": "https://github.com/TehBlaxxor/LeagueSharp"
+        },
+        {
+           "ScriptName": "DZAIO",
+           "ScripterName": "DZ191",
+           "ChampionID": 33,
+           "ChampionName": "Graves",
+           "ScriptInstallLink": "ls://project/DZ191/LeagueSharp/DZAIO/",
+           "ScriptGithubLink": "https://github.com/DZ191/LeagueSharp"
+        },
+        {
+           "ScriptName": "Graves OKTW",
+           "ScripterName": "OneKeyToWin",
+           "ChampionID": 33,
+           "ChampionName": "Graves",
+           "ScriptInstallLink": "ls://project/OneKeyToWin/LeagueRepo/Graves_OnKeyToWin/Graves_OnKeyToWin/",
+           "ScriptGithubLink": "https://github.com/OneKeyToWin/LeagueRepo"
+        },
+        {
+           "ScriptName": "EasyGraves",
+           "ScripterName": "ikkeflikkeri",
+           "ChampionID": 33,
+           "ChampionName": "Graves",
+           "ScriptInstallLink": "ls://project/ikkeflikkeri/LeagueSharp/EasyGraves/EasyGraves/",
+           "ScriptGithubLink": "https://github.com/ikkeflikkeri/LeagueSharp"
+        },
+        {
+           "ScriptName": "D-Graves",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 33,
+           "ChampionName": "Graves",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/D-graves/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 33,
+           "ChampionName": "Graves",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        },
+        {
+           "ScriptName": "GravesSharp",
+           "ScripterName": "aikoy",
+           "ChampionID": 33,
+           "ChampionName": "Graves",
+           "ScriptInstallLink": "ls://project/aikoy/LeagueSharp/GravesSharp/GravesSharp/",
+           "ScriptGithubLink": "https://github.com/aikoy/LeagueSharp"
+        }
+    ],
+    "Hecarim": [
+        {
+           "ScriptName": "HecaCopter",
+           "ScripterName": "imsosharp & Artud",
+           "ChampionID": 34,
+           "ChampionName": "Hecarim",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/HecaCopter/HecaCopter/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        },
+        {
+           "ScriptName": "SmartSeries",
+           "ScripterName": "Seth",
+           "ChampionID": 34,
+           "ChampionName": "Hecarim",
+           "ScriptInstallLink": "ls://project/Seth0x/LeagueRepo/MasterSeries/Hecarim/",
+           "ScriptGithubLink": "https://github.com/Seth0x/LeagueRepo"
+        }
+    ],
+    "Heimerdinger": [
+        {
+           "ScriptName": "ScientificHeimerdinger",
+           "ScripterName": "ScienceARK",
+           "ChampionID": 35,
+           "ChampionName": "Heimerdinger",
+           "ScriptInstallLink": "ls://project/ScienceARK/ScientificHeimerdinger/ScientificHeimerdinger/",
+           "ScriptGithubLink": "https://github.com/ScienceARK/ScientificHeimerdinger"
+        }
+    ],
+    "Irelia": [
+        {
+           "ScriptName": "Irelia Reloaded",
+           "ScripterName": "ChewyMoon",
+           "ChampionID": 36,
+           "ChampionName": "Irelia",
+           "ScriptInstallLink": "ls://project/ChewyMoon/ChewyMoonScripts/ChewyMoonsIrelia/",
+           "ScriptGithubLink": "https://github.com/ChewyMoon/ChewyMoonScripts"
+        },
+        {
+           "ScriptName": "Irelia",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 36,
+           "ChampionName": "Irelia",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/Irelia/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "IreliaTheWillOfCarrying",
+           "ScripterName": "sciasfreelancer",
+           "ChampionID": 36,
+           "ChampionName": "Irelia",
+           "ScriptInstallLink": "ls://project/sciasfreelancer/LeagueSharp/IreliaTheWillOfCarrying/IreliaTheWillOfCarrying/",
+           "ScriptGithubLink": "https://github.com/sciasfreelancer/LeagueSharp"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 36,
+           "ChampionName": "Irelia",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        }
+    ],
+    "Janna": [
+        {
+           "ScriptName": "Support",
+           "ScripterName": "h3h3",
+           "ChampionID": 37,
+           "ChampionName": "Janna",
+           "ScriptInstallLink": "ls://project/h3h3/LeagueSharp/Support/",
+           "ScriptGithubLink": "https://github.com/h3h3/LeagueSharp"
+        }
+    ],
+    "JarvanIV": [
+        {
+           "ScriptName": "BrianSharp",
+           "ScripterName": "Brian",
+           "ChampionID": 38,
+           "ChampionName": "JarvanIV",
+           "ScriptInstallLink": "ls://project/brian0305/LeagueSharp/Brian%20Sharp/",
+           "ScriptGithubLink": "https://github.com/brian0305/LeagueSharp"
+        },
+        {
+           "ScriptName": "D-Series",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 38,
+           "ChampionName": "JarvanIV",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/D-Jarvan/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "J4Helper",
+           "ScripterName": "Alrik",
+           "ChampionID": 38,
+           "ChampionName": "JarvanIV",
+           "ScriptInstallLink": "ls://project/https://github.com/AlrikSharp/LeagueSharp/J4Helper",
+           "ScriptGithubLink": "https://github.com/AlrikSharp/LeagueSharp"
+        },
+        {
+           "ScriptName": "StonedJarvan",
+           "ScripterName": "TheKushStyle",
+           "ChampionID": 38,
+           "ChampionName": "JarvanIV",
+           "ScriptInstallLink": "ls://project/TheKushStyle/LeagueSharp/StonedJarvan/",
+           "ScriptGithubLink": "https://github.com/TheKushStyle/LeagueSharp"
+        },
+        {
+           "ScriptName": "JarvanIV",
+           "ScripterName": "dotCr0",
+           "ChampionID": 38,
+           "ChampionName": "JarvanIV",
+           "ScriptInstallLink": "ls://project/dotCr0/sharpie/Jarvan4/",
+           "ScriptGithubLink": "https://github.com/dotCr0/sharpie"
+        }
+    ],
+    "Jax": [
+        {
+           "ScriptName": "BrianSharp",
+           "ScripterName": "Brian",
+           "ChampionID": 39,
+           "ChampionName": "Jax",
+           "ScriptInstallLink": "ls://project/brian0305/LeagueSharp/Brian%20Sharp/",
+           "ScriptGithubLink": "https://github.com/brian0305/LeagueSharp"
+        },
+        {
+           "ScriptName": "JaxQx",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 39,
+           "ChampionName": "Jax",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/JaxQx/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "FedJax",
+           "ScripterName": "livetorise",
+           "ChampionID": 39,
+           "ChampionName": "Jax",
+           "ScriptInstallLink": "ls://project/livetorise/LeagueSharp/FedJax",
+           "ScriptGithubLink": "https://github.com/livetorise/LeagueSharp"
+        },
+        {
+           "ScriptName": "Scias Jax",
+           "ScripterName": "sciasfreelancer",
+           "ChampionID": 39,
+           "ChampionName": "Jax",
+           "ScriptInstallLink": "ls://project/sciasfreelancer/LeagueSharp/Scias_Jax/Scias_Jax/",
+           "ScriptGithubLink": "https://github.com/sciasfreelancer/LeagueSharp"
+        },
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 39,
+           "ChampionName": "Jax",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        }
+    ],
+    "Jayce": [
+        {
+           "ScriptName": "JayceSharpV2",
+           "ScripterName": "Detuks",
+           "ChampionID": 40,
+           "ChampionName": "Jax",
+           "ScriptInstallLink": "ls://project/detuks/GoodGuyJodu/JayceSharpV2/",
+           "ScriptGithubLink": "https://github.com/detuks/GoodGuyJodu"
+        },
+        {
+           "ScriptName": "JayceV1",
+           "ScripterName": "Korfez",
+           "ChampionID": 40,
+           "ChampionName": "Jax",
+           "ScriptInstallLink": "ls://project/Korfez/JayceV1/JayceV1/",
+           "ScriptGithubLink": "https://github.com/Korfez/JayceV1"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 40,
+           "ChampionName": "Jax",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        }
+    ],
+    "Jinx": [
+        {
+           "ScriptName": "Jinx OKTW",
+           "ScripterName": "OneKeyToWin",
+           "ChampionID": 41,
+           "ChampionName": "Jinx",
+           "ScriptInstallLink": "ls://project/OneKeyToWin/LeagueRepo/Anivia_OKTW/",
+           "ScriptGithubLink": "https://github.com/OneKeyToWin/LeagueRepo"
+        },
+        {
+           "ScriptName": "MAC",
+           "ScripterName": "mrarticuno, TehBlaxxor & GoldenGates",
+           "ChampionID": 41,
+           "ChampionName": "Jinx",
+           "ScriptInstallLink": "ls://project/TehBlaxxor/LeagueSharp/MAC/",
+           "ScriptGithubLink": "https://github.com/TehBlaxxor/LeagueSharp"
+        },
+        {
+           "ScriptName": "DZAIO",
+           "ScripterName": "DZ191",
+           "ChampionID": 41,
+           "ChampionName": "Jinx",
+           "ScriptInstallLink": "ls://project/DZ191/LeagueSharp/DZAIO/",
+           "ScriptGithubLink": "https://github.com/DZ191/LeagueSharp"
+        },
+        {
+           "ScriptName": "ProSeries",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 41,
+           "ChampionName": "Jinx",
+           "ScriptInstallLink": "ls://project/legacy3/LeagueSharp/ProSeries/",
+           "ScriptGithubLink": "https://github.com/legacy3/LeagueSharp"
+        },
+        {
+           "ScriptName": "EasyJinx",
+           "ScripterName": "ikkeflikkeri",
+           "ChampionID": 41,
+           "ChampionName": "Jinx",
+           "ScriptInstallLink": "ls://project/ikkeflikkeri/LeagueSharp/EasyJinx/",
+           "ScriptGithubLink": "https://github.com/ikkeflikkeri/LeagueSharp"
+        },
+        {
+           "ScriptName": "[xcsoft] SharpShooter",
+           "ScripterName": "xcsoft",
+           "ChampionID": 41,
+           "ChampionName": "Jinx",
+           "ScriptInstallLink": "ls://project/xcsoftforlsharp/LeagueSharp/[xcsoft]%20SharpShooter/",
+           "ScriptGithubLink": "https://github.com/xcsoftforlsharp/LeagueSharp"
+        },
+        {
+           "ScriptName": "HuyNK series",
+           "ScripterName": "huynkprovn",
+           "ChampionID": 41,
+           "ChampionName": "Jinx",
+           "ScriptInstallLink": "ls://project/huynkprovn/HuyNK-Ass/HuyNKSeries/",
+           "ScriptGithubLink": "https://github.com/huynkprovn/HuyNK-Ass"
+        },
+        {
+           "ScriptName": "PennyJinx",
+           "ScripterName": "Asuna",
+           "ChampionID": 41,
+           "ChampionName": "Jinx",
+           "ScriptInstallLink": "ls://project/DZ191/LeagueSharp/PennyJinx",
+           "ScriptGithubLink": "https://github.com/DZ191/LeagueSharp"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 41,
+           "ChampionName": "Jinx",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        }
+    ],
+    "Kalista": [
+        {
+           "ScriptName": "ElKalista",
+           "ScripterName": "JQuery",
+           "ChampionID": 42,
+           "ChampionName": "Kalista",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElBundle/ElKalista/ElKalista/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        },
+        {
+           "ScriptName": "KalistaResurrection",
+           "ScripterName": "Hellsing",
+           "ChampionID": 42,
+           "ChampionName": "Kalista",
+           "ScriptInstallLink": "ls://project/Hellsing/LeagueSharp/KalistaResurrection/",
+           "ScriptGithubLink": "https://github.com/Hellsing/LeagueSharp"
+        },
+        {
+           "ScriptName": "EasyKalista",
+           "ScripterName": "ikkeflikkeri",
+           "ChampionID": 42,
+           "ChampionName": "Kalista",
+           "ScriptInstallLink": "ls://project/ikkeflikkeri/LeagueSharp/EasyKalista/EasyKalista/",
+           "ScriptGithubLink": "https://github.com/ikkeflikkeri/LeagueSharp"
+        },
+        {
+           "ScriptName": "[xcsoft] SharpShooter",
+           "ScripterName": "xcsoft",
+           "ChampionID": 42,
+           "ChampionName": "Kalista",
+           "ScriptInstallLink": "ls://project/xcsoftforlsharp/LeagueSharp/[xcsoft]%20SharpShooter/",
+           "ScriptGithubLink": "https://github.com/xcsoftforlsharp/LeagueSharp"
+        },
+        {
+           "ScriptName": "HuyNK series",
+           "ScripterName": "huynkprovn",
+           "ChampionID": 42,
+           "ChampionName": "Kalista",
+           "ScriptInstallLink": "ls://project/huynkprovn/HuyNK-Ass/HuyNKSeries/",
+           "ScriptGithubLink": "https://github.com/huynkprovn/HuyNK-Ass"
+        },
+        {
+           "ScriptName": "Kalista",
+           "ScripterName": "Hellsing",
+           "ChampionID": 42,
+           "ChampionName": "Kalista",
+           "ScriptInstallLink": "ls://project/Hellsing/LeagueSharp/Kalista/",
+           "ScriptGithubLink": "https://github.com/Hellsing/LeagueSharp"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 42,
+           "ChampionName": "Kalista",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        }
+    ],
+    "Karma": [
+        {
+           "ScriptName": "Support",
+           "ScripterName": "h3h3",
+           "ChampionID": 43,
+           "ChampionName": "Karma",
+           "ScriptInstallLink": "ls://project/h3h3/LeagueSharp/Support/",
+           "ScriptGithubLink": "https://github.com/h3h3/LeagueSharp"
+        },
+        {
+           "ScriptName": "DevKarma",
+           "ScripterName": "InjectionDev",
+           "ChampionID": 43,
+           "ChampionName": "Karma",
+           "ScriptInstallLink": "ls://project/InjectionDev/LeagueSharp/DevKarma/",
+           "ScriptGithubLink": "https://github.com/InjectionDev/LeagueSharp"
+        },
+        {
+           "ScriptName": "SKO Ban Karma",
+           "ScripterName": "SKOx0",
+           "ChampionID": 43,
+           "ChampionName": "Karma",
+           "ScriptInstallLink": "ls://project/SKOx0/LeagueSharp/SKO%20Ban%20Karma/",
+           "ScriptGithubLink": "https://github.com/SKOx0/LeagueSharp"
+        },
+        {
+           "ScriptName": "Karma The Enlightened One",
+           "ScripterName": "L33T",
+           "ChampionID": 43,
+           "ChampionName": "Karma",
+           "ScriptInstallLink": "ls://project/WorstPing/LeagueSharp/Karma%20the%20Enlightened%20One/Karma/",
+           "ScriptGithubLink": "https://github.com/WorstPing/LeagueSharp"
+        },
+        {
+           "ScriptName": "Karma",
+           "ScripterName": "Esk0r",
+           "ChampionID": 43,
+           "ChampionName": "Karma",
+           "ScriptInstallLink": "ls://project/Esk0r/LeagueSharp/Karma/",
+           "ScriptGithubLink": "https://github.com/Esk0r/LeagueSharp"
+        }
+    ],
+    "Karthus": [
+        {
+           "ScriptName": "Automatic Karthus",
+           "ScripterName": "Nexplie",
+           "ChampionID": 44,
+           "ChampionName": "Karthus",
+           "ScriptInstallLink": "ls://project/Nexplie/LeagueRepo/Karthus/",
+           "ScriptGithubLink": "https://github.com/Nexplie/LeagueRepo"
+        },
+        {
+           "ScriptName": "KarthusSharp",
+           "ScripterName": "Beaving",
+           "ChampionID": 44,
+           "ChampionName": "Karthus",
+           "ScriptInstallLink": "ls://project/Beaving/LeagueSharp/KarthusSharp/",
+           "ScriptGithubLink": "https://github.com/Beaving/LeagueSharp"
+        },
+        {
+           "ScriptName": "TRUSt in my Karthus",
+           "ScripterName": "trus",
+           "ChampionID": 44,
+           "ChampionName": "Karthus",
+           "ScriptInstallLink": "ls://project/Vasilyi/L-/TRUSt%20in%20my%20Karthus/",
+           "ScriptGithubLink": "https://github.com/Vasilyi/L-"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 44,
+           "ChampionName": "Karthus",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        }
+    ],
+    "Kassadin": [
+        {
+           "ScriptName": "AIO",
+           "ScripterName": "prokopis",
+           "ChampionID": 45,
+           "ChampionName": "Kassadin",
+           "ScriptInstallLink": "ls://project/prokopis/AIO/AIO/",
+           "ScriptGithubLink": "https://github.com/prokopis/AIO"
+        },
+        {
+           "ScriptName": "BlackKassadin",
+           "ScripterName": "trus",
+           "ChampionID": 45,
+           "ChampionName": "Kassadin",
+           "ScriptInstallLink": "ls://project/Justyyy/LeagueSharp/BlackyKassadinUpdate/",
+           "ScriptGithubLink": "https://github.com/Justyyy/LeagueSharp"
+        },
+        {
+           "ScriptName": "The Evil Emperor Kassadin",
+           "ScripterName": "sciasfreelancer",
+           "ChampionID": 45,
+           "ChampionName": "Kassadin",
+           "ScriptInstallLink": "ls://project/sciasfreelancer/LeagueSharp/TheEvilEmperorKassadin/TheEvilEmperorKassadin/",
+           "ScriptGithubLink": "https://github.com/sciasfreelancer/LeagueSharp"
+        }
+    ],
+    "Katarina": [
+        {
+           "ScriptName": "ElSmartKatarina",
+           "ScripterName": "JQuery",
+           "ChampionID": 46,
+           "ChampionName": "Katarina",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElBundle/ElSmartKatarina/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        },
+        {
+           "ScriptName": "TehKatarina",
+           "ScripterName": "TehBlaxxor",
+           "ChampionID": 46,
+           "ChampionName": "Katarina",
+           "ScriptInstallLink": "ls://project/TehBlaxxor/LeagueSharp/TehKatarina/TehKatarina/",
+           "ScriptGithubLink": "https://github.com/TehBlaxxor/LeagueSharp"
+        },
+        {
+           "ScriptName": "ResetsAllTheWay",
+           "ScripterName": "trus",
+           "ChampionID": 46,
+           "ChampionName": "Katarina",
+           "ScriptInstallLink": "ls://project/Vasilyi/L-/ResetsAllTheWay/",
+           "ScriptGithubLink": "https://github.com/Vasilyi/L-"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 46,
+           "ChampionName": "Katarina",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        }
+    ],
+    "Kayle": [
+        {
+           "ScriptName": "Kayle - The Judicator",
+           "ScripterName": "Avanguard",
+           "ChampionID": 47,
+           "ChampionName": "Kayle",
+           "ScriptInstallLink": "ls://project/Avanguard/LeagueS/Kayle/Kayle/",
+           "ScriptGithubLink": "https://github.com/Avanguard/LeagueS"
+        },
+        {
+           "ScriptName": "DZAIO",
+           "ScripterName": "DZ191",
+           "ChampionID": 47,
+           "ChampionName": "Kayle",
+           "ScriptInstallLink": "ls://project/DZ191/LeagueSharp/DZAIO/",
+           "ScriptGithubLink": "https://github.com/DZ191/LeagueSharp"
+        },
+        {
+           "ScriptName": "Support",
+           "ScripterName": "h3h3",
+           "ChampionID": 47,
+           "ChampionName": "Kayle",
+           "ScriptInstallLink": "ls://project/h3h3/LeagueSharp/Support/",
+           "ScriptGithubLink": "https://github.com/h3h3/LeagueSharp"
+        },
+        {
+           "ScriptName": "BrianSharp",
+           "ScripterName": "Brian",
+           "ChampionID": 47,
+           "ChampionName": "Kayle",
+           "ScriptInstallLink": "ls://project/brian0305/LeagueSharp/Brian%20Sharp/",
+           "ScriptGithubLink": "https://github.com/brian0305/LeagueSharp"
+        },
+        {
+           "ScriptName": "D-Kayle",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 47,
+           "ChampionName": "Kayle",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/D-Kayle/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "Kayle",
+           "ScripterName": "RoachxD",
+           "ChampionID": 47,
+           "ChampionName": "Kayle",
+           "ScriptInstallLink": "ls://project/RoachxD/LeagueSharp/Kayle/",
+           "ScriptGithubLink": "https://github.com/RoachxD/LeagueSharp"
+        },
+        {
+           "ScriptName": "SephKayle",
+           "ScripterName": "Seph",
+           "ChampionID": 47,
+           "ChampionName": "Kayle",
+           "ScriptInstallLink": "ls://project/SephLeague/LeagueSharp/SephKayle/",
+           "ScriptGithubLink": "https://github.com/SephLeague/LeagueSharp"
+        }
+    ],
+    "Kennen": [
+        {
+           "ScriptName": "UnderratedAIO",
+           "ScripterName": "Soresu",
+           "ChampionID": 48,
+           "ChampionName": "Kennen",
+           "ScriptInstallLink": "ls://project/Soresu/LeagueSharp/UnderratedAIO/UnderratedAIO/",
+           "ScriptGithubLink": "https://github.com/Soresu/LeagueSharp"
+        },
+        {
+           "ScriptName": "BrianSharp",
+           "ScripterName": "Brian",
+           "ChampionID": 48,
+           "ChampionName": "Kennen",
+           "ScriptInstallLink": "ls://project/brian0305/LeagueSharp/Brian%20Sharp/",
+           "ScriptGithubLink": "https://github.com/brian0305/LeagueSharp"
+        },
+        {
+           "ScriptName": "Daimao Kennen",
+           "ScripterName": "Taerarenai",
+           "ChampionID": 48,
+           "ChampionName": "Kennen",
+           "ScriptInstallLink": "ls://project/Taerarenai/LeagueSharp/Daimao%20Kennen/Kennen/",
+           "ScriptGithubLink": "https://github.com/Taerarenai/LeagueSharp"
+        }
+    ],
+    "Khazix": [
+        {
+           "ScriptName": "AIO",
+           "ScripterName": "prokopis",
+           "ChampionID": 49,
+           "ChampionName": "KhaZix",
+           "ScriptInstallLink": "ls://project/prokopis/AIO/AIO/",
+           "ScriptGithubLink": "https://github.com/prokopis/AIO"
+        },
+        {
+           "ScriptName": "SephKhazix",
+           "ScripterName": "Seph",
+           "ChampionID": 49,
+           "ChampionName": "KhaZix",
+           "ScriptInstallLink": "ls://project/SephLeague/LeagueSharp/SephKhazix/",
+           "ScriptGithubLink": "https://github.com/SephLeague/LeagueSharp"
+        },
+        {
+           "ScriptName": "iKhazix",
+           "ScripterName": "iJabba",
+           "ChampionID": 49,
+           "ChampionName": "KhaZix",
+           "ScriptInstallLink": "ls://project/RoachxD/iKhazix/iKhazix/",
+           "ScriptGithubLink": "https://github.com/RoachxD/iKhazix"
+        },
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 49,
+           "ChampionName": "KhaZix",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        }
+    ],
+    "KogMaw": [
+        {
+           "ScriptName": "KogMaw OKTW",
+           "ScripterName": "OneKeyToWin",
+           "ChampionID": 50,
+           "ChampionName": "KogMaw",
+           "ScriptInstallLink": "ls://project/OneKeyToWin/LeagueRepo/KogMaw/",
+           "ScriptGithubLink": "https://github.com/OneKeyToWin/LeagueRepo"
+        },
+        {
+           "ScriptName": "DevKogMaw",
+           "ScripterName": "InjectionDev",
+           "ChampionID": 50,
+           "ChampionName": "KogMaw",
+           "ScriptInstallLink": "ls://project/InjectionDev/LeagueSharp/DevKogMaw/",
+           "ScriptGithubLink": "https://github.com/InjectionDev/LeagueSharp"
+        },
+        {
+           "ScriptName": "EasyKogMaw",
+           "ScripterName": "ikkeflikkeri",
+           "ChampionID": 50,
+           "ChampionName": "KogMaw",
+           "ScriptInstallLink": "ls://project/ikkeflikkeri/LeagueSharp/EasyKogMaw/EasyKogMaw/",
+           "ScriptGithubLink": "https://github.com/ikkeflikkeri/LeagueSharp"
+        },
+        {
+           "ScriptName": "D-Kogmaw",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 50,
+           "ChampionName": "KogMaw",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/D-Kogmaw/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 50,
+           "ChampionName": "KogMaw",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        }
+    ],
+    "LeBlanc": [
+        {
+           "ScriptName": "Mid or Feed",
+           "ScripterName": "ChewyMoon",
+           "ChampionID": 51,
+           "ChampionName": "LeBlanc",
+           "ScriptInstallLink": "ls://project/ChewyMoon/ChewyMoonScripts/Mid%20or%20Feed/",
+           "ScriptGithubLink": "https://github.com/ChewyMoon/ChewyMoonScripts"
+        },
+        {
+           "ScriptName": "Apollos LeBlanc",
+           "ScripterName": "InjectionDev",
+           "ChampionID": 51,
+           "ChampionName": "LeBlanc",
+           "ScriptInstallLink": "ls://project/Apollo16/LeagueSharp/LeBlanc/LeBlanc/",
+           "ScriptGithubLink": "https://github.com/Apollo16/LeagueSharp"
+        },
+        {
+           "ScriptName": "xQx-LeBlanc",
+           "ScripterName": "ikkeflikkeri",
+           "ChampionID": 51,
+           "ChampionName": "LeBlanc",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/Leblanc/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "FedLeblanc2",
+           "ScripterName": "livetorise",
+           "ChampionID": 14,
+           "ChampionName": "Caitlyn",
+           "ScriptInstallLink": "ls://project/livetorise/LeagueSharp/FedLeblanc2/",
+           "ScriptGithubLink": "https://github.com/livetorise/LeagueSharp"
+        },
+        {
+           "ScriptName": "LeBlanc",
+           "ScripterName": "badao",
+           "ChampionID": 51,
+           "ChampionName": "LeBlanc",
+           "ScriptInstallLink": "ls://project/badao/Leblanc/Leblanc/Leblanc/",
+           "ScriptGithubLink": "https://github.com/badao/Leblanc"
+        },
+        {
+           "ScriptName": "trees-LeBlanc",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 51,
+           "ChampionName": "LeBlanc",
+           "ScriptInstallLink": "ls://project/trees-software/leaguesharp/LeBlanc/",
+           "ScriptGithubLink": "https://github.com/trees-software/leaguesharp"
+        }
+    ],
+    "Leesin": [
+        {
+           "ScriptName": "Master of Insec",
+           "ScripterName": "sergigandia",
+           "ChampionID": 52,
+           "ChampionName": "Leesin",
+           "ScriptInstallLink": "ls://project/sergigandia/zeroRepository/MasterOfInsec/MasterOfInsec/",
+           "ScriptGithubLink": "https://github.com/sergigandia/zeroRepository"
+        },
+        {
+           "ScriptName": "FuckingAwesomeLeeSin Reborn",
+           "ScripterName": "Asuna",
+           "ChampionID": 52,
+           "ChampionName": "Leesin",
+           "ScriptInstallLink": "ls://project/fueledbyflux/FARepo/FuckingAwesomeLeeSinReborn/FuckingAwesomeLeeSinReborn/",
+           "ScriptGithubLink": "https://github.com/fueledbyflux/FARepo"
+        },
+        {
+           "ScriptName": "Lee Sinho",
+           "ScripterName": "mrarticuno",
+           "ChampionID": 52,
+           "ChampionName": "Leesin",
+           "ScriptInstallLink": "ls://project/mrarticuno/Sin/",
+           "ScriptGithubLink": "https://github.com/mrarticuno/Sin"
+        }
+    ],
+    "Leona": [
+        {
+           "ScriptName": "ElEasy",
+           "ScripterName": "Bumek662 & JQuery",
+           "ChampionID": 53,
+           "ChampionName": "Leona",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElBundle/ElEasy/ElEasy/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        },
+        {
+           "ScriptName": "Support",
+           "ScripterName": "h3h3",
+           "ChampionID": 53,
+           "ChampionName": "Leona",
+           "ScriptInstallLink": "ls://project/h3h3/LeagueSharp/Support/",
+           "ScriptGithubLink": "https://github.com/h3h3/LeagueSharp"
+        },
+        {
+           "ScriptName": "FedLeona",
+           "ScripterName": "livetorise",
+           "ChampionID": 53,
+           "ChampionName": "Leona",
+           "ScriptInstallLink": "ls://project/livetorise/LeagueSharp/FedLeona/",
+           "ScriptGithubLink": "https://github.com/livetorise/LeagueSharp"
+        }
+    ],
+    "Lissandra": [
+        {
+           "ScriptName": "Lisandra",
+           "ScripterName": "Hellsing",
+           "ChampionID": 54,
+           "ChampionName": "Lissandra",
+           "ScriptInstallLink": "ls://project/Hellsing/LeagueSharp/Lissandra/",
+           "ScriptGithubLink": "https://github.com/Hellsing/LeagueSharp"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 54,
+           "ChampionName": "Lissandra",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        }
+    ],
+    "Lucian": [
+        {
+           "ScriptName": "iDZLucian",
+           "ScripterName": "DZ191 & Contributor",
+           "ChampionID": 55,
+           "ChampionName": "Lucian",
+           "ScriptInstallLink": "ls://project/DZ191/LSharpDZiJava/iDzLucian/iDzLucian/",
+           "ScriptGithubLink": "https://github.com/DZ191/LSharpDZiJava"
+        },
+        {
+           "ScriptName": "BrianSharp",
+           "ScripterName": "Brian",
+           "ChampionID": 55,
+           "ChampionName": "Lucian",
+           "ScriptInstallLink": "ls://project/brian0305/LeagueSharp/Brian%20Sharp/",
+           "ScriptGithubLink": "https://github.com/brian0305/LeagueSharp"
+        },
+        {
+           "ScriptName": "PerplexedLucian",
+           "ScripterName": "Perplexity",
+           "ChampionID": 55,
+           "ChampionName": "Lucian",
+           "ScriptInstallLink": "ls://project/Perplexity/LeagueSharp/PerplexedLucian/PerplexedLucian/",
+           "ScriptGithubLink": "https://github.com/Perplexity/LeagueSharp"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 55,
+           "ChampionName": "Lucian",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 55,
+           "ChampionName": "Lucian",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        },
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 55,
+           "ChampionName": "Lucian",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        }
+    ],
+    "Lulu": [
+        {
+           "ScriptName": "Support",
+           "ScripterName": "h3h3",
+           "ChampionID": 56,
+           "ChampionName": "Lulu",
+           "ScriptInstallLink": "ls://project/h3h3/LeagueSharp/Support/",
+           "ScriptGithubLink": "https://github.com/h3h3/LeagueSharp"
+        },
+        {
+           "ScriptName": "Stack Overflow",
+           "ScripterName": "mrarticuno",
+           "ChampionID": 56,
+           "ChampionName": "Lulu",
+           "ScriptInstallLink": "ls://project/mrarticuno/Mechanics-StackOverflow/Stack%20Overflow/",
+           "ScriptGithubLink": "https://github.com/mrarticuno/Mechanics-StackOverflow"
+        },
+        {
+           "ScriptName": "DevLulu",
+           "ScripterName": "InjectionDev",
+           "ChampionID": 56,
+           "ChampionName": "Lulu",
+           "ScriptInstallLink": "ls://project/InjectionDev/LeagueSharp/DevLulu/",
+           "ScriptGithubLink": "https://github.com/InjectionDev/LeagueSharp"
+        },
+        {
+           "ScriptName": "AIO",
+           "ScripterName": "prokopis",
+           "ChampionID": 56,
+           "ChampionName": "Lulu",
+           "ScriptInstallLink": "ls://project/prokopis/AIO/AIO/",
+           "ScriptGithubLink": "https://github.com/prokopis/AIO"
+        },
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 56,
+           "ChampionName": "Lulu",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        }
+    ],
+    "Lux": [
+        {
+           "ScriptName": "DZAIO",
+           "ScripterName": "DZ191",
+           "ChampionID": 57,
+           "ChampionName": "Lux",
+           "ScriptInstallLink": "ls://project/DZ191/LeagueSharp/DZAIO/",
+           "ScriptGithubLink": "https://github.com/DZ191/LeagueSharp"
+        },
+        {
+           "ScriptName": "Mid or Feed",
+           "ScripterName": "ChewyMoon",
+           "ChampionID": 57,
+           "ChampionName": "Lux",
+           "ScriptInstallLink": "ls://project/ChewyMoon/ChewyMoonScripts/Mid%20or%20Feed/",
+           "ScriptGithubLink": "https://github.com/ChewyMoon/ChewyMoonScripts"
+        },
+        {
+           "ScriptName": "ScientificLux",
+           "ScripterName": "ScienceARK",
+           "ChampionID": 57,
+           "ChampionName": "Lux",
+           "ScriptInstallLink": "ls://project/ScienceARK/ScientificLux/",
+           "ScriptGithubLink": "https://github.com/ScienceARK/ScientificLux"
+        },
+        {
+           "ScriptName": "DesomondLux",
+           "ScripterName": "desomond",
+           "ChampionID": 57,
+           "ChampionName": "Lux",
+           "ScriptInstallLink": "ls://project/desomond/LeagueSharp/DesomondLux/",
+           "ScriptGithubLink": "https://github.com/desomond/LeagueSharp"
+        }
+    ],
+    "Malphite": [
+        {
+           "ScriptName": "JustMalphite",
+           "ScripterName": "Justy",
+           "ChampionID": 58,
+           "ChampionName": "Malphite",
+           "ScriptInstallLink": "ls://project/Justyyy/LeagueSharp/JustMalphite/JustMalphite/",
+           "ScriptGithubLink": "https://github.com/Justyyy/LeagueSharp"
+        },
+        {
+           "ScriptName": "Malphite",
+           "ScripterName": "Korfez",
+           "ChampionID": 58,
+           "ChampionName": "Malphite",
+           "ScriptInstallLink": "ls://project/Korfez/Malphite/Malphite/",
+           "ScriptGithubLink": "https://github.com/Korfez/Malphite"
+        },
+        {
+           "ScriptName": "ElEasy",
+           "ScripterName": "Bumek662 & JQuery",
+           "ChampionID": 58,
+           "ChampionName": "Malphite",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElBundle/ElEasy/ElEasy/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        },
+        {
+           "ScriptName": "WuMalphite",
+           "ScripterName": "WujuSan",
+           "ChampionID": 58,
+           "ChampionName": "Malphite",
+           "ScriptInstallLink": "ls://project/WujuSan/LeagueSharp/WuMalphite/",
+           "ScriptGithubLink": "https://github.com/WujuSan/LeagueSharp/"
+        }
+    ],
+    "Malzahar": [
+        {
+           "ScriptName": "JustMalphite",
+           "ScripterName": "ChewyMoon",
+           "ChampionID": 59,
+           "ChampionName": "Malzahar",
+           "ScriptInstallLink": "ls://project/ChewyMoon/ChewyMoonScripts/Mid%20or%20Feed/",
+           "ScriptGithubLink": "https://github.com/ChewyMoon/ChewyMoonScripts"
+        },
+        {
+           "ScriptName": "Nexplies Malzahar",
+           "ScripterName": "Nexplie",
+           "ChampionID": 59,
+           "ChampionName": "Malzahar",
+           "ScriptInstallLink": "ls://project/Nexplie/LeagueRepo/Malzahar/",
+           "ScriptGithubLink": "https://github.com/Nexplie/LeagueRepo"
+        },
+        {
+           "ScriptName": "AIO",
+           "ScripterName": "prokopis",
+           "ChampionID": 59,
+           "ChampionName": "Malzahar",
+           "ScriptInstallLink": "ls://project/prokopis/AIO/AIO/",
+           "ScriptGithubLink": "https://github.com/prokopis/AIO"
+        }
+    ],
+    "Maokai": [
+        {
+           "ScriptName": "BrianSharp",
+           "ScripterName": "Brian",
+           "ChampionID": 60,
+           "ChampionName": "Maokai",
+           "ScriptInstallLink": "ls://project/brian0305/LeagueSharp/Brian%20Sharp/",
+           "ScriptGithubLink": "https://github.com/brian0305/LeagueSharp"
+        },
+        {
+           "ScriptName": "AIO",
+           "ScripterName": "prokopis",
+           "ChampionID": 60,
+           "ChampionName": "Maokai",
+           "ScriptInstallLink": "ls://project/prokopis/AIO/AIO/",
+           "ScriptGithubLink": "https://github.com/prokopis/AIO"
+        },
+        {
+           "ScriptName": "FedMaokai",
+           "ScripterName": "livetorise",
+           "ChampionID": 60,
+           "ChampionName": "Maokai",
+           "ScriptInstallLink": "ls://project/livetorise/LeagueSharp/FedMaokai/",
+           "ScriptGithubLink": "https://github.com/livetorise/LeagueSharp"
+        }
+    ],
+    "MasterYi": [
+        {
+           "ScriptName": "xQx-MasterYi",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 61,
+           "ChampionName": "Master Yi",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/MasterYi/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "Master Yi by Prunes",
+           "ScripterName": "Prunes",
+           "ChampionID": 61,
+           "ChampionName": "Master Yi",
+           "ScriptInstallLink": "ls://project/PrunesAssemblies/LeagueSharp/Master%20Yi%20Prunes/Master%20Yi%20by%20Prunes/",
+           "ScriptGithubLink": "https://github.com/PrunesAssemblies/LeagueSharp"
+        }
+    ],
+    "MissFortune": [
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 62,
+           "ChampionName": "Miss Fortune",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        },
+        {
+           "ScriptName": "D-MissF",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 62,
+           "ChampionName": "Miss Fortune",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/D-MissF/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 62,
+           "ChampionName": "Miss Fortune",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        }
+    ],
+    "Mordekaiser": [
+        {
+           "ScriptName": "UnderratedAIO",
+           "ScripterName": "Soresu",
+           "ChampionID": 63,
+           "ChampionName": "Mordekaiser",
+           "ScriptInstallLink": "ls://project/Soresu/LeagueSharp/UnderratedAIO/UnderratedAIO/",
+           "ScriptGithubLink": "https://github.com/Soresu/LeagueSharp"
+        },
+        {
+           "ScriptName": "Stack Overflow",
+           "ScripterName": "mrarticuno",
+           "ChampionID": 63,
+           "ChampionName": "Mordekaiser",
+           "ScriptInstallLink": "ls://project/mrarticuno/Mechanics-StackOverflow/Stack%20Overflow/",
+           "ScriptGithubLink": "https://github.com/mrarticuno/Mechanics-StackOverflow"
+        },
+        {
+           "ScriptName": "Mordekaiser",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 63,
+           "ChampionName": "Mordekaiser",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/Mordekaiser",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        }
+    ],
+    "Morgana": [
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 64,
+           "ChampionName": "Morgana",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        },
+        {
+           "ScriptName": "Support",
+           "ScripterName": "h3h3",
+           "ChampionID": 64,
+           "ChampionName": "Morgana",
+           "ScriptInstallLink": "ls://project/h3h3/LeagueSharp/Support/",
+           "ScriptGithubLink": "https://github.com/h3h3/LeagueSharp"
+        },
+        {
+           "ScriptName": "KurisuMorgana",
+           "ScripterName": "Kurisu",
+           "ChampionID": 64,
+           "ChampionName": "Morgana",
+           "ScriptInstallLink": "ls://project/xKurisu/KurisuSolutions/KurisuBlitz/",
+           "ScriptGithubLink": "https://github.com/xKurisu/KurisuSolutions"
+        }
+    ],
+    "Nami": [
+        {
+           "ScriptName": "ElNami:ReBurrito",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 65,
+           "ChampionName": "Nami",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElBundle/ElNamiBurrito/ElNamiBurrito/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        },
+        {
+           "ScriptName": "Support",
+           "ScripterName": "h3h3",
+           "ChampionID": 65,
+           "ChampionName": "Nami",
+           "ScriptInstallLink": "ls://project/h3h3/LeagueSharp/Support/",
+           "ScriptGithubLink": "https://github.com/h3h3/LeagueSharp"
+        }
+    ],
+    "Nasus": [
+        {
+           "ScriptName": "ElEasy",
+           "ScripterName": "Bumek662 & JQuery",
+           "ChampionID": 66,
+           "ChampionName": "Nasus",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElBundle/ElEasy/ElEasy/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        },
+        {
+           "ScriptName": "NasusFeelTheCane",
+           "ScripterName": "fueledbyflux",
+           "ChampionID": 66,
+           "ChampionName": "Nasus",
+           "ScriptInstallLink": "ls://project/fueledbyflux/LeagueSharp-Public/NasusFeelTheCane",
+           "ScriptGithubLink": "https://github.com/fueledbyflux/LeagueSharp-Public"
+        },
+        {
+           "ScriptName": "BrianSharp",
+           "ScripterName": "Brian",
+           "ChampionID": 66,
+           "ChampionName": "Nasus",
+           "ScriptInstallLink": "ls://project/brian0305/LeagueSharp/Brian%20Sharp/",
+           "ScriptGithubLink": "https://github.com/brian0305/LeagueSharp"
+        },
+        {
+           "ScriptName": "AIO",
+           "ScripterName": "prokopis",
+           "ChampionID": 66,
+           "ChampionName": "Nasus",
+           "ScriptInstallLink": "ls://project/prokopis/AIO/AIO/",
+           "ScriptGithubLink": "https://github.com/prokopis/AIO"
+        }
+    ],
+    "Nautilus": [
+        {
+           "ScriptName": "Danz-Nautilus",
+           "ScripterName": "Danz",
+           "ChampionID": 67,
+           "ChampionName": "Nautilus",
+           "ScriptInstallLink": "ls://project/SwipeDan/LeagueSharp/Nautilus_AnchorTheChallenger/Nautilus_AnchorTheChallenger/",
+           "ScriptGithubLink": "https://github.com/SwipeDan/LeagueSharp"
+        }
+    ],
+    "Nidalee": [
+        {
+           "ScriptName": "The Bestial Huntress",
+           "ScripterName": "blackyy",
+           "ChampionID": 68,
+           "ChampionName": "Nidalee",
+           "ScriptInstallLink": "ls://project/blackyy/LeagueSharp/Nidalee%20the%20Bestial%20Huntress/",
+           "ScriptGithubLink": "https://github.com/blackyy/LeagueSharp"
+        },
+        {
+           "ScriptName": "KurisuNidalee",
+           "ScripterName": "Kurisu",
+           "ChampionID": 68,
+           "ChampionName": "Nidalee",
+           "ScriptInstallLink": "ls://project/xKurisu/KurisuSolutions/KurisuNidalee/",
+           "ScriptGithubLink": "https://github.com/xKurisu/KurisuSolutions"
+        },
+        {
+           "ScriptName": "PerplexedNidalee",
+           "ScripterName": "Perplexity",
+           "ChampionID": 68,
+           "ChampionName": "Nidalee",
+           "ScriptInstallLink": "ls://project/Perplexity/LeagueSharp/PerplexedNidalee/",
+           "ScriptGithubLink": "https://github.com/Perplexity/LeagueSharp"
+        },
+        {
+           "ScriptName": "Nidalino",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 68,
+           "ChampionName": "Nidalee",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/Nidalino/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "Nidalee",
+           "ScripterName": "madk",
+           "ChampionID": 68,
+           "ChampionName": "Nidalee",
+           "ScriptInstallLink": "ls://project/madk/LeagueSharp/Nidalee/",
+           "ScriptGithubLink": "https://github.com/madk/LeagueSharp"
+        },
+        {
+           "ScriptName": "NidaPouncer",
+           "ScripterName": "Asuna",
+           "ChampionID": 68,
+           "ChampionName": "Nidalee",
+           "ScriptInstallLink": "ls://project/DZ191/LeagueSharp/NidaPouncer/NidaPouncer/",
+           "ScriptGithubLink": "https://github.com/DZ191/LeagueSharp"
+        }
+    ],
+    "Nocturne": [
+        {
+           "ScriptName": "GNomeProject",
+           "ScripterName": "Gnomexfire",
+           "ChampionID": 69,
+           "ChampionName": "Nocturne",
+           "ScriptInstallLink": "ls://project/GNomexfire/GNomeProject/GNomeProject/",
+           "ScriptGithubLink": "https://github.com/Gnomexfire/GNomeProject"
+        },
+        {
+           "ScriptName": "FedNocturne",
+           "ScripterName": "livetorise",
+           "ChampionID": 69,
+           "ChampionName": "Nocturne",
+           "ScriptInstallLink": "ls://project/livetorise/LeagueSharp/FedNocturne/",
+           "ScriptGithubLink": "https://github.com/livetorise/LeagueSharp"
+        },
+        {
+           "ScriptName": "JungleAIO",
+           "ScripterName": "Perplexity",
+           "ChampionID": 69,
+           "ChampionName": "Nocturne",
+           "ScriptInstallLink": "ls://project/eXtravoz/JungleProject/JungleAIO/",
+           "ScriptGithubLink": "https://github.com/eXtravoz/JungleProject"
+        }
+    ],
+    "Nunu": [
+        {
+           "ScriptName": "Support",
+           "ScripterName": "h3h3",
+           "ChampionID": 70,
+           "ChampionName": "Nunu",
+           "ScriptInstallLink": "ls://project/h3h3/LeagueSharp/Support/",
+           "ScriptGithubLink": "https://github.com/h3h3/LeagueSharp"
+        },
+        {
+           "ScriptName": "DJ Nunu",
+           "ScripterName": "xMusic",
+           "ChampionID": 70,
+           "ChampionName": "Nunu",
+           "ScriptInstallLink": "ls://project/xMusicLS/LeagueSharp/DJ%20Nunu/",
+           "ScriptGithubLink": "https://github.com/xMusicLS/LeagueSharp"
+        }
+    ],
+    "Olaf": [
+        {
+           "ScriptName": "Olaf",
+           "ScripterName": "satannoxus19",
+           "ChampionID": 71,
+           "ChampionName": "Olaf",
+           "ScriptInstallLink": "ls://project/satannoxus19/LeagueSharp/Olaf/Olaf/",
+           "ScriptGithubLink": "https://github.com/satannoxus19/LeagueSharp"
+        },
+        {
+           "ScriptName": "JustOlaf",
+           "ScripterName": "Justy",
+           "ChampionID": 71,
+           "ChampionName": "Olaf",
+           "ScriptInstallLink": "ls://project/Justyyy/LeagueSharp/JustOlaf/",
+           "ScriptGithubLink": "https://github.com/Justyyy/LeagueSharp"
+        },
+        {
+           "ScriptName": "Olafisback",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 71,
+           "ChampionName": "Olaf",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/Olaf%20is%20Back/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "Kysama-Series",
+           "ScripterName": "Kysamaa",
+           "ChampionID": 71,
+           "ChampionName": "Olaf",
+           "ScriptInstallLink": "ls://project/Kysamaa/Leaguesharp/Kysama-Series/",
+           "ScriptGithubLink": "https://github.com/Kysamaa/Leaguesharp"
+        }
+    ],
+    "Orianna": [
+        {
+           "ScriptName": "TehOrianna",
+           "ScripterName": "TehBlaxxor",
+           "ChampionID": 72,
+           "ChampionName": "Orianna",
+           "ScriptInstallLink": "ls://project/TehBlaxxor/LeagueSharp/Top%20or%20AFK/",
+           "ScriptGithubLink": "https://github.com/TehBlaxxor/LeagueSharp"
+        },
+        {
+           "ScriptName": "Orianna",
+           "ScripterName": "Esk0r",
+           "ChampionID": 72,
+           "ChampionName": "Orianna",
+           "ScriptInstallLink": "ls://project/Esk0r/LeagueSharp/Orianna/",
+           "ScriptGithubLink": "https://github.com/Esk0r/LeagueSharp"
+        },
+        {
+           "ScriptName": "TC-Orianna",
+           "ScripterName": "TC-Crew",
+           "ChampionID": 72,
+           "ChampionName": "Orianna",
+           "ScriptInstallLink": "ls://project/TC-Crew/L-Assemblies/Orianna/",
+           "ScriptGithubLink": "https://github.com/TC-Crew/L-Assemblies"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 72,
+           "ChampionName": "Orianna",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        }
+    ],
+    "Pantheon": [
+        {
+           "ScriptName": "xQx-Pantheon",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 73,
+           "ChampionName": "Pantheon",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/Pantheon/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "Spartan Spacebar",
+           "ScripterName": "Noobies",
+           "ChampionID": 73,
+           "ChampionName": "Pantheon",
+           "ScriptInstallLink": "ls://project/NoobSharp/LeagueSharp/Sparta%20SpaceBar/",
+           "ScriptGithubLink": "https://github.com/NoobSharp/LeagueSharp"
+        },
+        {
+           "ScriptName": "Pantheon",
+           "ScripterName": "RoachxD",
+           "ChampionID": 73,
+           "ChampionName": "Pantheon",
+           "ScriptInstallLink": "ls://project/RoachxD/LeagueSharp/Pantheon/",
+           "ScriptGithubLink": "https://github.com/RoachxD/LeagueSharp"
+        },
+        {
+           "ScriptName": "Be a Man-theon",
+           "ScripterName": "Nymphae",
+           "ChampionID": 73,
+           "ChampionName": "Pantheon",
+           "ScriptInstallLink": "ls://project/Nymphae/Mantheon/Be%20a%20Man-theon/Be%20a%20Man-theon/",
+           "ScriptGithubLink": "https://github.com/Nymphae/Mantheon"
+        },
+        {
+           "ScriptName": "SmartSeries",
+           "ScripterName": "Seth",
+           "ChampionID": 73,
+           "ChampionName": "Pantheon",
+           "ScriptInstallLink": "ls://project/Seth0x/LeagueRepo/MasterSeries/Hecarim/",
+           "ScriptGithubLink": "https://github.com/Seth0x/LeagueRepo"
+        },
+        {
+           "ScriptName": "JungleAIO",
+           "ScripterName": "Perplexity",
+           "ChampionID": 73,
+           "ChampionName": "Pantheon",
+           "ScriptInstallLink": "ls://project/eXtravoz/JungleProject/JungleAIO/",
+           "ScriptGithubLink": "https://github.com/eXtravoz/JungleProject"
+        }
+    ],
+    "Poppy": [
+        {
+           "ScriptName": "UnderratedAIO",
+           "ScripterName": "prt0x",
+           "ChampionID": 74,
+           "ChampionName": "Poppy",
+           "ScriptInstallLink": "ls://project/ptr0x/Poppy-for-the-Challenger/",
+           "ScriptGithubLink": "https://github.com/ptr0x/Poppy-for-the-Challenger"
+        },
+        {
+           "ScriptName": "BlackPoppy",
+           "ScripterName": "blackyy",
+           "ChampionID": 74,
+           "ChampionName": "Poppy",
+           "ScriptInstallLink": "ls://project/blackyy/LeagueSharp/BlackPoppy/",
+           "ScriptGithubLink": "https://github.com/blackyy/LeagueSharp"
+        },
+        {
+           "ScriptName": "R2D_Poppy",
+           "ScripterName": "Artud",
+           "ChampionID": 74,
+           "ChampionName": "Poppy",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/R2D_Poppy/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        }
+    ],
+    "Quinn": [
+        {
+           "ScriptName": "ScientificQuinn",
+           "ScripterName": "ScienceARK",
+           "ChampionID": 75,
+           "ChampionName": "Quinn",
+           "ScriptInstallLink": "ls://project/ScienceARK/ScientificQuinn/",
+           "ScriptGithubLink": "https://github.com/ScienceARK/ScientificQuinn"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 75,
+           "ChampionName": "Quinn",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        }
+    ],
+    "Rammus": [
+        {
+           "ScriptName": "BrianSharp",
+           "ScripterName": "Brian",
+           "ChampionID": 76,
+           "ChampionName": "Rammus",
+           "ScriptInstallLink": "ls://project/brian0305/LeagueSharp/Brian%20Sharp/",
+           "ScriptGithubLink": "https://github.com/brian0305/LeagueSharp"
+        }
+    ],
+    "Reksai": [
+        {
+           "ScriptName": "RektSai",
+           "ScripterName": "Hellsing",
+           "ChampionID": 77,
+           "ChampionName": "RekSai",
+           "ScriptInstallLink": "ls://project/Hellsing/LeagueSharp/RektSai/",
+           "ScriptGithubLink": "https://github.com/Hellsing/LeagueSharp"
+        }
+    ],
+    "Renekton": [
+        {
+           "ScriptName": "UnderratedAIO",
+           "ScripterName": "Soresu",
+           "ChampionID": 78,
+           "ChampionName": "Renekton",
+           "ScriptInstallLink": "ls://project/Soresu/LeagueSharp/UnderratedAIO/UnderratedAIO/",
+           "ScriptGithubLink": "https://github.com/Soresu/LeagueSharp"
+        },
+        {
+           "ScriptName": "DatRenekton",
+           "ScripterName": "GoldenGatesPB",
+           "ChampionID": 78,
+           "ChampionName": "Renekton",
+           "ScriptInstallLink": "ls://project/GoldenGatesPB/league-sharp/DatRenekton/",
+           "ScriptGithubLink": "https://github.com/GoldenGatesPB/league-sharp"
+        }
+    ],
+    "Rengar": [
+        {
+           "ScriptName": "SKO Rengar V2",
+           "ScripterName": "SKOx0",
+           "ChampionID": 79,
+           "ChampionName": "Rengar",
+           "ScriptInstallLink": "ls://project/SKOx0/LeagueSharp/SKO%20Rengar%20V2/",
+           "ScriptGithubLink": "https://github.com/SKOx0/LeagueSharp"
+        },
+        {
+           "ScriptName": "AIO",
+           "ScripterName": "prokopis",
+           "ChampionID": 79,
+           "ChampionName": "Rengar",
+           "ScriptInstallLink": "ls://project/prokopis/AIO/AIO/",
+           "ScriptGithubLink": "https://github.com/prokopis/AIO"
+        },
+        {
+           "ScriptName": "ElRengar",
+           "ScripterName": "JQuery",
+           "ChampionID": 79,
+           "ChampionName": "Rengar",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElRengar/ElRengar/ElRengar/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElRengar"
+        }
+    ],
+    "Riven": [
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 80,
+           "ChampionName": "Riven",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        },
+        {
+           "ScriptName": "FuckingAwesomeRiven",
+           "ScripterName": "fueledbyflux",
+           "ChampionID": 80,
+           "ChampionName": "Riven",
+           "ScriptInstallLink": "ls://project/fueledbyflux/FARepo/FuckingAwesomeRiven/FuckingAwesomeRiven/",
+           "ScriptGithubLink": "https://github.com/fueledbyflux/FARepo"
+        },
+        {
+           "ScriptName": "EasyPeasyRivenSqueezy",
+           "ScripterName": "ChewyMoon",
+           "ChampionID": 80,
+           "ChampionName": "Riven",
+           "ScriptInstallLink": "ls://project/ChewyMoon/ChewyMoonScripts/EasyPeasyRivenSqueezy/",
+           "ScriptGithubLink": "https://github.com/ChewyMoon/ChewyMoonScripts"
+        },
+        {
+           "ScriptName": "KurisuRiven",
+           "ScripterName": "Kurisu",
+           "ChampionID": 80,
+           "ChampionName": "Riven",
+           "ScriptInstallLink": "ls://project/xKurisu/KurisuSolutions/KurisuRiven/",
+           "ScriptGithubLink": "https://github.com/xKurisu/KurisuSolutions"
+        }
+    ],
+    "Rumble": [
+        {
+           "ScriptName": "ElRumble",
+           "ScripterName": "JQuery",
+           "ChampionID": 81,
+           "ChampionName": "Rumble",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElBundle/ElRumble/ElRumble/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 81,
+           "ChampionName": "Rumble",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        }
+    ],
+    "Ryze": [
+        {
+           "ScriptName": "SmartRyze",
+           "ScripterName": "JouzaLoL",
+           "ChampionID": 82,
+           "ChampionName": "Ryze",
+           "ScriptInstallLink": "ls://project/JouzaLoL/LeagueSharp/Ryze/",
+           "ScriptGithubLink": "https://github.com/JouzaLoL/LeagueSharp"
+        },
+        {
+           "ScriptName": "BrianSharp",
+           "ScripterName": "Brian",
+           "ChampionID": 82,
+           "ChampionName": "Ryze",
+           "ScriptInstallLink": "ls://project/brian0305/LeagueSharp/Brian%20Sharp/",
+           "ScriptGithubLink": "https://github.com/brian0305/LeagueSharp"
+        },
+        {
+           "ScriptName": "DevRyze",
+           "ScripterName": "InjectionDev",
+           "ChampionID": 82,
+           "ChampionName": "Ryze",
+           "ScriptInstallLink": "ls://project/InjectionDev/LeagueSharp/DevRyze/",
+           "ScriptGithubLink": "https://github.com/InjectionDev/LeagueSharp"
+        },
+        {
+           "ScriptName": "EasyRyze",
+           "ScripterName": "ikkeflikkeri",
+           "ChampionID": 82,
+           "ChampionName": "Ryze",
+           "ScriptInstallLink": "ls://project/ikkeflikkeri/LeagueSharp/EasyRyze/EasyRyze/",
+           "ScriptGithubLink": "https://github.com/ikkeflikkeri/LeagueSharp"
+        },
+        {
+           "ScriptName": "Ryze",
+           "ScripterName": "Esk0r",
+           "ChampionID": 82,
+           "ChampionName": "Ryze",
+           "ScriptInstallLink": "ls://project/Esk0r/LeagueSharp/Ryze/",
+           "ScriptGithubLink": "https://github.com/Esk0r/LeagueSharp"
+        },
+        {
+           "ScriptName": "Stoned Series",
+           "ScripterName": "TheKushStyle",
+           "ChampionID": 82,
+           "ChampionName": "Ryze",
+           "ScriptInstallLink": "ls://project/TheKushStyle/LeagueSharp/StonedSeriesAIO/",
+           "ScriptGithubLink": "https://github.com/TheKushStyle/LeagueSharp"
+        },
+        {
+           "ScriptName": "DatRyze",
+           "ScripterName": "GoldenGatesPB",
+           "ChampionID": 82,
+           "ChampionName": "Ryze",
+           "ScriptInstallLink": "ls://project/GoldenGatesPB/league-sharp/DatRyze/",
+           "ScriptGithubLink": "https://github.com/GoldenGatesPB/league-sharp"
+        },
+        {
+           "ScriptName": "DJ Ryze",
+           "ScripterName": "xMusic",
+           "ChampionID": 82,
+           "ChampionName": "Ryze",
+           "ScriptInstallLink": "ls://project/xMusicLS/LeagueSharp/DJ%20Ryze/",
+           "ScriptGithubLink": "https://github.com/xMusicLS/LeagueSharp"
+        },
+        {
+           "ScriptName": "Simple Ryze",
+           "ScripterName": "Nymphae",
+           "ChampionID": 82,
+           "ChampionName": "Ryze",
+           "ScriptInstallLink": "ls://project/Nymphae/SimpleRyze",
+           "ScriptGithubLink": "https://github.com/Nymphae/SimpleRyze"
+        },
+        {
+           "ScriptName": "K-Ryze",
+           "ScripterName": "Kenshin",
+           "ChampionID": 82,
+           "ChampionName": "Ryze",
+           "ScriptInstallLink": "ls://project/Kenshinlol/LeagueSharp/KenshinRyze/KenshinRyze/",
+           "ScriptGithubLink": "https://github.com/Kenshinlol/LeagueSharp"
+        }
+    ],
+    "Sejuani": [
+        {
+           "ScriptName": "ElSejuani",
+           "ScripterName": "JQuery",
+           "ChampionID": 83,
+           "ChampionName": "Sejuani",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElBundle/ElSejuani/ElSejuani/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        },
+        {
+           "ScriptName": "UnderratedAIO",
+           "ScripterName": "Soresu",
+           "ChampionID": 83,
+           "ChampionName": "Sejuani",
+           "ScriptInstallLink": "ls://project/Soresu/LeagueSharp/UnderratedAIO/UnderratedAIO/",
+           "ScriptGithubLink": "https://github.com/Soresu/LeagueSharp"
+        }
+    ],
+    "Shaco": [
+        {
+           "ScriptName": "ChewyMoonsShaco",
+           "ScripterName": "ChewyMoon",
+           "ChampionID": 84,
+           "ChampionName": "Shaco",
+           "ScriptInstallLink": "ls://project/ChewyMoon/ChewyMoonScripts/ChewyMoonsShaco/",
+           "ScriptGithubLink": "https://github.com/ChewyMoon/ChewyMoonScripts"
+        }
+    ],
+    "Shen": [
+        {
+           "ScriptName": "UnderratedAIO",
+           "ScripterName": "Soresu",
+           "ChampionID": 85,
+           "ChampionName": "Shen",
+           "ScriptInstallLink": "ls://project/Soresu/LeagueSharp/UnderratedAIO/UnderratedAIO/",
+           "ScriptGithubLink": "https://github.com/Soresu/LeagueSharp"
+        },
+        {
+           "ScriptName": "BrianSharp",
+           "ScripterName": "Brian",
+           "ChampionID": 85,
+           "ChampionName": "Shen",
+           "ScriptInstallLink": "ls://project/brian0305/LeagueSharp/Brian%20Sharp/",
+           "ScriptGithubLink": "https://github.com/brian0305/LeagueSharp"
+        },
+        {
+           "ScriptName": "Shen",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 85,
+           "ChampionName": "Shen",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/Shen/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        }
+    ],
+    "Shyvana": [
+        {
+           "ScriptName": "AIO",
+           "ScripterName": "prokopis",
+           "ChampionID": 86,
+           "ChampionName": "Shyvana",
+           "ScriptInstallLink": "ls://project/prokopis/AIO/AIO/",
+           "ScriptGithubLink": "https://github.com/prokopis/AIO"
+        },
+        {
+           "ScriptName": "D-Shyvana",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 86,
+           "ChampionName": "Shyvana",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/D-Shyvana/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        }
+    ],
+    "Singed": [
+        {
+           "ScriptName": "ElSinged",
+           "ScripterName": "JQuery",
+           "ChampionID": 87,
+           "ChampionName": "Singed",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElBundle/ElSinged/ElSinged/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        }
+    ],
+    "Sion": [
+        {
+           "ScriptName": "Sion",
+           "ScripterName": "TC-Crew",
+           "ChampionID": 88,
+           "ChampionName": "Sion",
+           "ScriptInstallLink": "ls://project/TC-Crew/L-Assemblies/Sion/",
+           "ScriptGithubLink": "https://github.com/TC-Crew/L-Assemblies"
+        }
+    ],
+    "Sivir": [
+        {
+           "ScriptName": "Sivir OKTW",
+           "ScripterName": "OneKeyToWin",
+           "ChampionID": 89,
+           "ChampionName": "Sivir",
+           "ScriptInstallLink": "ls://project/OneKeyToWin/LeagueRepo/Sivir/",
+           "ScriptGithubLink": "https://github.com/OneKeyToWin/LeagueRepo"
+        },
+        {
+           "ScriptName": "ProSeries",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 89,
+           "ChampionName": "Sivir",
+           "ScriptInstallLink": "ls://project/legacy3/LeagueSharp/ProSeries/",
+           "ScriptGithubLink": "https://github.com/legacy3/LeagueSharp"
+        },
+        {
+           "ScriptName": "[xcsoft] SharpShooter",
+           "ScripterName": "xcsoft",
+           "ChampionID": 89,
+           "ChampionName": "Sivir",
+           "ScriptInstallLink": "ls://project/xcsoftforlsharp/LeagueSharp/[xcsoft]%20SharpShooter/",
+           "ScriptGithubLink": "https://github.com/xcsoftforlsharp/LeagueSharp"
+        },
+        {
+           "ScriptName": "GN Sivir",
+           "ScripterName": "Gnomexfire",
+           "ChampionID": 89,
+           "ChampionName": "Sivir",
+           "ScriptInstallLink": "ls://project/Gnomexfire/GNomeProject/GNomeProject/",
+           "ScriptGithubLink": "https://github.com/Gnomexfire/GNomeProject"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 89,
+           "ChampionName": "Sivir",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        }
+    ],
+    "Skarner": [
+        {
+           "ScriptName": "AIO",
+           "ScripterName": "prokopis",
+           "ChampionID": 90,
+           "ChampionName": "Skarner",
+           "ScriptInstallLink": "ls://project/prokopis/AIO/AIO/",
+           "ScriptGithubLink": "https://github.com/prokopis/AIO"
+        },
+        {
+           "ScriptName": "Skarner",
+           "ScripterName": "Onfinite",
+           "ChampionID": 90,
+           "ChampionName": "Skarner",
+           "ScriptInstallLink": "ls://project/Onfinite/LeagueSharp/Skarner/Skarner/",
+           "ScriptGithubLink": "https://github.com/Onfinite/LeagueSharp"
+        }
+    ],
+    "Sona": [
+        {
+           "ScriptName": "ElEasy",
+           "ScripterName": "Bumek662 & JQuery",
+           "ChampionID": 91,
+           "ChampionName": "Sona",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElBundle/ElEasy/ElEasy/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        },
+        {
+           "ScriptName": "Support",
+           "ScripterName": "h3h3",
+           "ChampionID": 91,
+           "ChampionName": "Sona",
+           "ScriptInstallLink": "ls://project/h3h3/LeagueSharp/Support/",
+           "ScriptGithubLink": "https://github.com/h3h3/LeagueSharp"
+        },
+        {
+           "ScriptName": "Royal Song Of Sona",
+           "ScripterName": "princer007",
+           "ChampionID": 91,
+           "ChampionName": "Sona",
+           "ScriptInstallLink": "ls://project/princer007/LSResurrected/RoyalSongOfSona/",
+           "ScriptGithubLink": "https://github.com/princer007/LSResurrected"
+        }
+    ],
+    "Soraka": [
+        {
+           "ScriptName": "Support",
+           "ScripterName": "h3h3",
+           "ChampionID": 92,
+           "ChampionName": "Soraka",
+           "ScriptInstallLink": "ls://project/h3h3/LeagueSharp/Support/",
+           "ScriptGithubLink": "https://github.com/h3h3/LeagueSharp"
+        },
+        {
+           "ScriptName": "Sophies Soraka",
+           "ScripterName": "ChewyMoon",
+           "ChampionID": 92,
+           "ChampionName": "Soraka",
+           "ScriptInstallLink": "ls://project/ChewyMoon/ChewyMoonScripts/Sophie's%20Soraka/",
+           "ScriptGithubLink": "https://github.com/ChewyMoon/ChewyMoonScripts"
+        },
+        {
+           "ScriptName": "Soraka#",
+           "ScripterName": "TC-Crew",
+           "ChampionID": 92,
+           "ChampionName": "Soraka",
+           "ScriptInstallLink": "ls://project/TC-Crew/L-Assemblies/Soraka/",
+           "ScriptGithubLink": "https://github.com/TC-Crew/L-Assemblies"
+        }
+    ],
+    "Swain": [
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 93,
+           "ChampionName": "Swain",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        },
+        {
+           "ScriptName": "The Mocking Swain",
+           "ScripterName": "ryuzakihacks",
+           "ChampionID": 93,
+           "ChampionName": "Swain",
+           "ScriptInstallLink": "ls://project/ryuzakihacks/LeagueSharp/The%20Mocking%20Swain/The%20Mocking%20Swain/",
+           "ScriptGithubLink": "https://github.com/ryuzakihacks/LeagueSharp"
+        },
+        {
+           "ScriptName": "Swain",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 93,
+           "ChampionName": "Swain",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/Swain/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        }
+    ],
+    "Syndra": [
+        {
+           "ScriptName": "Syndra",
+           "ScripterName": "Esk0r",
+           "ChampionID": 94,
+           "ChampionName": "Syndra",
+           "ScriptInstallLink": "ls://project/Esk0r/LeagueSharp/Syndra/",
+           "ScriptGithubLink": "https://github.com/Esk0r/LeagueSharp"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 94,
+           "ChampionName": "Syndra",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        }
+    ],
+    "Talon": [
+        {
+           "ScriptName": "Stack Overflow",
+           "ScripterName": "mrarticuno",
+           "ChampionID": 95,
+           "ChampionName": "Talon",
+           "ScriptInstallLink": "ls://project/mrarticuno/Mechanics-StackOverflow/Stack%20Overflow/",
+           "ScriptGithubLink": "https://github.com/mrarticuno/Mechanics-StackOverflow"
+        },
+        {
+           "ScriptName": "Apollos Talon",
+           "ScripterName": "xSalice",
+           "ChampionID": 95,
+           "ChampionName": "Talon",
+           "ScriptInstallLink": "ls://project/Apollo16/LeagueSharp/Talon/Talon/",
+           "ScriptGithubLink": "https://github.com/Apollo16/LeagueSharp"
+        },
+        {
+           "ScriptName": "AIO",
+           "ScripterName": "prokopis",
+           "ChampionID": 95,
+           "ChampionName": "Talon",
+           "ScriptInstallLink": "ls://project/prokopis/AIO/AIO/",
+           "ScriptGithubLink": "https://github.com/prokopis/AIO"
+        },
+        {
+           "ScriptName": "ElTalon",
+           "ScripterName": "JQuery",
+           "ChampionID": 95,
+           "ChampionName": "Talon",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElTalon/ElTalon/ElTalon/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElTalon"
+        },
+        {
+           "ScriptName": "Talon",
+           "ScripterName": "badao",
+           "ChampionID": 95,
+           "ChampionName": "Talon",
+           "ScriptInstallLink": "ls://project/badao/Talon/Talon/",
+           "ScriptGithubLink": "https://github.com/badao/Talon"
+        }
+    ],
+    "Taric": [
+        {
+           "ScriptName": "ElEasy",
+           "ScripterName": "Bumek662 & JQuery",
+           "ChampionID": 96,
+           "ChampionName": "Taric",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElBundle/ElEasy/ElEasy/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        },
+        {
+           "ScriptName": "Support",
+           "ScripterName": "h3h3",
+           "ChampionID": 96,
+           "ChampionName": "Taric",
+           "ScriptInstallLink": "ls://project/h3h3/LeagueSharp/Support/",
+           "ScriptGithubLink": "https://github.com/h3h3/LeagueSharp"
+        }
+    ],
+    "Teemo": [
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 97,
+           "ChampionName": "Teemo",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        },
+        {
+           "ScriptName": "PandaTeemo",
+           "ScripterName": "KarmaPanda",
+           "ChampionID": 97,
+           "ChampionName": "Teemo",
+           "ScriptInstallLink": "ls://project/KarmaPanda/LeagueSharp-Development/PandaTeemo/PandaTeemo/",
+           "ScriptGithubLink": "https://github.com/KarmaPanda/LeagueSharp-Development"
+        },
+        {
+           "ScriptName": "HuyNK Series",
+           "ScripterName": "huynkprovn",
+           "ChampionID": 97,
+           "ChampionName": "Teemo",
+           "ScriptInstallLink": "ls://project/huynkprovn/HuyNK-Ass/HuyNKSeries/",
+           "ScriptGithubLink": "https://github.com/huynkprovn/HuyNK-Ass"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 97,
+           "ChampionName": "Teemo",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        }
+    ],
+    "Thresh": [
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 98,
+           "ChampionName": "Thresh",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        },
+        {
+           "ScriptName": "FuckingAwesomeThresh",
+           "ScripterName": "fueledbyflux",
+           "ChampionID": 98,
+           "ChampionName": "Thresh",
+           "ScriptInstallLink": "ls://project/fueledbyflux/FARepo/FuckingAwesomeThresh/FuckingAwesomeThresh/",
+           "ScriptGithubLink": "https://github.com/fueledbyflux/FARepo"
+        },
+        {
+           "ScriptName": "Support",
+           "ScripterName": "h3h3",
+           "ChampionID": 98,
+           "ChampionName": "Thresh",
+           "ScriptInstallLink": "ls://project/h3h3/LeagueSharp/Support/",
+           "ScriptGithubLink": "https://github.com/h3h3/LeagueSharp"
+        },
+        {
+           "ScriptName": "SupSeries",
+           "ScripterName": "mrarticuno",
+           "ChampionID": 98,
+           "ChampionName": "Thresh",
+           "ScriptInstallLink": "ls://project/mrarticuno/ASS-Thresh",
+           "ScriptGithubLink": "https://github.com/mrarticuno/ASS-Thresh"
+        },
+        {
+           "ScriptName": "yol0Thresh",
+           "ScripterName": "yol0swag",
+           "ChampionID": 98,
+           "ChampionName": "Thresh",
+           "ScriptInstallLink": "ls://project/yol0swag/LeagueSharp/yol0Thresh/yol0Thresh/",
+           "ScriptGithubLink": "https://github.com/yol0swag/LeagueSharp"
+        }
+    ],
+    "Tristana": [
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 99,
+           "ChampionName": "Tristana",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        },
+        {
+           "ScriptName": "ProSeries",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 99,
+           "ChampionName": "Tristana",
+           "ScriptInstallLink": "ls://project/legacy3/LeagueSharp/ProSeries/",
+           "ScriptGithubLink": "https://github.com/legacy3/LeagueSharp"
+        },
+        {
+           "ScriptName": "[xcsoft] SharpShooter",
+           "ScripterName": "xcsoft",
+           "ChampionID": 99,
+           "ChampionName": "Tristana",
+           "ScriptInstallLink": "ls://project/xcsoftforlsharp/LeagueSharp/[xcsoft]%20SharpShooter/",
+           "ScriptGithubLink": "https://github.com/xcsoftforlsharp/LeagueSharp"
+        },
+        {
+           "ScriptName": "Over9000_Rockets",
+           "ScripterName": "xcxooxl",
+           "ChampionID": 99,
+           "ChampionName": "Tristana",
+           "ScriptInstallLink": "ls://project/xcxooxl/Lsharp/Over9000_Rockets/Over9000_Rockets/",
+           "ScriptGithubLink": "https://github.com/xcxooxl/Lsharp"
+        },
+        {
+           "ScriptName": "Tristana",
+           "ScripterName": "Alrik",
+           "ChampionID": 99,
+           "ChampionName": "Tristana",
+           "ScriptInstallLink": "ls://project/AlrikSharp/LeagueSharp/Tristana/",
+           "ScriptGithubLink": "https://github.com/AlrikSharp/LeagueSharp"
+        },
+        {
+           "ScriptName": "PewPewTristana",
+           "ScripterName": "ScienceARK",
+           "ChampionID": 99,
+           "ChampionName": "Tristana",
+           "ScriptInstallLink": "ls://project/ScienceARK/PewPewTristana/",
+           "ScriptGithubLink": "https://github.com/ScienceARK/PewPewTristana"
+        },
+        {
+           "ScriptName": "D-Tristana",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 99,
+           "ChampionName": "Tristana",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/D-Tristana/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 99,
+           "ChampionName": "Tristana",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        }
+    ],
+    "Trundle": [
+        {
+           "ScriptName": "SG Trundle",
+           "ScripterName": "microsoft10",
+           "ChampionID": 100,
+           "ChampionName": "Trundle",
+           "ScriptInstallLink": "ls://project/microsoft10/LStest/SG%20Trundle/",
+           "ScriptGithubLink": "https://github.com/microsoft10/LStest"
+        },
+        {
+           "ScriptName": "Trundle",
+           "ScripterName": "dotCr0",
+           "ChampionID": 100,
+           "ChampionName": "Trundle",
+           "ScriptInstallLink": "ls://project/dotCr0/sharpie/Trundle/",
+           "ScriptGithubLink": "https://github.com/dotCr0/sharpie"
+        }
+    ],
+    "Tryndamere": [
+        {
+           "ScriptName": "BrianSharp",
+           "ScripterName": "Brian",
+           "ChampionID": 101,
+           "ChampionName": "Tryndamere",
+           "ScriptInstallLink": "ls://project/brian0305/LeagueSharp/Brian%20Sharp/",
+           "ScriptGithubLink": "https://github.com/brian0305/LeagueSharp"
+        },
+        {
+           "ScriptName": "Tryndamere",
+           "ScripterName": "dotCr0",
+           "ChampionID": 101,
+           "ChampionName": "Tryndamere",
+           "ScriptInstallLink": "ls://project/dotCr0/sharpie/Tryndamere/",
+           "ScriptGithubLink": "https://github.com/dotCr0/sharpie"
+        },
+        {
+           "ScriptName": "Mechanics",
+           "ScripterName": "mrarticuno",
+           "ChampionID": 101,
+           "ChampionName": "Tryndamere",
+           "ScriptInstallLink": "ls://project/mrarticuno/Mechanics-StackOverflow/tree/master/Stack%20Overflow",
+           "ScriptGithubLink": "https://github.com/mrarticuno/Mechanics-StackOverflow"
+        }
+    ],
+    "TwistedFate": [
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 102,
+           "ChampionName": "Twisted Fate",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        },
+        {
+           "ScriptName": "[xcsoft] Twisted Fate",
+           "ScripterName": "xcsoft",
+           "ChampionID": 102,
+           "ChampionName": "Twisted Fate",
+           "ScriptInstallLink": "ls://project/xcsoftforlsharp/LeagueSharp/%5Bxcsoft%5D%20Twisted%20Fate/",
+           "ScriptGithubLink": "https://github.com/xcsoftforlsharp/LeagueSharp"
+        }
+    ],
+    "Twitch": [
+        {
+           "ScriptName": "DevTwitch",
+           "ScripterName": "InjectionDev",
+           "ChampionID": 103,
+           "ChampionName": "Twitch",
+           "ScriptInstallLink": "ls://project/InjectionDev/LeagueSharp/DevTwitch/",
+           "ScriptGithubLink": "https://github.com/InjectionDev/LeagueSharp"
+        },
+        {
+           "ScriptName": "[xcsoft] SharpShooter",
+           "ScripterName": "xcsoft",
+           "ChampionID": 103,
+           "ChampionName": "Twitch",
+           "ScriptInstallLink": "ls://project/xcsoftforlsharp/LeagueSharp/%5Bxcsoft%5D%20SharpShooter/",
+           "ScriptGithubLink": "https://github.com/xcsoftforlsharp/LeagueSharp"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 103,
+           "ChampionName": "Twitch",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        }
+    ],
+    "Udyr": [
+        {
+           "ScriptName": "BrianSharp",
+           "ScripterName": "Brian",
+           "ChampionID": 104,
+           "ChampionName": "Udyr",
+           "ScriptInstallLink": "ls://project/brian0305/LeagueSharp/Brian%20Sharp/",
+           "ScriptGithubLink": "https://github.com/brian0305/LeagueSharp"
+        },
+        {
+           "ScriptName": "Godyr",
+           "ScripterName": "madk",
+           "ChampionID": 104,
+           "ChampionName": "Udyr",
+           "ScriptInstallLink": "ls://project/madk/LeagueSharp/Godyr/",
+           "ScriptGithubLink": "https://github.com/madk/LeagueSharp"
+        },
+        {
+           "ScriptName": "D-Udyr",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 104,
+           "ChampionName": "Udyr",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/D-Udyr/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        }
+    ],
+    "Urgot": [
+        {
+           "ScriptName": "Urgot OKTW",
+           "ScripterName": "OneKeyToWin",
+           "ChampionID": 105,
+           "ChampionName": "Urgot",
+           "ScriptInstallLink": "ls://project/OneKeyToWin/LeagueRepo/Anivia_OKTW/",
+           "ScriptGithubLink": "https://github.com/OneKeyToWin/LeagueRepo"
+        },
+        {
+           "ScriptName": "TUrgot",
+           "ScripterName": "Trees",
+           "ChampionID": 105,
+           "ChampionName": "Urgot",
+          "ScriptInstallLink": "ls://project/trees-software/leaguesharp/TUrgot/",
+           "ScriptGithubLink": "https://github.com/trees-software/leaguesharp"
+        },
+        {
+           "ScriptName": "Prince Urgot",
+           "ScripterName": "Apollo",
+           "ChampionID": 105,
+           "ChampionName": "Urgot",
+           "ScriptInstallLink": "ls://project/Apollo16/LeagueSharp/Prince%20Urgot/Prince%20Urgot/",
+           "ScriptGithubLink": "https://github.com/Apollo16/LeagueSharp"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 105,
+           "ChampionName": "Urgot",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        }
+    ],
+    "Varus": [
+        {
+           "ScriptName": "ElVarus",
+           "ScripterName": "JQuery",
+           "ChampionID": 106,
+           "ChampionName": "Varus",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElBundle/Elvarus/Elvarus/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        },
+        {
+           "ScriptName": "Varus",
+           "ScripterName": "Hellsing",
+           "ChampionID": 106,
+           "ChampionName": "Varus",
+           "ScriptInstallLink": "ls://project/Hellsing/LeagueSharp/Varus/",
+           "ScriptGithubLink": "https://github.com/Hellsing/LeagueSharp"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 106,
+           "ChampionName": "Varus",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        }
+    ],
+    "Vayne": [
+        {
+           "ScriptName": "Vayne OKTW",
+           "ScripterName": "OneKeyToWin",
+           "ChampionID": 107,
+           "ChampionName": "Vayne",
+           "ScriptInstallLink": "ls://project/OneKeyToWin/LeagueRepo/Vayne_OneKeyToWin/",
+           "ScriptGithubLink": "https://github.com/OneKeyToWin/LeagueRepo"
+        },
+        {
+           "ScriptName": "MAC",
+           "ScripterName": "mrarticuno, TehBlaxxor & GoldenGates",
+           "ChampionID": 107,
+           "ChampionName": "Vayne",
+           "ScriptInstallLink": "ls://project/TehBlaxxor/LeagueSharp/MAC/",
+           "ScriptGithubLink": "https://github.com/TehBlaxxor/LeagueSharp"
+        },
+        {
+           "ScriptName": "VayneHunter Reborn",
+           "ScripterName": "DZ191",
+           "ChampionID": 107,
+           "ChampionName": "Vayne",
+           "ScriptInstallLink": "ls://project/DZ191/LeagueSharp/VayneHunterReborn/",
+           "ScriptGithubLink": "https://github.com/DZ191/LeagueSharp"
+        },
+        {
+           "ScriptName": "[xcsoft] SharpShooter",
+           "ScripterName": "xcsoft",
+           "ChampionID": 107,
+           "ChampionName": "Vayne",
+           "ScriptInstallLink": "ls://project/xcsoftforlsharp/LeagueSharp/[xcsoft]%20SharpShooter/",
+           "ScriptGithubLink": "https://github.com/xcsoftforlsharp/LeagueSharp"
+        },
+        {
+           "ScriptName": "GNomeProject",
+           "ScripterName": "Gnomexfire",
+           "ChampionID": 107,
+           "ChampionName": "Vayne",
+           "ScriptInstallLink": "ls://project/Gnomexfire/GNomeProject/GNomeProject/",
+           "ScriptGithubLink": "https://github.com/Gnomexfire/GNomeProject"
+        },
+        {
+           "ScriptName": "hi im gosu",
+           "ScripterName": "blm95",
+           "ChampionID": 107,
+           "ChampionName": "Vayne",
+           "ScriptInstallLink": "ls://project/blm95/LeagueSharp2/hi%20im%20gosu/hi%20im%20gosu/",
+           "ScriptGithubLink": "https://github.com/blm95/LeagueSharp2"
+        },
+        {
+           "ScriptName": "Marksman",
+           "ScripterName": "Kortatu, xQx & Legacy",
+           "ChampionID": 107,
+           "ChampionName": "Vayne",
+           "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
+           "ScriptGithubLink": "https://github.com/legacy3/Marksman"
+        }
+    ],
+    "Veigar": [
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 108,
+           "ChampionName": "Veigar",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        },
+        {
+           "ScriptName": "Veigar",
+           "ScripterName": "Hellsing",
+           "ChampionID": 108,
+           "ChampionName": "Veigar",
+           "ScriptInstallLink": "ls://project/Hellsing/LeagueSharp/Veigar/",
+           "ScriptGithubLink": "https://github.com/Hellsing/LeagueSharp"
+        }
+    ],
+    "Velkoz": [
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 109,
+           "ChampionName": "Velkoz",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        },
+        {
+           "ScriptName": "DZAIO",
+           "ScripterName": "DZ191",
+           "ChampionID": 109,
+           "ChampionName": "Velkoz",
+           "ScriptInstallLink": "ls://project/DZ191/LeagueSharp/DZAIO/",
+           "ScriptGithubLink": "https://github.com/DZ191/LeagueSharp"
+        }
+    ],
+    "Vi": [
+        {
+           "ScriptName": "Vi",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 110,
+           "ChampionName": "Vi",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/Vi/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        }
+    ],
+    "Viktor": [
+        {
+           "ScriptName": "Apollos Viktor",
+           "ScripterName": "Apollo",
+           "ChampionID": 111,
+           "ChampionName": "Viktor",
+           "ScriptInstallLink": "ls://project/Apollo16/LeagueSharp/Viktor/",
+           "ScriptGithubLink": "https://github.com/Apollo16/LeagueSharp"
+        },
+        {
+           "ScriptName": "Hells Viktor",
+           "ScripterName": "Hellsing",
+           "ChampionID": 111,
+           "ChampionName": "Viktor",
+           "ScriptInstallLink": "ls://project/Hellsing/LeagueSharp/Viktor/",
+           "ScriptGithubLink": "https://github.com/Hellsing/LeagueSharp/"
+        }
+    ],
+    "Vladimir": [
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 112,
+           "ChampionName": "Vladimir",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        },
+        {
+           "ScriptName": "ElVladimir:Reborn",
+           "ScripterName": "JQuery",
+           "ChampionID": 112,
+           "ChampionName": "Vladimir",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElBundle/ElVladimirReborn/ElVladimirReborn/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        },
+        {
+           "ScriptName": "OPGodKaiser",
+           "ScripterName": "SuperKaisers",
+           "ChampionID": 112,
+           "ChampionName": "Vladimir",
+           "ScriptInstallLink": "ls://project/SuperKaisers/KaiserSharp/OPGodKaiser/",
+           "ScriptGithubLink": "https://github.com/SuperKaisers/KaiserSharp"
+        },
+        {
+           "ScriptName": "ElVladimir",
+           "ScripterName": "JQuery",
+           "ChampionID": 112,
+           "ChampionName": "Vladimir",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElVladimir/ElVladimir/ElVladimir/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        },
+        {
+           "ScriptName": "Vladimir",
+           "ScripterName": "trus",
+           "ChampionID": 112,
+           "ChampionName": "Vladimir",
+           "ScriptInstallLink": "ls://project/Vasilyi/L-/Vladimir/",
+           "ScriptGithubLink": "https://github.com/Vasilyi/L-"
+        },
+        {
+           "ScriptName": "TehVladimir",
+           "ScripterName": "TehBlaxxor",
+           "ChampionID": 112,
+           "ChampionName": "Vladimir",
+           "ScriptInstallLink": "ls://project/TehBlaxxor/LeagueSharp/TehVladimir/TehVladimir/",
+           "ScriptGithubLink": "https://github.com/TehBlaxxor/LeagueSharp"
+        }
+    ],
+    "Volibear": [
+        {
+           "ScriptName": "There are no available Scripts",
+           "ScripterName": "",
+           "ChampionID": 113,
+           "ChampionName": "",
+           "ScriptInstallLink": "",
+           "ScriptGithubLink": ""
+        }
+    ],
+    "Warwick": [
+        {
+           "ScriptName": "D-Warwick",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 114,
+           "ChampionName": "Warwick",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/D-Warwick/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "BrianSharp",
+           "ScripterName": "Brian",
+           "ChampionID": 114,
+           "ChampionName": "Warwick",
+           "ScriptInstallLink": "ls://project/brian0305/LeagueSharp/Brian%20Sharp/",
+           "ScriptGithubLink": "https://github.com/brian0305/LeagueSharp"
+        },
+        {
+           "ScriptName": "BlackWarwick",
+           "ScripterName": "blackyy",
+           "ChampionID": 114,
+           "ChampionName": "Warwick",
+           "ScriptInstallLink": "ls://project/blackyy/LeagueSharp/BlackWarwick/",
+           "ScriptGithubLink": "https://github.com/blackyy/LeagueSharp"
+        },
+        {
+           "ScriptName": "D-Series",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 114,
+           "ChampionName": "Warwick",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/D-Warwick/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "JungleAIO",
+           "ScripterName": "Perplexity",
+           "ChampionID": 114,
+           "ChampionName": "Warwick",
+           "ScriptInstallLink": "ls://project/eXtravoz/JungleProject/JungleAIO/",
+           "ScriptGithubLink": "https://github.com/eXtravoz/JungleProject"
+        }
+    ],
+    "Wukong": [
+        {
+           "ScriptName": "Wukong",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 115,
+           "ChampionName": "Wukong",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/Wukong/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "Kysama-Series",
+           "ScripterName": "Kysamaa",
+           "ChampionID": 115,
+           "ChampionName": "Wukong",
+           "ScriptInstallLink": "ls://project/Kysamaa/Leaguesharp/Kysama-Series/",
+           "ScriptGithubLink": "https://github.com/Kysamaa/Leaguesharp"
+        }
+    ],
+    "Xerath": [
+        {
+           "ScriptName": "Hells Xerath",
+           "ScripterName": "Hellsing",
+           "ChampionID": 116,
+           "ChampionName": "Xerath",
+           "ScriptInstallLink": "ls://project/Hellsing/LeagueSharp/Xerath/",
+           "ScriptGithubLink": "https://github.com/Hellsing/LeagueSharp"
+        },
+        {
+           "ScriptName": "ElXerath",
+           "ScripterName": "JQuery",
+           "ChampionID": 116,
+           "ChampionName": "Xerath",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElBundle/ElXerath/ElXerath/",
+           "ScriptGithubLink": "https://github.com/AlterEgojQuery/ElBundle"
+        },
+        {
+           "ScriptName": "EasyXerath",
+           "ScripterName": "ikkeflikkeri",
+           "ChampionID": 116,
+           "ChampionName": "Xerath",
+           "ScriptInstallLink": "ls://project/ikkeflikkeri/LeagueSharp/EasyXerath/",
+           "ScriptGithubLink": "https://github.com/ikkeflikkeri/LeagueSharp"
+        },
+        {
+           "ScriptName": "Xerath",
+           "ScripterName": "Esk0r",
+           "ChampionID": 116,
+           "ChampionName": "Xerath",
+           "ScriptInstallLink": "ls://project/Esk0r/LeagueSharp/Xerath",
+           "ScriptGithubLink": "https://github.com/Esk0r/LeagueSharp"
+        }
+    ],
+    "Xinzhao": [
+        {
+           "ScriptName": "XinZhao",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 117,
+           "ChampionName": "Xinzhao",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/Akali/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "BrianSharp",
+           "ScripterName": "Brian",
+           "ChampionID": 117,
+           "ChampionName": "Xinzhao",
+           "ScriptInstallLink": "ls://project/brian0305/LeagueSharp/Brian%20Sharp/",
+           "ScriptGithubLink": "https://github.com/brian0305/LeagueSharp"
+        },
+        {
+           "ScriptName": "Kysama-Series",
+           "ScripterName": "Kysamaa",
+           "ChampionID": 117,
+           "ChampionName": "Xinzhao",
+           "ScriptInstallLink": "ls://project/Kysamaa/Leaguesharp/Kysama-Series/",
+           "ScriptGithubLink": "https://github.com/Kysamaa/Leaguesharp"
+        }
+    ],
+    "Yasuo": [
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 118,
+           "ChampionName": "Yasuo",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        },
+        {
+           "ScriptName": "BrianSharp",
+           "ScripterName": "Brian",
+           "ChampionID": 118,
+           "ChampionName": "Yasuo",
+           "ScriptInstallLink": "ls://project/brian0305/LeagueSharp/Brian%20Sharp/",
+           "ScriptGithubLink": "https://github.com/brian0305/LeagueSharp"
+        },
+        {
+           "ScriptName": "Mid or Feed",
+           "ScripterName": "ChewyMoon",
+           "ChampionID": 118,
+           "ChampionName": "Yasuo",
+           "ScriptInstallLink": "ls://project/ChewyMoon/ChewyMoonScripts/Mid%20or%20Feed/",
+           "ScriptGithubLink": "https://github.com/ChewyMoon/ChewyMoonScripts"
+        },
+        {
+           "ScriptName": "iYasuo",
+           "ScripterName": "iJabba & Asuna",
+           "ChampionID": 118,
+           "ChampionName": "Yasuo",
+           "ScriptInstallLink": "ls://project/DZ191/LSharpDZiJava/iYasuo/iYasuo/",
+           "ScriptGithubLink": "https://github.com/DZ191/LSharpDZiJava"
+        },
+        {
+           "ScriptName": "YasuoSharpV2",
+           "ScripterName": "detuks & princer007",
+           "ChampionID": 118,
+           "ChampionName": "Yasuo",
+           "ScriptInstallLink": "ls://project/detuks/LSharpWIP/YasuoSharpV2/",
+           "ScriptGithubLink": "https://github.com/detuks/LSharpWIP"
+        },
+        {
+           "ScriptName": "Yasuo The Unforgiven",
+           "ScripterName": "L33T",
+           "ChampionID": 118,
+           "ChampionName": "Yasuo",
+           "ScriptInstallLink": "ls://project/WorstPing/LeagueSharp/Yasuo/",
+           "ScriptGithubLink": "https://github.com/WorstPing/LeagueSharp"
+        }
+    ],
+    "Yorick": [
+        {
+           "ScriptName": "UnderratedAIO",
+           "ScripterName": "Soresu",
+           "ChampionID": 119,
+           "ChampionName": "Yorick",
+           "ScriptInstallLink": "ls://project/Soresu/LeagueSharp/UnderratedAIO/UnderratedAIO/",
+           "ScriptGithubLink": "https://github.com/Soresu/LeagueSharp"
+        }
+    ],
+    "Zac": [
+        {
+           "ScriptName": "The Secret Flubber",
+           "ScripterName": "Danz",
+           "ChampionID": 120,
+           "ChampionName": "Zac",
+           "ScriptInstallLink": "ls://project/SwipeDan/LeagueSharp/Zac_The%20Secret%20Flubber/",
+           "ScriptGithubLink": "https://github.com/SwipeDan/LeagueSharp"
+        }
+    ],
+    "Zed": [
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 121,
+           "ChampionName": "Zed",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 121,
+           "ChampionName": "Zed",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        },
+        {
+           "ScriptName": "iDZed",
+           "ScripterName": "iJabba & Asuna",
+           "ChampionID": 121,
+           "ChampionName": "Zed",
+           "ScriptInstallLink": "ls://project/DZ191/LSharpDZiJava/iDZed/iDZed/",
+           "ScriptGithubLink": "https://github.com/DZ191/LSharpDZiJava"
+        },
+        {
+           "ScriptName": "Ze-D is Back",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 121,
+           "ChampionName": "Zed",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/Ze-D%20is%20Back/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "Zed",
+           "ScripterName": "joeno3",
+           "ChampionID": 121,
+           "ChampionName": "Zed",
+           "ScriptInstallLink": "ls://project/joeno3/Leaguesharp/Zed/",
+           "ScriptGithubLink": "https://github.com/joeno3/Leaguesharp"
+        }
+    ],
+    "Ziggs": [
+        {
+           "ScriptName": "Royal Ziggs",
+           "ScripterName": "princer007",
+           "ChampionID": 122,
+           "ChampionName": "Ziggs",
+           "ScriptInstallLink": "ls://project/princer007/LSResurrected/RoyalZiggy/",
+           "ScriptGithubLink": "https://github.com/princer007/LSResurrected"
+        },
+        {
+           "ScriptName": "Ziggs",
+           "ScripterName": "Esk0r",
+           "ChampionID": 122,
+           "ChampionName": "Ziggs",
+           "ScriptInstallLink": "ls://project/Esk0r/LeagueSharp/Azir/",
+           "ScriptGithubLink": "https://github.com/Esk0r/LeagueSharp"
+        }
+    ],
+    "Zilean": [
+        {
+           "ScriptName": "DZAIO",
+           "ScripterName": "DZ191",
+           "ChampionID": 123,
+           "ChampionName": "Zilean",
+           "ScriptInstallLink": "ls://project/DZ191/LeagueSharp/DZAIO/",
+           "ScriptGithubLink": "https://github.com/DZ191/LeagueSharp"
+        },
+        {
+           "ScriptName": "Support",
+           "ScripterName": "h3h3",
+           "ChampionID": 123,
+           "ChampionName": "Zilean",
+           "ScriptInstallLink": "ls://project/h3h3/LeagueSharp/Support/",
+           "ScriptGithubLink": "https://github.com/h3h3/LeagueSharp"
+        },
+        {
+           "ScriptName": "BlackZilean",
+           "ScripterName": "blackyy",
+           "ChampionID": 123,
+           "ChampionName": "Zilean",
+           "ScriptInstallLink": "ls://project/blackyy/LeagueSharp/BlackZilean/",
+           "ScriptGithubLink": "https://github.com/blackyy/LeagueSharp"
+        },
+        {
+           "ScriptName": "Zilean",
+           "ScripterName": "badao",
+           "ChampionID": 123,
+           "ChampionName": "Zilean",
+           "ScriptInstallLink": "ls://project/badao/Zilean/Zilean/Zilean/",
+           "ScriptGithubLink": "https://github.com/badao/Zilean"
+        },
+        {
+           "ScriptName": "ElZilean",
+           "ScripterName": "JQuery",
+           "ChampionID": 123,
+           "ChampionName": "Zilean",
+           "ScriptInstallLink": "ls://project/AlterEgojQuery/ElZilean/ElZilean/ElZilean/",
+           "ScriptGithubLink": "https://github.com/princer007/LSResurrected"
+        },
+        {
+           "ScriptName": "Hola Zilean",
+           "ScripterName": "HolaBondiaSharp",
+           "ChampionID": 123,
+           "ChampionName": "Zilean",
+           "ScriptInstallLink": "ls://project/HolaBondiaSharp/LeagueSharp/Zilean/Zilean/",
+           "ScriptGithubLink": "https://github.com/HolaBondiaSharp/LeagueSharp"
+        }
+    ],
+    "Zyra": [
+        {
+           "ScriptName": "UltimateCarry3",
+           "ScripterName": "Artud",
+           "ChampionID": 124,
+           "ChampionName": "Zyra",
+           "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
+           "ScriptGithubLink": "https://github.com/Artud/LeagueSharp"
+        },
+        {
+           "ScriptName": "xSaliceReligionAIO",
+           "ScripterName": "xSalice",
+           "ChampionID": 124,
+           "ChampionName": "Zyra",
+           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+           "ScriptGithubLink": "https://github.com/xSalice/LSharp"
+        },
+        {
+           "ScriptName": "Support",
+           "ScripterName": "h3h3",
+           "ChampionID": 124,
+           "ChampionName": "Zyra",
+           "ScriptInstallLink": "ls://project/h3h3/LeagueSharp/Support/",
+           "ScriptGithubLink": "https://github.com/h3h3/LeagueSharp"
+        },
+        {
+           "ScriptName": "D-Zyra",
+           "ScripterName": "xQxCPMxQx",
+           "ChampionID": 124,
+           "ChampionName": "Zyra",
+           "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/D-Zyra/",
+           "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2"
+        },
+        {
+           "ScriptName": "Zyra",
+           "ScripterName": "badao",
+           "ChampionID": 124,
+           "ChampionName": "Zyra",
+           "ScriptInstallLink": "ls://project/badao/Zyra/Zyra/Zyra/",
+           "ScriptGithubLink": "https://github.com/badao/Zyra"
+        }
+    ]
+}
