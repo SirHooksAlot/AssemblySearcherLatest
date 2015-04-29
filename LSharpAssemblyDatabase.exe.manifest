@@ -44,14 +44,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LSharpAssemblyDatabase.exe" size="4603904">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LSharpAssemblyDatabase.exe" size="4604416">
       <assemblyIdentity name="LSharpAssemblyDatabase" version="2.0.6.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9FhuqH3BvFyLBHjJMihoTu3bS1MgIjCITlYMMvm8zpc=</dsig:DigestValue>
+        <dsig:DigestValue>sfnb0RKKCV3/5YMucnX5G3HGoQoHCqNOTC1cQ0J1b8Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
