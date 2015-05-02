@@ -4,7 +4,8 @@
             "UtilName": "Evade#",
             "UtilGithub": "https://github.com/Esk0r/LeagueSharp/tree/master/Evade",
             "UtilInstall":  "ls://project/Esk0r/LeagueSharp/Evade/",
-            "UtilCoders": "Kortatu"
+            "UtilCoders": "Kortatu",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/26-evade/"
         }
     ],
     "Oracle#": [
@@ -12,7 +13,8 @@
             "UtilName": "Oracle#",
             "UtilGithub": "https://github.com/xKurisu/KurisuSolutions/tree/master/Oracle%20(Activator)",
             "UtilInstall":  "ls://project/xKurisu/KurisuSolutions/Oracle%20(Activator)/",
-            "UtilCoders": "xKurisu"
+            "UtilCoders": "xKurisu",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/2632-oracle-activator/"
         }
     ],
     "Humanizer#": [
@@ -20,7 +22,8 @@
             "UtilName": "Humanizer#",
             "UtilGithub": "https://github.com/trees-software/leaguesharp/tree/master/Humanizer",
             "UtilInstall":  "ls://project/trees-software/leaguesharp/Humanizer/",
-            "UtilCoders": "Trees"
+            "UtilCoders": "Trees",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/16339-humanizer/"
         }
     ],
     "Tracker#": [
@@ -28,7 +31,8 @@
             "UtilName": "Tracker#",
             "UtilGithub": "https://github.com/TC-Crew/L-Assemblies/tree/master/Tracker",
             "UtilInstall":  "ls://project/TC-Crew/L-Assemblies/Tracker/",
-            "UtilCoders": "IMeh"
+            "UtilCoders": "IMeh",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/28-tracker/"
         }
     ],
     "LookasideBar": [
@@ -36,7 +40,8 @@
             "UtilName": "LookasideBar",
             "UtilGithub": "https://github.com/lookaside/LookasideBar",
             "UtilInstall":  "ls://project/lookaside/LookasideBar/",
-            "UtilCoders": "lookaside"
+            "UtilCoders": "lookaside",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/61855-58-lookasidebar-updated-april-23/"
         }
     ],
     "God Jungle Tracker": [
@@ -44,7 +49,8 @@
             "UtilName": "God Jungle Tracker",
             "UtilGithub": "https://github.com/AlphaGodLoL/LeagueSharp",
             "UtilInstall":  "ls://project/AlphaGodLoL/LeagueSharp/God%20Jungle%20Tracker/",
-            "UtilCoders": "AlphaGod"
+            "UtilCoders": "AlphaGod",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/48034-58-god-jungle-tracker-track-jungle-camp-actions-on-fow-timer/"
         }
     ],
     "BlackFeeder": [
@@ -52,15 +58,17 @@
             "UtilName": "BlackFeeder",
             "UtilGithub": "https://github.com/blackyy/LeagueSharp/tree/master/BlackFeeder",
             "UtilInstall":  "ls://project/blackyy/LeagueSharp/BlackFeeder/",
-            "UtilCoders": "AlphaGod"
+            "UtilCoders": "blackyy",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/14683-blackfeeder/"
         }
     ],
     "[WIP] AiM": [
         {
-            "UtilName": "[WIP] AiM - Smart ARAM Bot v1.2",
+            "UtilName": "[WIP] AiM - Smart ARAM Bot",
             "UtilGithub": "https://github.com/trees-software/AIM",
             "UtilInstall":  "ls://project/trees-software/AIM/",
-            "UtilCoders": "imsosharp"
+            "UtilCoders": "imsosharp",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/22903-wip-aim-smart-aram-bot-v12-28032015/"
         }
     ],
     "NoMoreFreezes": [
@@ -68,7 +76,8 @@
             "UtilName": "NoMoreFreezes",
             "UtilGithub": "https://github.com/Nouser/Leaguesharp/tree/master/LeagueSharp/NoMoreFreezes/NoMoreFreezes/",
             "UtilInstall":  "ls://project/Nouser/Leaguesharp/NoMoreFreezes/",
-            "UtilCoders": "Nouser"
+            "UtilCoders": "Nouser",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/63517-nomorefreezes-loading-screen-freeze-checker/"
         }
     ],
     "WASD Controls": [
@@ -76,7 +85,8 @@
             "UtilName": "WASD Controls",
             "UtilGithub": "https://github.com/TehBlaxxor/LeagueSharp",
             "UtilInstall":  "ls://project/TehBlaxxor/LeagueSharp/WASD%20Controls/WASD%20Controls/",
-            "UtilCoders": "Nouser"
+            "UtilCoders": "TehBlaxxor",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/61759-4302015-wasd-controls/"
         }
     ],
     "ezEvade": [
@@ -84,7 +94,8 @@
             "UtilName": "ezEvade",
             "UtilGithub": "https://github.com/soulcaliber/LeagueSharp",
             "UtilInstall":  "ls://project/soulcaliber/LeagueSharp/ezEvade/",
-            "UtilCoders": "Mayomie"
+            "UtilCoders": "Mayomie",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/34245-beta-ezevade-updated-420/"
         }
     ],
     "Anti FUCKING Rengar": [
@@ -92,7 +103,8 @@
             "UtilName": "Anti FUCKING Rengar",
             "UtilGithub": "https://github.com/DZ191/LSharpDZiJava",
             "UtilInstall":  "ls://project/DZ191/LSharpDZiJava/AntiFUCKINGRengar/",
-            "UtilCoders": "iJabba"
+            "UtilCoders": "iJabba",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/61398-anti-fucking-rengar/"
         }
     ],
     "CS Counter": [
@@ -108,7 +120,8 @@
             "UtilName": "SFXUtility",
             "UtilGithub": "https://github.com/Lizzaran/LeagueSharp-Dev/tree/master/SFXUtility/",
             "UtilInstall":  "ls://project/Lizzaran/LeagueSharp-Dev/SFXUtility/",
-            "UtilCoders": "Lizzaran"
+            "UtilCoders": "Lizzaran",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/62041-57-working-cs-counter-never-tabbing-again/"
         }
     ],
     "Annie Stun Notifier": [
@@ -116,7 +129,8 @@
             "UtilName": "Annie Stun Notifier",
             "UtilGithub": "https://github.com/DrakeSharp/LeagueSharp/tree/master/AnnieStun/",
             "UtilInstall":  "ls://project/DrakeSharp/LeagueSharp/AnnieStun/",
-            "UtilCoders": "Drake"
+            "UtilCoders": "Drake",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/62820-annie-stun-notifier/"
         }
     ],
     "Damage Indicator": [
@@ -124,15 +138,8 @@
             "UtilName": "Damage Indicator",
             "UtilGithub": "https://github.com/KyonLeague/LeagueSharp/",
             "UtilInstall":  "ls://project/Kyonleague/LeagueSharp/DMGinc/",
-            "UtilCoders": "Drake"
-        }
-    ],
-     "Damage Indicator": [
-        {
-            "UtilName": "Damage Indicator",
-            "UtilGithub": "https://github.com/KyonLeague/LeagueSharp/",
-            "UtilInstall":  "ls://project/Kyonleague/LeagueSharp/DMGinc/",
-            "UtilCoders": "Drake"
+            "UtilCoders": "KyonLeague",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/32650-working-57-damage-indicator/"
         }
     ],
      "Dev Essentials": [
@@ -140,9 +147,242 @@
             "UtilName": "Dev Essentials",
             "UtilGithub": "https://github.com/SwipeDan/LeagueSharp/tree/master/Dev_Essentials/Dev_Essentials/",
             "UtilInstall":  "ls://project/SwipeDan/LeagueSharp/Dev_Essentials/",
-            "UtilCoders": "Danz"
+            "UtilCoders": "Danz",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/40225-dev-tool-dev-essentials-coordinates-cursor-position-experience-wards-buffs-etc/"
+        }
+    ],
+     "Build Optimizer": [
+        {
+            "UtilName": "blm95",
+            "UtilGithub": "https://github.com/blm95/LeagueSharp2/",
+            "UtilInstall":  "ls://project/blm95/LeagueSharp2/BuildOptimizer/",
+            "UtilCoders": "blm95",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/65702-buildoptimizer/"
+        }
+    ],
+     "GoldTracker": [
+        {
+            "UtilName": "Gold Tracker",
+            "UtilGithub": "https://github.com/mystery69/LS_GoldTracker",
+            "UtilInstall":  "ls://project/mystery69/LS_GoldTracker/",
+            "UtilCoders": "mystery",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/64747-58-goldtracker-updated-estimate-champion-strength-on-screen/"
+        }
+    ],
+     "SAwareness": [
+        {
+            "UtilName": "SAwareness",
+            "UtilGithub": "https://github.com/Screeder/SAwarenessBeta",
+            "UtilInstall":  "ls://project/Screeder/SAwarenessBeta/",
+            "UtilCoders": "Screeder",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/64747-58-goldtracker-updated-estimate-champion-strength-on-screen/"
+        }
+    ],
+     "AutoSharpporting": [
+        {
+            "UtilName": "AutoSharpporting",
+            "UtilGithub": "https://github.com/imsosharp/LeagueSharp/tree/master/AutoSharpporting",
+            "UtilInstall":  "ls://project/imsosharp/LeagueSharp/AutoSharpporting/",
+            "UtilCoders": "imsosharp",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/8836-57-working-autosharpporting-smart-autoplay-support-bot/"
+        }
+    ],
+     "SmiteEnemy": [
+        {
+            "UtilName": "SmiteEnemy",
+            "UtilGithub": "https://github.com/blackt34/LeagueSharp",
+            "UtilInstall":  "ls://project/blackt34/LeagueSharp/SmiteEnemy/",
+            "UtilCoders": "blackt34",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/65644-smiteenemy-auto-blue-smite/"
+        }
+    ],
+     "HaydariGeceler Cici Wipi": [
+        {
+            "UtilName": "HaydariGeceler Cici Wipi",
+            "UtilGithub": "",
+            "UtilInstall":  "ls://project/HaydariGeceler/LeagueSharp/HaydariGeceler%20cici%20wipi%20ENG/",
+            "UtilCoders": "HaydariGeceler",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/57800-funnyhaydarigeceler-cici-wipi-1011-updated/"
+        }
+    ],
+     "ToasterLoading": [
+        {
+            "UtilName": "ToasterLoading",
+            "UtilGithub": "https://github.com/yol0swag/LeagueSharp/tree/master/ToasterLoading",
+            "UtilInstall":  "ls://project/yol0swag/LeagueSharp/ToasterLoading/",
+            "UtilCoders": "yol0",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/57800-funnyhaydarigeceler-cici-wipi-1011-updated/"
+        }
+    ],
+     "daYMANs Sidebar": [
+        {
+            "UtilName": "daYMANs Sidebar",
+            "UtilGithub": "https://github.com/daYMAN007/Leaguesharp/",
+            "UtilInstall":  "ls://project/daYMAN007/Leaguesharp/daYMANs%20Sidebar/",
+            "UtilCoders": "daYMAN007",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/14928-56-daymans-sidebar/"
+        }
+    ],
+     "Meta Smite": [
+        {
+            "UtilName": "Meta Smite",
+            "UtilGithub": "https://github.com/metaphorce/leaguesharp",
+            "UtilInstall":  "ls://project/metaphorce/leaguesharp/MetaSmite/",
+            "UtilCoders": "metaphorce",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/1331-meta-smite-updated-for-58-fixed-up-and-reworked/"
+        }
+    ],
+     "Universal RecallTracker": [
+        {
+            "UtilName": "Universal RecallTracker",
+            "UtilGithub": "https://github.com/TheSaltyWaffle/LeagueSharp",
+            "UtilInstall":  "ls://project/TheSaltyWaffle/LeagueSharp/UniversalRecallTracker/",
+            "UtilCoders": "TheSaltyWaffle",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/8419-58-universal-recalltracker-lightweight-beautiful/"
+        }
+    ],
+     "ARAM Shooter": [
+        {
+            "UtilName": "ARAM Shooter",
+            "UtilGithub": "https://github.com/trees-software/leaguesharp/blob/master/ARAMShooter/",
+            "UtilInstall":  "ls://project/trees-software/leaguesharp/AutoShooter/",
+            "UtilCoders": "Trees",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/65234-aram-shooter/"
+        }
+    ],
+     "FakeClicks": [
+        {
+            "UtilName": "FakeClicks",
+            "UtilGithub": "https://github.com/pean153/LeagueSharp",
+            "UtilInstall":  "ls://project/pean153/LeagueSharp/",
+            "UtilCoders": "pean153",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/37695-5x-fakeclicks-handy-for-streamers/"
+        }
+    ],
+      "OneKeyToBrain": [
+        {
+            "UtilName": "OneKeyToBrain",
+            "UtilGithub": "https://github.com/OneKeyToWin/LeagueRepo/",
+            "UtilInstall":  "",
+            "UtilCoders": "Sebby",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/46814-onekeytowin-onekeytobrain-helper-activator-tracker-beta/"
+        }
+    ],
+      "Support Assistant": [
+        {
+            "UtilName": "Support Assistant",
+            "UtilGithub": "http://github.com/drunkenninja/LeagueSharp/tree/master/Trinket%20Cooldown%20Tracker",
+            "UtilInstall":  "ls://project/drunkenninja/LeagueSharp/tree/master/Trinket%20Cooldown%20Tracker/",
+            "UtilCoders": "DanZ & DrunkenNinja",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/64157-support-assistant-by-danz-drunkenninja/"
+        }
+    ],
+      "hAram - Simple Aram Bot": [
+        {
+            "UtilName": "hAram - Simple Aram Bot",
+            "UtilGithub": "https://github.com/gkrdl/Leaguesharp/",
+            "UtilInstall":  "ls://project/gkrdl/Leaguesharp/%5BWIP%5DhAram/",
+            "UtilCoders": "gkrdl",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/39905-beta-haram-simple-aram-bot-03042015-update/"
+        }
+    ],
+      "Blue Assistant": [
+        {
+            "UtilName": "Blue Assistant",
+            "UtilGithub": "https://github.com/DrakeSharp/LeagueSharp/tree/master/BlueAssistant",
+            "UtilInstall":  "ls://project/DrakeSharp/LeagueSharp/BlueAssistant/",
+            "UtilCoders": "Drake",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/64185-blue-assistant/"
+        }
+    ],
+      "Universal MinimapHack": [
+        {
+            "UtilName": "Universal MinimapHack",
+            "UtilGithub": "https://github.com/TheSaltyWaffle/LeagueSharp",
+            "UtilInstall":  "ls://project/TheSaltyWaffle/LeagueSharp/UniversalMinimapHack/",
+            "UtilCoders": "TheSaltyWaffle",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/6107-58-universal-minimaphack-includes-ss-circlestimers-always-up-to-date-champion-icons/"
+        }
+    ],
+      "Universal GankAlerter": [
+        {
+            "UtilName": "Universal GankAlerter",
+            "UtilGithub": "https://github.com/TheSaltyWaffle/LeagueSharp",
+            "UtilInstall":  "ls://project/TheSaltyWaffle/LeagueSharp/UniversalGankAlerter/",
+            "UtilCoders": "TheSaltyWaffle",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/8794-58-universal-gankalerter/"
+        }
+    ],
+      "Easy Flash": [
+        {
+            "UtilName": "Easy Flash",
+            "UtilGithub": "https://github.com/DrakeSharp/LeagueSharp/tree/master/EasyFlash",
+            "UtilInstall":  "ls://project/DrakeSharp/LeagueSharp/EasyFlash/",
+            "UtilCoders": "Drake",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/64454-easy-flash/"
+        }
+    ],
+      "PerfectWard": [
+        {
+            "UtilName": "PerfectWard",
+            "UtilGithub": "https://github.com/drunkenninja/LeagueSharp",
+            "UtilInstall":  "ls://project/drunkenninja/LeagueSharp/tree/master/Perfect-Wards--New-SR-/",
+            "UtilCoders": "DrunkenNinja & DanZ",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/15667-perfectward-updated-and-maintained-by-drunkenninja-danz/"
+        }
+    ],
+      "Snitched - Automatic Buff Thief": [
+        {
+            "UtilName": "Snitched - Automatic Buff Thief",
+            "UtilGithub": "https://github.com/ChewyMoon/ChewyMoonScripts",
+            "UtilInstall":  "ls://project/ChewyMoon/ChewyMoonScripts/Snitched/",
+            "UtilCoders": "ChewyMoon",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/33145-snitched-automatic-buff-thief-works-on-all-champs-steals-things-from-baron-to-kills/"
+        }
+    ],
+       "Shared Experience": [
+        {
+            "UtilName": "Shared Experience",
+            "UtilGithub": "https://github.com/AlphaGodLoL/LeagueSharp",
+            "UtilInstall":  "ls://project/AlphaGodLoL/LeagueSharp/Shared%20Experience/",
+            "UtilCoders": "AlphaGod",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/15892-58-shared-experience-reveal-hidden-enemies/"
+        }
+    ],
+       "Cya Nerds": [
+        {
+            "UtilName": "Cya Nerds",
+            "UtilGithub": "https://github.com/ChewyMoon/ChewyMoonScripts/tree/master/Cya%20Nerds",
+            "UtilInstall":  "ls://project/ChewyMoon/ChewyMoonScripts/Cya Nerds/",
+            "UtilCoders": "ChewyMoon",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/9551-cya-nerds-easy-ward-jumper/"
+        }
+    ],
+       "Royal Assistant": [
+        {
+            "UtilName": "Royal Assistant",
+            "UtilGithub": "https://github.com/princer007/LSResurrected/tree/master/RoyalAssistant",
+            "UtilInstall":  "ls://project/princer007/LSResurrected/RoyalAssistant/",
+            "UtilCoders": "princer007",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/7605-royal-assistant-exp-tracker-stuff/"
+        }
+    ],
+       "ControlSharp": [
+        {
+            "UtilName": "ControlSharp",
+            "UtilGithub": "https://github.com/trees-software/LeagueSharp/blob/master/ControlSharp/Program.cs",
+            "UtilInstall":  "ls://project/trees-software/leaguesharp/ControlSharp/",
+            "UtilCoders": "Trees",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/7665-poc-controlsharp-play-lol-with-a-controller/"
+        }
+    ],
+       "Universal Leveler": [
+        {
+            "UtilName": "Universal Leveler",
+            "UtilGithub": "https://github.com/TheSaltyWaffle/LeagueSharp",
+            "UtilInstall":  "ls://project/TheSaltyWaffle/LeagueSharp/UniversalLeveler",
+            "UtilCoders": "TheSaltyWaffle",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/5396-58-universal-leveler-uses-priority-for-each-skill/"
         }
     ]
-
-    
 }
