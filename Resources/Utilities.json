@@ -64,7 +64,7 @@
     ],
     "[WIP] AiM": [
         {
-            "UtilName": "[WIP] AiM - Smart ARAM Bot",
+            "UtilName": "[WIP] AiM ",
             "UtilGithub": "https://github.com/trees-software/AIM",
             "UtilInstall":  "ls://project/trees-software/AIM/",
             "UtilCoders": "imsosharp",
@@ -279,7 +279,7 @@
     ],
       "hAram - Simple Aram Bot": [
         {
-            "UtilName": "hAram - Simple Aram Bot",
+            "UtilName": "hAram - Aram Bot",
             "UtilGithub": "https://github.com/gkrdl/Leaguesharp/",
             "UtilInstall":  "ls://project/gkrdl/Leaguesharp/%5BWIP%5DhAram/",
             "UtilCoders": "gkrdl",
@@ -333,7 +333,7 @@
     ],
       "Snitched - Automatic Buff Thief": [
         {
-            "UtilName": "Snitched - Automatic Buff Thief",
+            "UtilName": "Snitched - Auto Buff Thief",
             "UtilGithub": "https://github.com/ChewyMoon/ChewyMoonScripts",
             "UtilInstall":  "ls://project/ChewyMoon/ChewyMoonScripts/Snitched/",
             "UtilCoders": "ChewyMoon",
