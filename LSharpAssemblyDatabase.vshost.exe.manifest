@@ -44,14 +44,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LSharpAssemblyDatabase.exe" size="4777472">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LSharpAssemblyDatabase.exe" size="4612096">
       <assemblyIdentity name="LSharpAssemblyDatabase" version="2.0.6.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>4Yw2DeLrpUYk9LMG/cSImTtseByxAgfqIwMhWnlOFMU=</dsig:DigestValue>
+        <dsig:DigestValue>AsUVE9AidrRj4mWFKYX93uYl4sPQDwkP4uAp5vOM2Sg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -130,7 +130,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>mMtbRmt9L2gGDN3w28UnYBsbZp9hS19jEcLT5FgfuZQ=</dsig:DigestValue>
+      <dsig:DigestValue>NwaSeY4XEPimCfayDsTvWbm8j0cN3ioHxd2xBAPcejM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\Utilities.json" size="17731">
