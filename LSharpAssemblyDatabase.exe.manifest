@@ -124,13 +124,13 @@
       <dsig:DigestValue>WSapqDodvRi3WFxmP+ohLF9p8UaaLEre2ZC1+PChuTA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Resources\Assembly.json" size="152684">
+  <file name="Resources\Assembly.json" size="152696">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>SmvAl/5JZOgHcM/tHYZKHJycfNzhP3OuLUUCyx7JrsI=</dsig:DigestValue>
+      <dsig:DigestValue>45f+SqGwwjxm8/eUszJD23x1+q6jpI4TVDclbCgLptA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\Utilities.json" size="17703">
