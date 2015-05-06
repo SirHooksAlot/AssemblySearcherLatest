@@ -384,5 +384,59 @@
             "UtilCoders": "TheSaltyWaffle",
             "UtilForumLink": "https://www.joduska.me/forum/topic/5396-58-universal-leveler-uses-priority-for-each-skill/"
         }
+    ],
+       "SkinHack": [
+        {
+            "UtilName": "Skin hack",
+            "UtilGithub": "https://github.com/trees-software/leaguesharp/blob/master/SkinHack/",
+            "UtilInstall":  "ls://project/trees-software/leaguesharp/SkinHack/",
+            "UtilCoders": "Trees",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/67120-58-skinhack/"
+        }
+    ],
+       "NiceGuySharp": [
+        {
+            "UtilName": "NiceGuySharp",
+            "UtilGithub": "https://github.com/CptSparklesSharp/Leaguesharp",
+            "UtilInstall":  "ls://project/CptSparklesSharp/Leaguesharp/NiceGuySharp/",
+            "UtilCoders": "CptSparkles",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/67244-58-niceguysharp-auto-chatting-updated/"
+        }
+    ],
+       "Simple Skin Changer": [
+        {
+            "UtilName": "Simple Skin Changer",
+            "UtilGithub": "https://github.com/SephLeague/LeagueSharp/tree/master/SwitchSkin",
+            "UtilInstall":  "ls://project/SephLeague/LeagueSharp/SwitchSkin/",
+            "UtilCoders": "Seph",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/67126-58-simple-skin-changer-changes-everyones-skins/"
+        }
+    ],
+       "Killability": [
+        {
+            "UtilName": "Killability",
+            "UtilGithub": "https://github.com/h3h3/LeagueSharp/tree/master/Killability",
+            "UtilInstall":  "ls://project/h3h3/LeagueSharp/Killability/",
+            "UtilCoders": "h3h3",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/34-killability/"
+        }
+    ],
+       "Avoid": [
+        {
+            "UtilName": "Avoid",
+            "UtilGithub": "https://github.com/Esummoner/Auto-FF",
+            "UtilInstall":  "ls://project/Hellsing/LeagueSharp/Avoid/",
+            "UtilCoders": "Hellsing",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/35381-avoid-updated-apr-03-2015/"
+        }
+    ],
+       "Auto FF": [
+        {
+            "UtilName": "Auto FF",
+            "UtilGithub": "https://github.com/Hellsing/LeagueSharp/tree/master/Avoid",
+            "UtilInstall":  "ls://project/Esummoner/Auto-FF/Auto%20FF ",
+            "UtilCoders": "Emunator",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/68756-auto-ff-automatic-surrender/"
+        }
     ]
 }
