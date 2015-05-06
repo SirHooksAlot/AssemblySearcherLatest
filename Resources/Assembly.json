@@ -410,6 +410,15 @@
            "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
            "ScriptGithubLink": "https://github.com/xSalice/LSharp",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/17205-xsalices-religion-aio-426/"
+        },
+        {
+           "ScriptName": "AzirSharp",
+           "ScripterName": "detuks",
+           "ChampionID": 9,
+           "ChampionName": "Azir",
+           "ScriptInstallLink": "ls://project/detuks/GoodGuyJodu/AzirSharp",
+           "ScriptGithubLink": "https://github.com/detuks/GoodGuyJodu",
+           "ScriptForumLink": "https://www.joduska.me/forum/topic/66879-58-azirsharp-simple-one-inspired-from-lcs/"
         }
     ],
     "Bard": [
@@ -2650,6 +2659,15 @@
            "ScriptInstallLink": "ls://project/SuperKaisers/KaiserSharp/OpProject/",
            "ScriptGithubLink": "https://github.com/SuperKaisers/KaiserSharp",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/62088-58-opproject-aiolast-updated-2015-05-05add-ryze-cassiopeia/"
+        },
+        {
+           "ScriptName": "Nautilus - The Freelo Titan",
+           "ScripterName": "Shiver",
+           "ChampionID": 5,
+           "ChampionName": "Nautilus",
+           "ScriptInstallLink": "ls://project/Shivermeme/League-Sharp/Nautilus%20Is%20Meme/",
+           "ScriptGithubLink": "https://github.com/Shivermeme/League-Sharp",
+           "ScriptForumLink": "https://www.joduska.me/forum/topic/68866-nautilus-the-freelo-titan/"
         }
     ],
     "Nidalee": [
@@ -3188,11 +3206,20 @@
         {
            "ScriptName": "OpProject",
            "ScripterName": "Kaiser",
-           "ChampionID": 5,
+           "ChampionID": 82,
            "ChampionName": "Ryze",
            "ScriptInstallLink": "ls://project/SuperKaisers/KaiserSharp/OpProject/",
            "ScriptGithubLink": "https://github.com/SuperKaisers/KaiserSharp",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/62088-58-opproject-aiolast-updated-2015-05-05add-ryze-cassiopeia/"
+        },
+        {
+           "ScriptName": "myAIO",
+           "ScripterName": "PORNCORE",
+           "ChampionID": 82,
+           "ChampionName": "Ryze",
+           "ScriptInstallLink": "ls://project/PORNCORE/repoSharp/myAIO/",
+           "ScriptGithubLink": "https://github.com/PORNCORE/repoSharp",
+           "ScriptForumLink": "https://www.joduska.me/forum/topic/62995-wip-myaio-to-challenger-58updated-010515incl-new-ryze/"
         }
     ],
     "Sejuani": [
@@ -3810,6 +3837,15 @@
            "ScriptInstallLink": "ls://project/SwipeDan/LeagueSharp/Twisted%20Fate%20-%20Its%20all%20in%20the%20cards/",
            "ScriptGithubLink": "https://github.com/SwipeDan/LeagueSharp/tree/master/Twisted%20Fate%20-%20Its%20all%20in%20the%20cards",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/67646-58twisted-fate-its-all-in-the-cards-ks-card-picker-anti-gapcloser-interrupter-sbtw-smart-lane-clear/"
+        },
+        {
+           "ScriptName": "Misaya's Twisted Fate",
+           "ScripterName": "NightMoon",
+           "ChampionID": 102,
+           "ChampionName": "Twisted Fate",
+           "ScriptInstallLink": "ls://project/1076751236/Flowers/Flowers-TwistedFate/",
+           "ScriptGithubLink": "https://github.com/1076751236/Flowers/tree/master/Flowers-TwistedFate",
+           "ScriptForumLink": "https://www.joduska.me/forum/topic/68915-58twistedfate-misaya/"
         }
     ],
     "Twitch": [
