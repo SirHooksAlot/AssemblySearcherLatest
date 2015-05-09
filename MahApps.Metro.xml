@@ -71,6 +71,21 @@
             Shows all glow windows
             </summary>
         </member>
+        <member name="F:MahApps.Metro.Behaviours.PasswordBoxBindingBehavior.PasswordProperty">
+            <summary>
+            Gets or sets the bindable Password property on the PasswordBox control. This is a dependency property.
+            </summary>
+        </member>
+        <member name="M:MahApps.Metro.Behaviours.PasswordBoxBindingBehavior.OnPasswordPropertyChanged(System.Windows.DependencyObject,System.Windows.DependencyPropertyChangedEventArgs)">
+            <summary>
+            Handles changes to the 'Password' attached property.
+            </summary>
+        </member>
+        <member name="M:MahApps.Metro.Behaviours.PasswordBoxBindingBehavior.PasswordBox_PasswordChanged(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Handle the 'PasswordChanged'-event on the PasswordBox
+            </summary>
+        </member>
         <member name="T:MahApps.Metro.Behaviours.TabControlSelectFirstVisibleTabBehavior">
             <summary>
             <para>
@@ -182,6 +197,12 @@
         <member name="M:MahApps.Metro.Controls.Dialogs.BaseMetroDialog.OnRequestClose">
             <summary>
             A last chance virtual method for stopping an external dialog from closing.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MahApps.Metro.Controls.Dialogs.BaseMetroDialog.WaitUntilUnloadedAsync">
+            <summary>
+            Waits until this dialog gets unloaded.
             </summary>
             <returns></returns>
         </member>
@@ -308,9 +329,9 @@
         </member>
         <member name="M:MahApps.Metro.Controls.Dialogs.DialogManager.ShowMetroDialogAsync(MahApps.Metro.Controls.MetroWindow,MahApps.Metro.Controls.Dialogs.BaseMetroDialog,MahApps.Metro.Controls.Dialogs.MetroDialogSettings)">
             <summary>
-            Adds a Metro Dialog instance to the specified window and makes it visible.
-            <para>Note that this method returns as soon as the dialog is loaded and won't wait on a call of <see cref="M:MahApps.Metro.Controls.Dialogs.DialogManager.HideMetroDialogAsync(MahApps.Metro.Controls.MetroWindow,MahApps.Metro.Controls.Dialogs.BaseMetroDialog,MahApps.Metro.Controls.Dialogs.MetroDialogSettings)"/>.</para>
-            <para>You can still close the resulting dialog with <see cref="M:MahApps.Metro.Controls.Dialogs.DialogManager.HideMetroDialogAsync(MahApps.Metro.Controls.MetroWindow,MahApps.Metro.Controls.Dialogs.BaseMetroDialog,MahApps.Metro.Controls.Dialogs.MetroDialogSettings)"/>.</para>
+            Adds a Metro Dialog instance to the specified window and makes it visible asynchronously.
+            If you want to wait until the user has closed the dialog, use <see cref="!:ShowMetroDialogAsyncAwaitable"/>
+            <para>You have to close the resulting dialog yourself with <see cref="M:MahApps.Metro.Controls.Dialogs.DialogManager.HideMetroDialogAsync(MahApps.Metro.Controls.MetroWindow,MahApps.Metro.Controls.Dialogs.BaseMetroDialog,MahApps.Metro.Controls.Dialogs.MetroDialogSettings)"/>.</para>
             </summary>
             <param name="window">The owning window of the dialog.</param>
             <param name="dialog">The dialog instance itself.</param>
@@ -1169,6 +1190,11 @@
                 Gets or sets a value indicating whether the user can enter text in the control.
             </summary>
         </member>
+        <member name="P:MahApps.Metro.Controls.NumericUpDown.Culture">
+            <summary>
+                Gets or sets a value indicating the culture to be used in string formatting operations.
+            </summary>
+        </member>
         <member name="P:MahApps.Metro.Controls.NumericUpDown.HideUpDownButtons">
             <summary>
                 Gets or sets a value indicating whether the +/- button of the control is visible.
@@ -1351,6 +1377,11 @@
         <member name="P:MahApps.Metro.Controls.RangeSlider.AutoToolTipPrecision">
             <summary>
             Get/sets precision of the value, which displaying inside AutotToolTip
+            </summary>
+        </member>
+        <member name="P:MahApps.Metro.Controls.RangeSlider.AutoToolTipTextConverter">
+            <summary>
+            Get/sets the converter for the tooltip text
             </summary>
         </member>
         <member name="P:MahApps.Metro.Controls.RangeSlider.AutoToolTipPlacement">
@@ -1602,6 +1633,27 @@
         <member name="P:MahApps.Metro.Controls.WindowCommands.ShowSeparators">
             <summary>
             Gets or sets the value indicating whether to show the separators.
+            </summary>
+        </member>
+        <member name="T:MahApps.Metro.Converters.StringToVisibilityConverter">
+            <summary>
+                Converts a String into a Visibility enumeration (and back)
+                The FalseEquivalent can be declared with the "FalseEquivalent" property
+            </summary>
+        </member>
+        <member name="M:MahApps.Metro.Converters.StringToVisibilityConverter.#ctor">
+            <summary>
+                Initialize the properties with standard values
+            </summary>
+        </member>
+        <member name="P:MahApps.Metro.Converters.StringToVisibilityConverter.FalseEquivalent">
+            <summary>
+                FalseEquivalent (default : Visibility.Collapsed => see Constructor)
+            </summary>
+        </member>
+        <member name="P:MahApps.Metro.Converters.StringToVisibilityConverter.OppositeStringValue">
+            <summary>
+                Define whether the opposite boolean value is crucial (default : false)
             </summary>
         </member>
         <member name="F:Standard.IID.ApplicationAssociationRegistration">

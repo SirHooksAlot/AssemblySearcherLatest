@@ -93,13 +93,22 @@
            "ScriptForumLink": "https://www.joduska.me/forum/topic/58894-57-ultimatecarry-reborn/"
         },
         {
-           "ScriptName": "xSaliceReligionAIO",
-           "ScripterName": "xSalice",
+          "ScriptName": "xSaliceReligionAIO",
+          "ScripterName": "xSalice",
+          "ChampionID": 2,
+          "ChampionName": "Ahri",
+          "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
+          "ScriptGithubLink": "https://github.com/xSalice/LSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/7584-guide-xsalicereligionaio-added-akali-annie-blitzcrank-corki-ezreal-lucian-and-vladimir-02172015/"
+        },
+        {
+           "ScriptName": "EloFactory Ahri",
+           "ScripterName": "LuNi",
            "ChampionID": 2,
            "ChampionName": "Ahri",
-           "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
-           "ScriptGithubLink": "https://github.com/xSalice/LSharp",
-           "ScriptForumLink": "https://www.joduska.me/forum/topic/7584-guide-xsalicereligionaio-added-akali-annie-blitzcrank-corki-ezreal-lucian-and-vladimir-02172015/"
+           "ScriptInstallLink": "ls://project/EloFactory/LeagueSharp/EloFactory_Ahri//EloFactory_Ahri/",
+           "ScriptGithubLink": "https://github.com/EloFactory/LeagueSharp",
+           "ScriptForumLink": "https://www.joduska.me/forum/topic/70222-58-elofactory-ahri/"
         }
     ],
     "Akali": [
@@ -848,6 +857,15 @@
            "ScriptInstallLink": "ls://project/livetorise/LeagueSharp/FedDrMundo/",
            "ScriptGithubLink": "https://github.com/livetorise/LeagueSharp",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/14445-56-fed-champs-akali-aatrox-yasuo/"
+        },
+        {
+           "ScriptName": "Hestia's DrMundo",
+           "ScripterName": "Hestia",
+           "ChampionID": 21,
+           "ChampionName": "Dr.Mundo",
+           "ScriptInstallLink": "ls://project/H3stia/LeagueSharp/Mundo/",
+           "ScriptGithubLink": "https://github.com/H3stia/leagueSharp/tree/master/Mundo",
+           "ScriptForumLink": "https://www.joduska.me/forum/topic/70114-58hestias-dr-mundo/"
         }
     ],
     "Elise": [
@@ -906,6 +924,15 @@
            "ScriptInstallLink": "ls://project/ScienceARK/ScientificEvelynn/ScientificEvelynn/",
            "ScriptGithubLink": "https://github.com/ScienceARK/ScientificEvelynn",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/32686-54-scientificevelynn-your-pain-is-my-pleasure/"
+        },
+        {
+           "ScriptName": "Automated Evelynn",
+           "ScripterName": "Automated",
+           "ChampionID": 23,
+           "ChampionName": "Evelynn",
+           "ScriptInstallLink": "ls://project/4U70M4T3D/LeagueSharp/",
+           "ScriptGithubLink": "https://github.com/4U70M4T3D/LeagueSharp/tree/master/Automated%20Evelynn",
+           "ScriptForumLink": "https://www.joduska.me/forum/topic/69331-58-beta-automated-evelynn/"
         }
     ],
     "Ezreal": [
@@ -1188,6 +1215,15 @@
            "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
            "ScriptGithubLink": "https://github.com/Artud/LeagueSharp",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/58894-57-ultimatecarry-reborn/"
+        },
+        {
+           "ScriptName": "Hestia's Gangplank",
+           "ScripterName": "Hestia",
+           "ChampionID": 29,
+           "ChampionName": "Gangplank",
+           "ScriptInstallLink": "ls://project/H3stia/LeagueSharp/GangPlank",
+           "ScriptGithubLink": "https://github.com/H3stia/LeagueSharp/tree/master/GangPlank",
+           "ScriptForumLink": "https://www.joduska.me/forum/topic/70115-58hestias-gangplank/"
         }
     ],
     "Garen": [
@@ -1418,6 +1454,15 @@
            "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
            "ScriptGithubLink": "https://github.com/xSalice/LSharp",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/17205-xsalices-religion-aio-426/"
+        },
+        {
+           "ScriptName": "Irelia the Nightstalker",
+           "ScripterName": "blm95",
+           "ChampionID": 36,
+           "ChampionName": "Irelia",
+           "ScriptInstallLink": "ls://project/blm95/LeagueSharp2/Irelia/",
+           "ScriptGithubLink": "https://github.com/blm95/LeagueSharp2",
+           "ScriptForumLink": "https://www.joduska.me/forum/topic/69717-irelia-the-nightstalker/"
         }
     ],
     "Janna": [
@@ -1992,6 +2037,15 @@
            "ScriptInstallLink": "ls://project/Taerarenai/LeagueSharp/Daimao%20Kennen/Kennen/",
            "ScriptGithubLink": "https://github.com/Taerarenai/LeagueSharp",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/15394-421-daimao-kennen/"
+        },
+        {
+           "ScriptName": "Hestia's Kennen",
+           "ScripterName": "Hestia",
+           "ChampionID": 48,
+           "ChampionName": "Kennen",
+           "ScriptInstallLink": "ls://ls//project/H3stia/LeagueSharp/Kennen/",
+           "ScriptGithubLink": "https://github.com/H3stia/LeagueSharp/tree/master/Kennen/Kennen",
+           "ScriptForumLink": "https://www.joduska.me/forum/topic/70113-58hestias-kennen/"
         }
     ],
     "Khazix": [
@@ -2369,6 +2423,15 @@
            "ScriptInstallLink": "ls://project/desomond/LeagueSharp/DesomondLux/",
            "ScriptGithubLink": "https://github.com/desomond/LeagueSharp",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/36094-sbtw-desomondlux/"
+        },
+        {
+           "ScriptName": "SephLux",
+           "ScripterName": "Seph",
+           "ChampionID": 57,
+           "ChampionName": "Lux",
+           "ScriptInstallLink": "ls://project/SephLeague/LeagueSharp/SephLux/",
+           "ScriptGithubLink": "https://github.com/SephLeague/LeagueSharp/tree/master/SephLux",
+           "ScriptForumLink": "https://www.joduska.me/forum/topic/69377-sephlux/"
         }
     ],
     "Malphite": [
@@ -2994,6 +3057,15 @@
            "ScriptInstallLink": "ls://project/TehBlaxxor/LeagueSharp/Rek%27Sai/Rek%27Sai/",
            "ScriptGithubLink": "https://github.com/TehBlaxxor/LeagueSharp",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/62364-reksai-the-void-deathbringer/"
+        },
+        {
+           "ScriptName": "Rek'Saj",
+           "ScripterName": "badao",
+           "ChampionID": 77,
+           "ChampionName": "RekSai",
+           "ScriptInstallLink": "ls://project/badao/heavenStrikeReksaj/HeavenStrikeReksaj/",
+           "ScriptGithubLink": "https://github.com/badao/HeavenStrikeReksaj",
+           "ScriptForumLink": "https://www.joduska.me/forum/topic/69789-heaven-strike-reksaj/"
         }
     ],
     "Renekton": [
@@ -3132,13 +3204,13 @@
            "ScriptForumLink": "https://www.joduska.me/forum/topic/18755-brian-sharp-beta-0025/"
         },
         {
-           "ScriptName": "DevRyze",
-           "ScripterName": "InjectionDev",
+           "ScriptName": "OblivionRyze",
+           "ScripterName": "CTucker",
            "ChampionID": 82,
            "ChampionName": "Ryze",
-           "ScriptInstallLink": "ls://project/InjectionDev/LeagueSharp/DevRyze/",
-           "ScriptGithubLink": "https://github.com/InjectionDev/LeagueSharp",
-           "ScriptForumLink": "https://www.joduska.me/forum/topic/426-devryze/"
+           "ScriptInstallLink": "ls://project/CTucker1327/OblivionScripts/",
+           "ScriptGithubLink": "https://github.com/CTucker1327/OblivionScripts",
+           "ScriptForumLink": "https://www.joduska.me/forum/topic/69393-first-assembly58-oblivionryze-auto-farm-wave-clear-auto-combo/"
         },
         {
            "ScriptName": "EasyRyze",
@@ -3168,13 +3240,13 @@
            "ScriptForumLink": "https://www.joduska.me/forum/topic/82-updated-56-thekushstyles-stoned-series-aioadded-akali/"
         },
         {
-           "ScriptName": "DatRyze",
-           "ScripterName": "GoldenGatesPB",
+           "ScriptName": "Ryze Master of Thunder",
+           "ScripterName": "segix",
            "ChampionID": 82,
            "ChampionName": "Ryze",
-           "ScriptInstallLink": "ls://project/GoldenGatesPB/league-sharp/DatRyze/",
-           "ScriptGithubLink": "https://github.com/GoldenGatesPB/league-sharp",
-           "ScriptForumLink": "https://www.joduska.me/forum/topic/16899-dat-ryze-the-rogue-mage-1003-updated-for-57/"
+           "ScriptInstallLink": "ls://project/M-TeamAssemblies/LeagueSharp/MasterOfThunders/MasterOfRogues/",
+           "ScriptGithubLink": "https://github.com/M-TeamAssemblies/LeagueSharp",
+           "ScriptForumLink": "https://www.joduska.me/forum/topic/66485-t-team-ryze-master-of-thunder/"
         },
         {
            "ScriptName": "DJ Ryze",
@@ -3190,7 +3262,7 @@
            "ScripterName": "Nymphae",
            "ChampionID": 82,
            "ChampionName": "Ryze",
-           "ScriptInstallLink": "ls://project/Nymphae/SimpleRyze",
+           "ScriptInstallLink": "ls://project/Nymphae/SimpleRyze/",
            "ScriptGithubLink": "https://github.com/Nymphae/SimpleRyze",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/30410-simple-ryze-script/"
         },
@@ -3518,12 +3590,21 @@
         },
         {
            "ScriptName": "Kortatu's Syndra",
-           "ScripterName": "Syndra",
+           "ScripterName": "Kortatu",
            "ChampionID": 94,
            "ChampionName": "Syndra",
            "ScriptInstallLink": "ls://project/Esk0r/LeagueSharp/Syndra",
            "ScriptGithubLink": "https://github.com/Esk0r/LeagueSharp/tree/master/Syndra",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/90-syndra/"
+        },
+        {
+           "ScriptName": "Syndra the Dark Sovereign",
+           "ScripterName": "L33T",
+           "ChampionID": 94,
+           "ChampionName": "Syndra",
+           "ScriptInstallLink": "ls://project/WorstPing/LeagueSharp/Syndra%20the%20Dark%20Sovereign/",
+           "ScriptGithubLink": "https://github.com/WorstPing/LeagueSharp",
+           "ScriptForumLink": "https://www.joduska.me/forum/topic/70166-syndra-the-dark-sovereign//"
         }
     ],
     "Talon": [
@@ -4020,13 +4101,13 @@
             "ScriptForumLink": "https://www.joduska.me/forum/topic/39315-elxcsoft-will-be-updated/"
         },
         {
-           "ScriptName": "GNomeProject",
-           "ScripterName": "Gnomexfire",
+           "ScriptName": "HikiCarry Vayne",
+           "ScripterName": "Hikigaya",
            "ChampionID": 107,
            "ChampionName": "Vayne",
-           "ScriptInstallLink": "ls://project/Gnomexfire/GNomeProject/GNomeProject/",
-           "ScriptGithubLink": "https://github.com/Gnomexfire/GNomeProject",
-            "ScriptForumLink": ""
+           "ScriptInstallLink": "ls://project/HikigayaAss/LeagueSharp/",
+           "ScriptGithubLink": "https://github.com/HikigayaAss/LeagueSharp/",
+            "ScriptForumLink": "https://www.joduska.me/forum/topic/69777-58hikicarry-vayne-hikicarry-what-do-you-mean/"
         },
         {
            "ScriptName": "hi im gosu",
@@ -4125,6 +4206,15 @@
            "ScriptInstallLink": "ls://project/Hellsing/LeagueSharp/Viktor/",
            "ScriptGithubLink": "https://github.com/Hellsing/LeagueSharp/",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/9145-viktor-rise-of-the-machine-updated-jan-18-2015/"
+        },
+        {
+           "ScriptName": "TRUSt in my Viktor",
+           "ScripterName": "trus",
+           "ChampionID": 111,
+           "ChampionName": "Viktor",
+           "ScriptInstallLink": "ls://project/Vasilyi/L-/TRUStinmyViktor/",
+           "ScriptGithubLink": "https://github.com/Vasilyi/L-/tree/master/TRUSt%20in%20my%20Viktor",
+           "ScriptForumLink": "https://www.joduska.me/forum/topic/68977-trust-in-my-viktor/"
         }
     ],
     "Vladimir": [
