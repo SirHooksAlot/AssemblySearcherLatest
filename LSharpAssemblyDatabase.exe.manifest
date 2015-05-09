@@ -51,7 +51,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>wDb3CxAWNO/wzHGl/4fj7eMUhdc66tf2juUgIn3KpQI=</dsig:DigestValue>
+        <dsig:DigestValue>d18goc3mBQ7u/q57E7hu680q8VUqgaas4aeN9IgccMo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -133,13 +133,13 @@
       <dsig:DigestValue>hC2hcTZ9NSmyMxLvVFpkv4RpwhhlTeztVK1f1g5ZEU0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Resources\Utilities.json" size="22160">
+  <file name="Resources\Utilities.json" size="22136">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Z9DjghmZIav3bseCDlGAQOZSnbOd8XvS4TCcqzorsM0=</dsig:DigestValue>
+      <dsig:DigestValue>HlQj/jU6CNpl9U03HnAdJ35nGPbWnZ8SouNdCJp31uw=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
