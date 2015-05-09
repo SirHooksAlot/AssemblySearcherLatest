@@ -434,9 +434,54 @@
         {
             "UtilName": "Auto FF",
             "UtilGithub": "https://github.com/Hellsing/LeagueSharp/tree/master/Avoid",
-            "UtilInstall":  "ls://project/Esummoner/Auto-FF/Auto%20FF ",
+            "UtilInstall":  "ls://project/Esummoner/Auto-FF/Auto%20FF/",
             "UtilCoders": "Emunator",
             "UtilForumLink": "https://www.joduska.me/forum/topic/68756-auto-ff-automatic-surrender/"
+        }
+    ],
+       "Wind-Up Assistant": [
+        {
+            "UtilName": "Wind-Up Assistant",
+            "UtilGithub": "https://github.com/SwipeDan/LeagueSharp/tree/master/Wind-Up%20Helper",
+            "UtilInstall":  "ls://project/SwipeDan/LeagueSharp/Wind-Up%20Helper/",
+            "UtilCoders": "Danc & DrunkenNinja",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/69295-wind-up-assistant-by-danz-and-drunkenninja/"
+        }
+    ],
+       "TrinketAssistant#": [
+        {
+            "UtilName": "TrinketAssistant#",
+            "UtilGithub": "https://github.com/PORNCORE/repoSharp",
+            "UtilInstall":  "ls://ls//project/PORNCORE/repoSharp/TrinketAssistant/",
+            "UtilCoders": "PORNCORE",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/69579-trinketassistant-never-forget-your-trinket-again/"
+        }
+    ],
+       "Death Recap": [
+        {
+            "UtilName": "Death Recap",
+            "UtilGithub": "https://github.com/soulcaliber/LeagueSharp",
+            "UtilInstall":  "ls://project/soulcaliber/LeagueSharp/DeathRecap/",
+            "UtilCoders": "Mayomie",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/70165-death-recap-damage-indicator/"
+        }
+    ],
+       "GrabEvade#": [
+        {
+            "UtilName": "GrabEvade#",
+            "UtilGithub": "https://github.com/PORNCORE/repoSharp",
+            "UtilInstall":  "ls://ls//project/PORNCORE/repoSharp/grabEvade/",
+            "UtilCoders": "PORNCORE",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/67389-grabevade-now-incl-fizz-annie-blitz-thresh-new-vidz/"
+        }
+    ],
+       "Mata View": [
+        {
+            "UtilName": "Mata View",
+            "UtilGithub": "https://github.com/E2Slayer/LeagueSharp",
+            "UtilInstall":  "ls://project/E2Slayer/LeagueSharp/tree/master/Mata%20View/",
+            "UtilCoders": "E2Slayer",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/18430-56-mata-view-check-the-skills-timer/"
         }
     ]
 }
