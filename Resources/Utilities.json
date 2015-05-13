@@ -483,5 +483,23 @@
             "UtilCoders": "E2Slayer",
             "UtilForumLink": "https://www.joduska.me/forum/topic/18430-56-mata-view-check-the-skills-timer/"
         }
+    ],
+       "HowMuchGold": [
+        {
+            "UtilName": "HowMuchGold",
+            "UtilGithub": "https://github.com/GodLS/HowMuchGoldLS",
+            "UtilInstall":  "ls://project/GodLS/HowMuchGoldLS/HowMuchGold",
+            "UtilCoders": "God",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/71783-howmuchgold-detect-amount-of-gold-from-creep-waves/"
+        }
+    ],
+       "Stealth Detector": [
+        {
+            "UtilName": "Stealth Detector",
+            "UtilGithub": "https://github.com/SuperKaisers/KaiserSharp",
+            "UtilInstall":  "ls://project/SuperKaisers/KaiserSharp/Stealth%20Detector",
+            "UtilCoders": "Kaiser",
+            "UtilForumLink": "https://www.joduska.me/forum/topic/71481-stealth-detector-anti-stealth-champions-with-vision-ward/"
+        }
     ]
 }

@@ -41,14 +41,24 @@
            "ScriptVotes": "37"
         },
         {
-           "ScriptName": "Aatrox",
-           "ScripterName": "AureusxD",
-           "ChampionID": 1,
-           "ChampionName": "Aatrox",
-           "ScriptInstallLink": "ls://project/AureusXD/LeagueSharp/Aatrox/",
-           "ScriptGithubLink": "https://github.com/AureusXD/LeagueSharp",
-           "ScriptForumLink": "https://www.joduska.me/forum/topic/18132-aatrox-blood-prince/",
-           "ScriptVotes": "54"
+          "ScriptName": "Aatrox",
+          "ScripterName": "AureusxD",
+          "ChampionID": 1,
+          "ChampionName": "Aatrox",
+          "ScriptInstallLink": "ls://project/AureusXD/LeagueSharp/Aatrox/",
+          "ScriptGithubLink": "https://github.com/AureusXD/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/18132-aatrox-blood-prince/",
+          "ScriptVotes": "54"
+        },
+        {
+          "ScriptName": "Endifs Collection",
+          "ScripterName": "Endif",
+          "ChampionID": 1,
+          "ChampionName": "Aatrox",
+          "ScriptInstallLink": "ls://project/HashtagEndif/LeagueSharp/Aatrox/",
+          "ScriptGithubLink": "https://github.com/HashtagEndif/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/71872-58-endifs-collection-khazix-fiora-thresh-etc/",
+          "ScriptVotes": ""
         }
     ],
     "Ahri": [
@@ -794,6 +804,16 @@
            "ScriptInstallLink": "ls://project/Gnomexfire/GNomeProject/GNomeProject/",
            "ScriptGithubLink": "https://github.com/Gnomexfire/GNomeProject",
            "ScriptForumLink": ""
+        },
+        {
+          "ScriptName": "Endifs Collection",
+          "ScripterName": "Endif",
+          "ChampionID": 19,
+          "ChampionName": "Diana",
+          "ScriptInstallLink": "ls://project/HashtagEndif/LeagueSharp/Diana/",
+          "ScriptGithubLink": "https://github.com/HashtagEndif/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/71872-58-endifs-collection-khazix-fiora-thresh-etc/",
+          "ScriptVotes": ""
         }
     ],
     "Draven": [
@@ -1085,6 +1105,16 @@
            "ScriptInstallLink": "ls://project/JouzaLoL/LeagueSharp/FiddleSticks/",
            "ScriptGithubLink": "https://github.com/JouzaLoL/LeagueSharp",
            "ScriptForumLink": ""
+        },
+        {
+          "ScriptName": "Endifs Collection",
+          "ScripterName": "Endif",
+          "ChampionID": 25,
+          "ChampionName": "Aatrox",
+          "ScriptInstallLink": "ls://project/HashtagEndif/LeagueSharp/Fiddlesticks/",
+          "ScriptGithubLink": "https://github.com/HashtagEndif/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/71872-58-endifs-collection-khazix-fiora-thresh-etc/",
+          "ScriptVotes": ""
         }
     ],
     "Fiora": [
@@ -1132,6 +1162,16 @@
            "ScriptInstallLink": "ls://project/xSalice/LSharp/xSaliceReligionAIO/",
            "ScriptGithubLink": "https://github.com/xSalice/LSharp",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/17205-xsalices-religion-aio-426/"
+        },
+        {
+          "ScriptName": "Endifs Collection",
+          "ScripterName": "Endif",
+          "ChampionID": 26,
+          "ChampionName": "Fiora",
+          "ScriptInstallLink": "ls://project/HashtagEndif/LeagueSharp/Aatrox/",
+          "ScriptGithubLink": "https://github.com/HashtagEndif/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/71872-58-endifs-collection-khazix-fiora-thresh-etc/",
+          "ScriptVotes": ""
         }
     ],
     "Fizz": [
@@ -2124,6 +2164,16 @@
            "ScriptInstallLink": "ls://project/Artud/LeagueSharp/UltimateCarry3/",
            "ScriptGithubLink": "https://github.com/Artud/LeagueSharp",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/58894-57-ultimatecarry-reborn/"
+        },
+        {
+          "ScriptName": "Endifs Collection",
+          "ScripterName": "Endif",
+          "ChampionID": 49,
+          "ChampionName": "KhaZix",
+          "ScriptInstallLink": "ls://project/HashtagEndif/LeagueSharp/Khazix/",
+          "ScriptGithubLink": "https://github.com/HashtagEndif/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/71872-58-endifs-collection-khazix-fiora-thresh-etc/",
+          "ScriptVotes": ""
         }
     ],
     "KogMaw": [
@@ -2548,6 +2598,16 @@
            "ScriptInstallLink": "ls://project/prokopis/AIO/AIO/",
            "ScriptGithubLink": "https://github.com/prokopis/AIO",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/47186-56-educational-all-in-one-added-cassiopeia-aatrox-and-lulu/"
+        },
+        {
+          "ScriptName": "Endifs Collection",
+          "ScripterName": "Endif",
+          "ChampionID": 59,
+          "ChampionName": "Malzahar",
+          "ScriptInstallLink": "ls://project/HashtagEndif/LeagueSharp/Malzahar/",
+          "ScriptGithubLink": "https://github.com/HashtagEndif/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/71872-58-endifs-collection-khazix-fiora-thresh-etc/",
+          "ScriptVotes": ""
         }
     ],
     "Maokai": [
@@ -2615,6 +2675,16 @@
            "ScriptInstallLink": "ls://project/detuks/GoodGuyJodu/MasterSharp",
            "ScriptGithubLink": "https://github.com/detuks/GoodGuyJodu",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/66477-58-mastersharp-profesional-yi/"
+        },
+        {
+          "ScriptName": "Endifs Collection",
+          "ScripterName": "Endif",
+          "ChampionID": 61,
+          "ChampionName": "Master Yi",
+          "ScriptInstallLink": "ls://project/HashtagEndif/LeagueSharp/MasterYi/",
+          "ScriptGithubLink": "https://github.com/HashtagEndif/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/71872-58-endifs-collection-khazix-fiora-thresh-etc/",
+          "ScriptVotes": ""
         }
     ],
     "MissFortune": [
@@ -2778,6 +2848,16 @@
            "ScriptInstallLink": "ls://project/prokopis/AIO/AIO/",
            "ScriptGithubLink": "https://github.com/prokopis/AIO",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/47186-56-educational-all-in-one-added-cassiopeia-aatrox-and-lulu/"
+        },
+        {
+          "ScriptName": "Endifs Collection",
+          "ScripterName": "Endif",
+          "ChampionID": 66,
+          "ChampionName": "Nasus",
+          "ScriptInstallLink": "ls://project/HashtagEndif/LeagueSharp/Nasus/",
+          "ScriptGithubLink": "https://github.com/HashtagEndif/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/71872-58-endifs-collection-khazix-fiora-thresh-etc/",
+          "ScriptVotes": ""
         }
     ],
     "Nautilus": [
@@ -2910,6 +2990,16 @@
            "ScriptInstallLink": "ls://project/eXtravoz/JungleProject/JungleAIO/",
            "ScriptGithubLink": "https://github.com/eXtravoz/JungleProject",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/28163-wip-jungleaio-dominate-the-jungle/"
+        },
+        {
+          "ScriptName": "Endifs Collection",
+          "ScripterName": "Endif",
+          "ChampionID": 69,
+          "ChampionName": "Nocturne",
+          "ScriptInstallLink": "ls://project/HashtagEndif/LeagueSharp/Nocturne/",
+          "ScriptGithubLink": "https://github.com/HashtagEndif/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/71872-58-endifs-collection-khazix-fiora-thresh-etc/",
+          "ScriptVotes": ""
         }
     ],
     "Nunu": [
@@ -3080,6 +3170,16 @@
            "ScriptInstallLink": "ls://project/eXtravoz/JungleProject/JungleAIO/",
            "ScriptGithubLink": "https://github.com/eXtravoz/JungleProject",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/28163-wip-jungleaio-dominate-the-jungle/"
+        },
+        {
+          "ScriptName": "Endifs Collection",
+          "ScripterName": "Endif",
+          "ChampionID": 73,
+          "ChampionName": "Pantheon",
+          "ScriptInstallLink": "ls://project/HashtagEndif/LeagueSharp/Pantheon/",
+          "ScriptGithubLink": "https://github.com/HashtagEndif/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/71872-58-endifs-collection-khazix-fiora-thresh-etc/",
+          "ScriptVotes": ""
         }
     ],
     "Poppy": [
@@ -3406,6 +3506,16 @@
            "ScriptInstallLink": "ls://project/Soresu/LeagueSharp/UnderratedAIO/UnderratedAIO/",
            "ScriptGithubLink": "https://github.com/Soresu/LeagueSharp",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/8093-underrated-champions-aio/"
+        },
+        {
+          "ScriptName": "Endifs Collection",
+          "ScripterName": "Endif",
+          "ChampionID": 83,
+          "ChampionName": "Sejuani",
+          "ScriptInstallLink": "ls://project/HashtagEndif/LeagueSharp/Sejuani/",
+          "ScriptGithubLink": "https://github.com/HashtagEndif/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/71872-58-endifs-collection-khazix-fiora-thresh-etc/",
+          "ScriptVotes": ""
         }
     ],
     "Shaco": [
@@ -3612,6 +3722,16 @@
            "ScriptInstallLink": "ls://project/princer007/LSResurrected/RoyalSongOfSona/",
            "ScriptGithubLink": "https://github.com/princer007/LSResurrected",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/8643-royal-song-of-sona/"
+        },
+        {
+          "ScriptName": "Endifs Collection",
+          "ScripterName": "Endif",
+          "ChampionID": 91,
+          "ChampionName": "Sona",
+          "ScriptInstallLink": "ls://project/HashtagEndif/LeagueSharp/Sona/",
+          "ScriptGithubLink": "https://github.com/HashtagEndif/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/71872-58-endifs-collection-khazix-fiora-thresh-etc/",
+          "ScriptVotes": ""
         }
     ],
     "Soraka": [
@@ -3813,6 +3933,16 @@
            "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
            "ScriptGithubLink": "https://github.com/legacy3/Marksman",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/977-marksman/"
+        },
+        {
+          "ScriptName": "Endifs Collection",
+          "ScripterName": "Endif",
+          "ChampionID": 97,
+          "ChampionName": "Teemo",
+          "ScriptInstallLink": "ls://project/HashtagEndif/LeagueSharp/Teemo/",
+          "ScriptGithubLink": "https://github.com/HashtagEndif/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/71872-58-endifs-collection-khazix-fiora-thresh-etc/",
+          "ScriptVotes": ""
         }
     ],
     "Thresh": [
@@ -3869,6 +3999,16 @@
            "ScriptInstallLink": "ls://project/SwipeDan/LeagueSharp/Thresh%20-%20The%20Chain%20Warden",
            "ScriptGithubLink": "https://github.com/SwipeDan/LeagueSharp/tree/master/Thresh%20-%20The%20Chain%20Warden",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/63829-57thresh-the-chain-warden-nice-q-prediction-interrupter-flash-hook-anti-gapcloser-lantern/"
+        },
+        {
+          "ScriptName": "Endifs Collection",
+          "ScripterName": "Endif",
+          "ChampionID": 98,
+          "ChampionName": "Thresh",
+          "ScriptInstallLink": "ls://project/HashtagEndif/LeagueSharp/Thresh/",
+          "ScriptGithubLink": "https://github.com/HashtagEndif/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/71872-58-endifs-collection-khazix-fiora-thresh-etc/",
+          "ScriptVotes": ""
         }
     ],
     "Tristana": [
@@ -4001,6 +4141,16 @@
            "ScriptInstallLink": "ls://project/mrarticuno/Mechanics-StackOverflow/tree/master/Stack%20Overflow",
            "ScriptGithubLink": "https://github.com/mrarticuno/Mechanics-StackOverflow",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/17359-fatal-error-fixed-mechanics-stackoverflow/"
+        },
+        {
+          "ScriptName": "Endifs Collection",
+          "ScripterName": "Endif",
+          "ChampionID": 101,
+          "ChampionName": "Tryndamere",
+          "ScriptInstallLink": "ls://project/HashtagEndif/LeagueSharp/Tryndamere/",
+          "ScriptGithubLink": "https://github.com/HashtagEndif/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/71872-58-endifs-collection-khazix-fiora-thresh-etc/",
+          "ScriptVotes": ""
         }
     ],
     "TwistedFate": [
@@ -4153,6 +4303,16 @@
            "ScriptInstallLink": "ls://project/legacy3/Marksman/Marksman/",
            "ScriptGithubLink": "https://github.com/legacy3/Marksman",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/977-marksman/"
+        },
+        {
+          "ScriptName": "Endifs Collection",
+          "ScripterName": "Endif",
+          "ChampionID": 105,
+          "ChampionName": "Urgot",
+          "ScriptInstallLink": "ls://project/HashtagEndif/LeagueSharp/Urgot/",
+          "ScriptGithubLink": "https://github.com/HashtagEndif/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/71872-58-endifs-collection-khazix-fiora-thresh-etc/",
+          "ScriptVotes": ""
         }
     ],
     "Varus": [
@@ -4307,6 +4467,16 @@
            "ScriptInstallLink": "ls://project/xQxCPMxQx/LeagueSharp2/Vi/",
            "ScriptGithubLink": "https://github.com/xQxCPMxQx/LeagueSharp2",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/198-xqx-vi-god-tier-version/"
+        },
+        {
+          "ScriptName": "Endifs Collection",
+          "ScripterName": "Endif",
+          "ChampionID": 110,
+          "ChampionName": "Vi",
+          "ScriptInstallLink": "ls://project/HashtagEndif/LeagueSharp/Vi/",
+          "ScriptGithubLink": "https://github.com/HashtagEndif/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/71872-58-endifs-collection-khazix-fiora-thresh-etc/",
+          "ScriptVotes": ""
         }
     ],
     "Viktor": [
@@ -4412,6 +4582,16 @@
            "ScriptInstallLink": "ls://project/TheKushStyle/LeagueSharp/StonedVolibear/",
            "ScriptGithubLink": "https://github.com/TheKushStyle/LeagueSharp",
            "ScriptForumLink": "https://www.joduska.me/forum/topic/82-updated-56-thekushstyles-stoned-series-aioadded-akali/"
+        },
+        {
+          "ScriptName": "Endifs Collection",
+          "ScripterName": "Endif",
+          "ChampionID": 112,
+          "ChampionName": "Volibear",
+          "ScriptInstallLink": "ls://project/HashtagEndif/LeagueSharp/Volibear/",
+          "ScriptGithubLink": "https://github.com/HashtagEndif/LeagueSharp",
+          "ScriptForumLink": "https://www.joduska.me/forum/topic/71872-58-endifs-collection-khazix-fiora-thresh-etc/",
+          "ScriptVotes": ""
         }
     ],
     "Warwick": [
